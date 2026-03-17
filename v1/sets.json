@@ -1,0 +1,41 @@
+[
+  {
+    "label": "부스터팩",
+    "sets": [
+      { "value": "CT-P01", "label": "탐정들의 조커" },
+      { "value": "CT-P02", "label": "서와 동의 대결전" },
+      { "value": "CT-P03", "label": "검은 그림자의 습격" },
+      { "value": "CT-P04", "label": "신의의 그림자" },
+      { "value": "CT-P05", "label": "새로운 수수께끼" },
+      { "value": "CT-P06", "label": "교차하는 칼날" },
+      { "value": "CT-P07", "label": "매혹의 매직" },
+      { "value": "CT-P08", "label": "애색의 숙명" }
+    ]
+  },
+  {
+    "label": "스타터덱",
+    "sets": [
+      { "value": "CT-D01", "label": "에도가와 코난" },
+      { "value": "CT-D02", "label": "핫토리 헤이지" },
+      { "value": "CT-D03", "label": "괴도 키드" },
+      { "value": "CT-D04", "label": "아카이 슈이치" },
+      { "value": "CT-D05", "label": "아무로 토오루" }
+    ]
+  },
+  {
+    "label": "테마덱",
+    "sets": [
+      { "value": "CT-D06", "label": "헤이지 VS 키드" },
+      { "value": "CT-D07", "label": "검은 조직" },
+      { "value": "CT-D08", "label": "푸른 고성 탐색 사건" },
+      { "value": "CT-D09", "label": "사망의 관 붉은 벽" },
+      { "value": "CT-D10", "label": "셔플 로맨스" }
+    ]
+  },
+  {
+    "label": "프로모",
+    "sets": [
+      { "value": "PR", "label": "PR" }
+    ]
+  }
+]
