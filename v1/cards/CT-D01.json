@@ -1,0 +1,472 @@
+[
+  {
+    "id": "D01001",
+    "setId": "CT-D01",
+    "name": {
+      "ja": "江戸川コナン",
+      "ko": ""
+    },
+    "cardType": "partner",
+    "colors": [
+      "blue"
+    ],
+    "rarity": "D",
+    "cost": 0,
+    "abilities": [],
+    "imageId": "1714013100391822",
+    "restrictedCount": 3,
+    "lp": 1
+  },
+  {
+    "id": "D01002",
+    "setId": "CT-D01",
+    "name": {
+      "ja": "江戸川コナン",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "blue"
+    ],
+    "rarity": "D",
+    "cost": 7,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【パートナー青】〚迅速〛（登場したターンからすぐに推理かアクションできる）",
+        "textKo": "[파트너 (청)] 신속 (등장한 턴부터 바로 추리나 액션을 할 수 있다.)"
+      }
+    ],
+    "imageId": "1714013100396860",
+    "restrictedCount": 3,
+    "ap": 6000,
+    "lp": 1,
+    "traitsJa": [
+      "探偵",
+      "毛利探偵事務所",
+      "少年探偵団"
+    ]
+  },
+  {
+    "id": "D01003",
+    "setId": "CT-D01",
+    "name": {
+      "ja": "江戸川コナン",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "blue"
+    ],
+    "rarity": "D",
+    "cost": 4,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【宣言】【ターン1】〚このキャラ以外のキャラを1枚スリープさせる〛：カードを1枚引き、手札を1枚リムーブする。ターン終了時までこのキャラをLP＋1する。",
+        "textKo": "[선언] (턴 1) 이 캐릭터 이외의 캐릭터를 1장 슬립시킨다: 카드를 1장 뽑고, 패에서 1장 리무브한다. 턴 종료시까지 이 캐릭터를 LP +1한다."
+      },
+      {
+        "type": "keyword",
+        "keyword": "ヒラメキ",
+        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。",
+        "textKo": "(증거에서 리무브될 때 발동한다)카드를 1장 뽑는다.",
+        "keywordKo": "히라메키"
+      }
+    ],
+    "imageId": "1714013100399303",
+    "restrictedCount": 3,
+    "ap": 4000,
+    "lp": 1,
+    "traitsJa": [
+      "探偵",
+      "毛利探偵事務所",
+      "少年探偵団"
+    ]
+  },
+  {
+    "id": "D01004",
+    "setId": "CT-D01",
+    "name": {
+      "ja": "工藤新一",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "blue"
+    ],
+    "rarity": "D",
+    "cost": 8,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【パートナー青】【登場時】手札を1枚リムーブしてもよい。そうした場合、AP8000以下のキャラを1枚まで選び、リムーブする。",
+        "textKo": "[파트너 (청)] [등장시] 패를 1장 리무브할 수 있다. 그렇게 할 경우 AP8000 이하의 캐릭터 1장까지 선택해 리무브한다."
+      }
+    ],
+    "imageId": "1714013100402068",
+    "restrictedCount": 3,
+    "ap": 7000,
+    "lp": 2,
+    "traitsJa": [
+      "探偵",
+      "高校生"
+    ]
+  },
+  {
+    "id": "D01005",
+    "setId": "CT-D01",
+    "name": {
+      "ja": "毛利小五郎",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "blue"
+    ],
+    "rarity": "D",
+    "cost": 5,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【パートナー青】〚突撃〛（登場したターンからすぐにアクションできる）",
+        "textKo": "[파트너 (청)] 돌격 (등장한 턴부터 바로 액션할 수 있다.)"
+      }
+    ],
+    "imageId": "1714013100404259",
+    "restrictedCount": 3,
+    "ap": 5000,
+    "lp": 0,
+    "traitsJa": [
+      "探偵",
+      "毛利探偵事務所"
+    ]
+  },
+  {
+    "id": "D01006",
+    "setId": "CT-D01",
+    "name": {
+      "ja": "毛利蘭",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "blue"
+    ],
+    "rarity": "D",
+    "cost": 6,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【宣言】【ターン1】キャラを1枚まで選び、ターン終了時までAP＋1000する。 【登場時】キャラを1枚まで選び、ターン終了時までAP＋1000する。  ",
+        "textKo": "[선언] (턴 1) 캐릭터를 1장까지 선택해, 턴종료시까지 AP +1000한다.\n[등장시] 캐릭터를 1장까지 선택해, 턴종료시까지 AP +1000한다."
+      },
+      {
+        "type": "keyword",
+        "keyword": "ヒラメキ",
+        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。",
+        "textKo": "(증거에서 리무브될 때 발동한다)카드를 1장 뽑는다.",
+        "keywordKo": "히라메키"
+      }
+    ],
+    "imageId": "1714013100407346",
+    "restrictedCount": 3,
+    "ap": 6000,
+    "lp": 0,
+    "traitsJa": [
+      "高校生",
+      "毛利探偵事務所",
+      "空手家"
+    ]
+  },
+  {
+    "id": "D01007",
+    "setId": "CT-D01",
+    "name": {
+      "ja": "毛利蘭",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "blue"
+    ],
+    "rarity": "D",
+    "cost": 3,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "textJa": "【カットイン】AP＋2000（コンタクト中に手札からリムーブして使う）",
+        "textKo": "AP+2000(콘택트 중에 손패에서 리무브해서 사용한다)",
+        "keywordKo": "컷트인"
+      }
+    ],
+    "imageId": "1714013100410541",
+    "restrictedCount": 3,
+    "ap": 2000,
+    "lp": 1,
+    "traitsJa": [
+      "高校生",
+      "毛利探偵事務所",
+      "空手家"
+    ]
+  },
+  {
+    "id": "D01008",
+    "setId": "CT-D01",
+    "name": {
+      "ja": "阿笠博士",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "blue"
+    ],
+    "rarity": "D",
+    "cost": 6,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【登場時】手札からレベル4以下の〚特徴［少年探偵団］〛のキャラを1枚までスリープ状態で登場させてもよい。登場させなかった場合、キャラを1枚まで選び、ターン終了時までAP＋1000する。",
+        "textKo": "[등장시] 패에서 레벨 4이하의 특징 [소년탐정단]의 캐릭터를 1장까지 슬립 상태로 등장시킬 수 있다. 등장시키지 않았을 경우, 캐릭터를 1장까지 선택해, 턴 종료시까지 AP +1000 한다."
+      }
+    ],
+    "imageId": "1714013100412929",
+    "restrictedCount": 3,
+    "ap": 5000,
+    "lp": 1,
+    "traitsJa": [
+      "発明家"
+    ]
+  },
+  {
+    "id": "D01009",
+    "setId": "CT-D01",
+    "name": {
+      "ja": "吉田歩美",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "blue"
+    ],
+    "rarity": "D",
+    "cost": 4,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "textJa": "【カットイン】AP＋1000（コンタクト中に手札からリムーブして使う）",
+        "textKo": "AP+1000(콘택트 중에 손패에서 리무브해서 사용한다)",
+        "keywordKo": "컷트인"
+      }
+    ],
+    "imageId": "1714013100415361",
+    "restrictedCount": 3,
+    "ap": 4000,
+    "lp": 1,
+    "traitsJa": [
+      "少年探偵団"
+    ]
+  },
+  {
+    "id": "D01010",
+    "setId": "CT-D01",
+    "name": {
+      "ja": "円谷光彦",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "blue"
+    ],
+    "rarity": "D",
+    "cost": 3,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "〚ミスリード1〛（相手の推理に対し、スリープさせることでLP－1する）",
+        "textKo": "미스리드 1 (상대의 추리에 대해서, 슬립시키는 것으로 LP -1한다.)"
+      },
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "textJa": "【カットイン】AP＋1000（コンタクト中に手札からリムーブして使う）",
+        "textKo": "AP+1000(콘택트 중에 손패에서 리무브해서 사용한다)",
+        "keywordKo": "컷트인"
+      }
+    ],
+    "imageId": "1714013100418997",
+    "restrictedCount": 3,
+    "ap": 2000,
+    "lp": 1,
+    "traitsJa": [
+      "少年探偵団"
+    ]
+  },
+  {
+    "id": "D01011",
+    "setId": "CT-D01",
+    "name": {
+      "ja": "小嶋元太",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "blue"
+    ],
+    "rarity": "D",
+    "cost": 2,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "textJa": "【カットイン】AP＋2000（コンタクト中に手札からリムーブして使う）",
+        "textKo": "AP+2000(콘택트 중에 손패에서 리무브해서 사용한다)",
+        "keywordKo": "컷트인"
+      }
+    ],
+    "imageId": "1714013100421891",
+    "restrictedCount": 3,
+    "ap": 1000,
+    "lp": 1,
+    "traitsJa": [
+      "少年探偵団"
+    ]
+  },
+  {
+    "id": "D01012",
+    "setId": "CT-D01",
+    "name": {
+      "ja": "灰原哀",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "blue"
+    ],
+    "rarity": "D",
+    "cost": 5,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【相手ターン中】【現場リムーブ時】自分のデッキのカードを上から3枚見る。その中からレベル4以下の【青】のキャラを1枚までスリープ状態で登場させ、残りを好きな順番でデッキの下に移す。",
+        "textKo": "[상대의 턴 중] [현장 리무브시] 자신의 덱의 카드를 위에서부터 3장 본다. 그 중에서 레벨 4이하의 청색 캐릭터 1장까지 슬립 상태로 등장시키고, 나머지를 원하는 순서로 덱 아래에 둔다."
+      },
+      {
+        "type": "keyword",
+        "keyword": "ヒラメキ",
+        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）キャラを1枚まで選び、スリープさせる。",
+        "textKo": "(증거에서 리무브될 때 발동한다)캐릭터를 1장까지 고르고,슬립시킨다.",
+        "keywordKo": "히라메키"
+      }
+    ],
+    "imageId": "1714013100425120",
+    "restrictedCount": 3,
+    "ap": 5000,
+    "lp": 1,
+    "traitsJa": [
+      "少年探偵団",
+      "科学者"
+    ]
+  },
+  {
+    "id": "D01013",
+    "setId": "CT-D01",
+    "name": {
+      "ja": "灰原哀",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "blue"
+    ],
+    "rarity": "D",
+    "cost": 4,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【登場時】自分のデッキのカードを上から4枚見る。その中から【青】のカードを1枚まで公開して手札に加え、残りを好きな順番でデッキの下に移す。カードを手札に加えた場合、手札を1枚リムーブする。",
+        "textKo": "[등장시] 자신의 덱의 카드를 위에서부터 4장 본다. 그 중에서 청색 카드를 1장까지 공개해 패에 추가하고 나머지를 원하는 순서로 덱 아래에 둔다. 카드를 패에 추가했을 경우, 패를 1장 리무브 한다."
+      },
+      {
+        "type": "keyword",
+        "keyword": "ヒラメキ",
+        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。",
+        "textKo": "(증거에서 리무브될 때 발동한다)카드를 1장 뽑는다.",
+        "keywordKo": "히라메키"
+      }
+    ],
+    "imageId": "1714013100428676",
+    "restrictedCount": 3,
+    "ap": 4000,
+    "lp": 1,
+    "traitsJa": [
+      "少年探偵団",
+      "科学者"
+    ]
+  },
+  {
+    "id": "D01014",
+    "setId": "CT-D01",
+    "name": {
+      "ja": "小さくなった名探偵",
+      "ko": ""
+    },
+    "cardType": "event",
+    "colors": [
+      "blue"
+    ],
+    "rarity": "D",
+    "cost": 1,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "自分のデッキのカードを上から3枚見る。その中から【青】のキャラを1枚まで公開して手札に加え、残りを好きな順番でデッキの下に移す。手札から自分のFILEエリアの枚数以下のレベルの【青】のキャラを1枚まで登場させる。",
+        "textKo": "자신의 덱의 카드를 위에서부터 3장 본다. 그 중에서 청색 캐릭터를 1장까지 공개해 패에 추가하고 나머지를 원하는 순서로 덱 아래에 둔다. 패에서 자신의 FILE 에리어 개수 이하의 레벨인 청색 캐릭터를 1장까지 등장시킨다."
+      }
+    ],
+    "imageId": "1714013100431408",
+    "restrictedCount": 3
+  },
+  {
+    "id": "D01015",
+    "setId": "CT-D01",
+    "name": {
+      "ja": "蘭の一撃",
+      "ko": ""
+    },
+    "cardType": "event",
+    "colors": [
+      "blue"
+    ],
+    "rarity": "D",
+    "cost": 5,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【パートナー青】（パートナーが条件を満たしている場合、この能力か効果を使える）AP8000以下のキャラを1枚まで選び、リムーブする。",
+        "textKo": "[파트너 (청)] (파트너가 조건을 만족하는 경우, 이 능력이나 효과를 사용할 수 있다.) AP 8000이하의 캐릭터를 1장까지 선택해 리무브한다."
+      }
+    ],
+    "imageId": "1714013100434344",
+    "restrictedCount": 3
+  },
+  {
+    "id": "D01016",
+    "setId": "CT-D01",
+    "name": {
+      "ja": "ピアノソナタ「月光」殺人事件",
+      "ko": ""
+    },
+    "cardType": "case",
+    "colors": [
+      "blue"
+    ],
+    "rarity": "D",
+    "cost": 0,
+    "abilities": [],
+    "imageId": "1714013100437938",
+    "restrictedCount": 3
+  }
+]

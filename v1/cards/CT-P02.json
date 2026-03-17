@@ -1,0 +1,3928 @@
+[
+  {
+    "id": "B02001",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "江戸川コナン",
+      "ko": ""
+    },
+    "cardType": "partner",
+    "colors": [
+      "blue"
+    ],
+    "rarity": "C",
+    "cost": 0,
+    "abilities": [],
+    "imageId": "1721357158802699",
+    "restrictedCount": 3,
+    "lp": 1
+  },
+  {
+    "id": "B02001P",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "江戸川コナン",
+      "ko": ""
+    },
+    "cardType": "partner",
+    "colors": [
+      "blue"
+    ],
+    "rarity": "CP",
+    "cost": 0,
+    "abilities": [],
+    "imageId": "1721357158809274",
+    "restrictedCount": 3,
+    "lp": 1
+  },
+  {
+    "id": "B02002",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "江戸川コナン",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "blue"
+    ],
+    "rarity": "SR",
+    "cost": 7,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【登場時】自分の現場にレベル7以上の【青】以外の色を持つキャラがいる場合、ターン終了時までこのキャラは〚突撃〛（登場したターンからすぐにアクションできる）を持つ。 【ターン1】このキャラがアクションしたとき、自分の現場にいる【青】以外の色を持つキャラ1枚につき、アクション終了時までこのキャラをAP＋1000する。",
+        "textKo": "[등장시]: 자신의 현장에 레벨7이상의 청색 이외의 색을 가진 캐릭터가 있을 경우, 턴 종료시까지 이 카드는 돌격(등장한 턴부터 바로 액션할 수 있다.)을 얻는다.\n[턴1]: 이 캐릭터가 액션했을 때, 자신의 현장에 있는 청색 이외의 색을 가진 캐릭터를 1장당, 액션 종료시까지 이 캐릭터를 AP+1000 한다."
+      }
+    ],
+    "imageId": "1721357158812078",
+    "restrictedCount": 3,
+    "ap": 5000,
+    "lp": 2,
+    "traitsJa": [
+      "探偵",
+      "毛利探偵事務所",
+      "少年探偵団"
+    ]
+  },
+  {
+    "id": "B02003",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "工藤新一",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "blue"
+    ],
+    "rarity": "SR",
+    "cost": 8,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【パートナー青】【登場時】レベル7以下のキャラを1枚まで選び、デッキの下に移す。 【宣言】【ターン1】〚カード名［毛利蘭］〛のキャラを1枚まで選び、ターン終了時までLP＋1する。",
+        "textKo": "[파트너 (청)][등장시]: 레벨 7이하의 캐릭터를 1장까지 선택해, 덱의 아래에 둔다.\n[선언][턴1]: 카드명 [모리 란]인 캐릭터를 1장까지 선택해 턴 종료시까지 LP+1한다."
+      }
+    ],
+    "imageId": "1721357158815837",
+    "restrictedCount": 3,
+    "ap": 7000,
+    "lp": 2,
+    "traitsJa": [
+      "探偵",
+      "高校生"
+    ]
+  },
+  {
+    "id": "B02003P",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "工藤新一",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "blue"
+    ],
+    "rarity": "SRP",
+    "cost": 8,
+    "abilities": [],
+    "imageId": "1721357158819164",
+    "restrictedCount": 3,
+    "ap": 7000,
+    "lp": 2,
+    "traitsJa": [
+      "探偵",
+      "高校生"
+    ]
+  },
+  {
+    "id": "B02004",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "毛利蘭",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "blue"
+    ],
+    "rarity": "R",
+    "cost": 6,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【絆工藤新一】【ターン1】このキャラが推理かアクションしたとき、自分のリムーブエリアにあるレベル5以下の〚カード名［妃英理］〛かレベル5以下の〚特徴［毛利探偵事務所］〛のキャラを1枚まで選び、登場させる。 【相手ターン中】【現場リムーブ時】自分のリムーブエリアにある〚カード名［工藤新一］〛を1枚まで選び、手札に加える。",
+        "textKo": "[인연 (쿠도 신이치)][턴1]: 이 캐릭터가 추리나 액션했을때, 자신의 리무브 에리어에 있는 레벨5이하의 카드명 [키사키 에리]나 레벨5 이하의 특징 [모리탐정사무소]의 캐릭터를 1장까지 선택해, 등장시킨다.\n[상대의 턴 중][현장 리무브시]: 자신의 리무브 에리어에 있는 카드명 [쿠도 신이치]를 1장까지 선택해, 패에 추가한다."
+      }
+    ],
+    "imageId": "1721357158822894",
+    "restrictedCount": 3,
+    "ap": 6000,
+    "lp": 0,
+    "traitsJa": [
+      "高校生",
+      "毛利探偵事務所",
+      "空手家"
+    ]
+  },
+  {
+    "id": "B02004P",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "毛利蘭",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "blue"
+    ],
+    "rarity": "RP",
+    "cost": 6,
+    "abilities": [],
+    "imageId": "1721357158825617",
+    "restrictedCount": 3,
+    "ap": 6000,
+    "lp": 0,
+    "traitsJa": [
+      "高校生",
+      "毛利探偵事務所",
+      "空手家"
+    ]
+  },
+  {
+    "id": "B02005",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "沖野ヨーコ",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "blue"
+    ],
+    "rarity": "R",
+    "cost": 5,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【宣言】【ターン1】自分の現場にいる〚カード名［毛利小五郎］〛を1枚まで選び、ターン終了時までAP＋2000し、〚突撃〛（登場したターンからすぐにアクションできる）を与える。",
+        "textKo": "[선언][턴1] 자신의 현장에 있는 카드명 [모리 코고로]를 1장까지 선택해, 턴 종료시까지 AP+2000하고, 돌격(등장한 턴부터 바로 액션할 수 있다.)를 준다."
+      }
+    ],
+    "imageId": "1721357158829438",
+    "restrictedCount": 3,
+    "ap": 4000,
+    "lp": 1,
+    "traitsJa": [
+      "アイドル"
+    ]
+  },
+  {
+    "id": "B02005P",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "沖野ヨーコ",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "blue"
+    ],
+    "rarity": "RP",
+    "cost": 5,
+    "abilities": [],
+    "imageId": "1721357158832647",
+    "restrictedCount": 3,
+    "ap": 4000,
+    "lp": 1,
+    "traitsJa": [
+      "アイドル"
+    ]
+  },
+  {
+    "id": "B02006",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "仮面ヤイバー",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "blue"
+    ],
+    "rarity": "R",
+    "cost": 5,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "textJa": "【カットイン】AP＋1000、レベル5以下の〚特徴［少年探偵団］〛のキャラに【カットイン】する場合、代わりにAP＋3000（コンタクト中に手札からリムーブして使う）",
+        "textKo": "AP+1000、레벨 5이하의 특징[소년탐정단]의 캐릭터에 컷트인 할 경우,대신 AP+3000(콘택트 중에 손패에서 리무브해서 사용한다)",
+        "keywordKo": "컷트인"
+      },
+      {
+        "type": "keyword",
+        "keyword": "ヒラメキ",
+        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）自分の現場に〚特徴［少年探偵団］〛のキャラがいる場合、カードを2枚引く。",
+        "textKo": "(증거에서 리무브될 때 발동한다)자신의 현장에 특징[소년탐정단]의 캐릭터가 있을 경우,카드를 2장 뽑는다.",
+        "keywordKo": "히라메키"
+      }
+    ],
+    "imageId": "1721357158835505",
+    "restrictedCount": 3,
+    "ap": 5000,
+    "lp": 0,
+    "traitsJa": [
+      "ヒーロー"
+    ]
+  },
+  {
+    "id": "B02006P",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "仮面ヤイバー",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "blue"
+    ],
+    "rarity": "RP",
+    "cost": 5,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "textJa": "【カットイン】AP＋1000、レベル5以下の〚特徴［少年探偵団］〛のキャラに【カットイン】する場合、代わりにAP＋3000（コンタクト中に手札からリムーブして使う）",
+        "textKo": "AP+1000、레벨 5이하의 특징[소년탐정단]의 캐릭터에 컷트인 할 경우,대신 AP+3000(콘택트 중에 손패에서 리무브해서 사용한다)",
+        "keywordKo": "컷트인"
+      },
+      {
+        "type": "keyword",
+        "keyword": "ヒラメキ",
+        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）自分の現場に〚特徴［少年探偵団］〛のキャラがいる場合、カードを2枚引く。",
+        "textKo": "(증거에서 리무브될 때 발동한다)자신의 현장에 특징[소년탐정단]의 캐릭터가 있을 경우,카드를 2장 뽑는다.",
+        "keywordKo": "히라메키"
+      }
+    ],
+    "imageId": "1721357158839417",
+    "restrictedCount": 3,
+    "ap": 5000,
+    "lp": 0,
+    "traitsJa": [
+      "ヒーロー"
+    ]
+  },
+  {
+    "id": "B02007",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "江戸川コナン",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "blue"
+    ],
+    "rarity": "C",
+    "cost": 3,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "textJa": "【カットイン】【自分ターン中】AP＋3000（自分のターンのコンタクト中に手札からリムーブして使う）",
+        "textKo": "[자신의 턴중]AP+3000(자신의 턴의 콘택트 중에 손패에서 리무브해서 사용한다)",
+        "keywordKo": "컷트인"
+      }
+    ],
+    "imageId": "1721357158842596",
+    "restrictedCount": 3,
+    "ap": 2000,
+    "lp": 1,
+    "traitsJa": [
+      "探偵",
+      "毛利探偵事務所",
+      "少年探偵団"
+    ]
+  },
+  {
+    "id": "B02008",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "阿笠博士",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "blue"
+    ],
+    "rarity": "C",
+    "cost": 5,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【ターン1】〚特徴［少年探偵団］〛のキャラが自分の現場に登場したとき、キャラを1枚まで選び、ターン終了時までAP－1000する。",
+        "textKo": "[턴1] 특징 [소년탐정단]의 캐릭터가 자신의 현장에 등장했을 때, 캐릭터를 1장까지 선택해, 턴 종료시까지 AP-1000한다."
+      },
+      {
+        "type": "keyword",
+        "keyword": "ヒラメキ",
+        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）自分のリムーブエリアにある〚特徴［少年探偵団］〛のキャラを1枚まで選び、手札に加える。",
+        "textKo": "(증거에서 리무브될 때 발동한다)자신의 리무브에리어에 있는 특징[소년탐정단]의 캐릭터를 1장까지 고르고,손패에 더한다.",
+        "keywordKo": "히라메키"
+      }
+    ],
+    "imageId": "1721357158845623",
+    "restrictedCount": 3,
+    "ap": 5000,
+    "lp": 1,
+    "traitsJa": [
+      "発明家"
+    ]
+  },
+  {
+    "id": "B02009",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "小林澄子",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "blue"
+    ],
+    "rarity": "C",
+    "cost": 4,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【登場時】〚特徴［少年探偵団］〛のキャラを1枚まで選び、ターン終了時までAP＋1000する。",
+        "textKo": "[등장시] 특징 [소년탐정단]의 캐릭터를 1장까지 선택해, 턴 종료시까지 AP+1000한다."
+      },
+      {
+        "type": "keyword",
+        "keyword": "ヒラメキ",
+        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）自分のリムーブエリアにある〚特徴［少年探偵団］〛のキャラを1枚まで選び、手札に加える。",
+        "textKo": "(증거에서 리무브될 때 발동한다)자신의 리무브에리어에 있는 특징[소년탐정단]의 캐릭터를 1장까지 고르고,손패에 더한다.",
+        "keywordKo": "히라메키"
+      }
+    ],
+    "imageId": "1721357158848036",
+    "restrictedCount": 3,
+    "ap": 4000,
+    "lp": 1,
+    "traitsJa": [
+      "教師"
+    ]
+  },
+  {
+    "id": "B02010",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "灰原哀",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "blue"
+    ],
+    "rarity": "C",
+    "cost": 6,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【宣言】【ターン1】【青】以外の色を持つキャラを1枚まで選び、ターン終了時までAP＋2000する。",
+        "textKo": "[선언][턴1] 청색 이외의 색을 가진 캐릭터를 1장까지 선택해, 턴 종료시까지 AP+2000 한다."
+      },
+      {
+        "type": "keyword",
+        "keyword": "ヒラメキ",
+        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。",
+        "textKo": "(증거에서 리무브될 때 발동한다)카드를 1장 뽑는다.",
+        "keywordKo": "히라메키"
+      }
+    ],
+    "imageId": "1721357158852508",
+    "restrictedCount": 3,
+    "ap": 5000,
+    "lp": 1,
+    "traitsJa": [
+      "少年探偵団",
+      "科学者"
+    ]
+  },
+  {
+    "id": "B02011",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "灰原哀",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "blue"
+    ],
+    "rarity": "C",
+    "cost": 2,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "textJa": "【カットイン】AP＋2000（コンタクト中に手札からリムーブして使う）",
+        "textKo": "AP+2000(콘택트 중에 손패에서 리무브해서 사용한다)",
+        "keywordKo": "컷트인"
+      }
+    ],
+    "imageId": "1721357158855919",
+    "restrictedCount": 3,
+    "ap": 1000,
+    "lp": 1,
+    "traitsJa": [
+      "少年探偵団",
+      "科学者"
+    ]
+  },
+  {
+    "id": "B02011P",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "灰原哀",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "blue"
+    ],
+    "rarity": "CP",
+    "cost": 2,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "textJa": "【カットイン】AP＋2000（コンタクト中に手札からリムーブして使う）",
+        "textKo": "AP+2000(콘택트 중에 손패에서 리무브해서 사용한다)",
+        "keywordKo": "컷트인"
+      }
+    ],
+    "imageId": "1721357158858604",
+    "restrictedCount": 3,
+    "ap": 1000,
+    "lp": 1,
+    "traitsJa": [
+      "少年探偵団",
+      "科学者"
+    ]
+  },
+  {
+    "id": "B02012",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "毛利小五郎",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "blue"
+    ],
+    "rarity": "C",
+    "cost": 7,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【自分ターン中】自分の現場にいるレベル5以下の【青】のキャラをAP＋1000する。 【ターン1】自分の現場にいる〚カード名［妃英理］〛か〚特徴［毛利探偵事務所］〛のキャラがアクションしたとき、カードを1枚引く。",
+        "textKo": "[자신의 턴 중] 자신의 현장에 있는 레벨5 이하의 청색 캐릭터를 AP+1000한다.\n[턴1] 자신의 현장에 있는 **[키사키에리]**나 **특징 [모리탐정사무소]**의 캐릭터가 액션했을 때, 카드를 1장 뽑는다."
+      }
+    ],
+    "imageId": "1721357158862925",
+    "restrictedCount": 3,
+    "ap": 6000,
+    "lp": 0,
+    "traitsJa": [
+      "探偵",
+      "毛利探偵事務所"
+    ]
+  },
+  {
+    "id": "B02013",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "ターボエンジン付きスケートボード",
+      "ko": ""
+    },
+    "cardType": "event",
+    "colors": [
+      "blue"
+    ],
+    "rarity": "C",
+    "cost": 4,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "このイベントを自分の現場にいるレベル7以下の【青】のキャラ1枚にセットする。 このイベントがセットされているキャラは〚突撃〛（登場したターンからすぐにアクションできる）を持つ。",
+        "textKo": "이 이벤트를 자신의 현장에 있는 레벨7 이하의 청색 캐릭터 1장에 세트한다. 이 이벤트가 세트되어있는 캐릭터는 돌격(등장한 턴부터 바로 액션할 수 있다)을 얻는다."
+      },
+      {
+        "type": "keyword",
+        "keyword": "ヒラメキ",
+        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）このカードを手札に加える。",
+        "textKo": "(증거에서 리무브될 때 발동한다)이 카드를 손패에 더한다.",
+        "keywordKo": "히라메키"
+      }
+    ],
+    "imageId": "1721357158865909",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "ガジェット"
+    ]
+  },
+  {
+    "id": "B02013P",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "ターボエンジン付きスケートボード",
+      "ko": ""
+    },
+    "cardType": "event",
+    "colors": [
+      "blue"
+    ],
+    "rarity": "CP",
+    "cost": 4,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "ヒラメキ",
+        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）このカードを手札に加える。",
+        "textKo": "(증거에서 리무브될 때 발동한다)이 카드를 손패에 더한다.",
+        "keywordKo": "히라메키"
+      }
+    ],
+    "imageId": "1721357158868518",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "ガジェット"
+    ]
+  },
+  {
+    "id": "B02014",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "少年探偵団の活躍",
+      "ko": ""
+    },
+    "cardType": "event",
+    "colors": [
+      "blue"
+    ],
+    "rarity": "C",
+    "cost": 4,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "自分の現場にいるレベル5以下の〚特徴［少年探偵団］〛のキャラを好きな数選び、ターン終了時まで〚突撃［事件］〛（登場したターンからすぐに事件を指定してアクションできる）と「このキャラがアクションしたとき、カードを1枚引く。」を与える。",
+        "textKo": "자신의 현장에 있는 레벨5 이하의 특징 [소년탐정단]의 캐릭터를 원하는만큼 고르고, 턴 종료 시까지 돌격[사건](등장한 턴부터 바로 사건을 지정해 액션할 수 있다)과 「이 캐릭터가 액션했을 때, 카드를 1장 뽑는다.」를 부여한다."
+      }
+    ],
+    "imageId": "1721357188579757",
+    "restrictedCount": 3
+  },
+  {
+    "id": "B02015",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "水色の想い出",
+      "ko": ""
+    },
+    "cardType": "case",
+    "colors": [
+      "blue"
+    ],
+    "rarity": "C",
+    "cost": 0,
+    "abilities": [],
+    "imageId": "1721357188585921",
+    "restrictedCount": 3
+  },
+  {
+    "id": "B02015P",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "水色の想い出",
+      "ko": ""
+    },
+    "cardType": "case",
+    "colors": [
+      "blue"
+    ],
+    "rarity": "CP",
+    "cost": 0,
+    "abilities": [],
+    "imageId": "1721357188588013",
+    "restrictedCount": 3
+  },
+  {
+    "id": "B02016",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "服部平次",
+      "ko": ""
+    },
+    "cardType": "partner",
+    "colors": [
+      "green"
+    ],
+    "rarity": "C",
+    "cost": 0,
+    "abilities": [],
+    "imageId": "1721357188592267",
+    "restrictedCount": 3,
+    "lp": 1
+  },
+  {
+    "id": "B02016P",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "服部平次",
+      "ko": ""
+    },
+    "cardType": "partner",
+    "colors": [
+      "green"
+    ],
+    "rarity": "CP",
+    "cost": 0,
+    "abilities": [],
+    "imageId": "1721357188595551",
+    "restrictedCount": 3,
+    "lp": 1
+  },
+  {
+    "id": "B02016Sec1",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "服部平次",
+      "ko": ""
+    },
+    "cardType": "partner",
+    "colors": [
+      "green"
+    ],
+    "rarity": "SEC",
+    "cost": 0,
+    "abilities": [],
+    "imageId": "19444a9e764d5",
+    "restrictedCount": 3,
+    "lp": 1
+  },
+  {
+    "id": "B02016Sec2",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "服部平次",
+      "ko": ""
+    },
+    "cardType": "partner",
+    "colors": [
+      "green"
+    ],
+    "rarity": "SEC",
+    "cost": 0,
+    "abilities": [],
+    "imageId": "19444a898943be",
+    "restrictedCount": 3,
+    "lp": 1
+  },
+  {
+    "id": "B02017",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "伊織無我",
+      "ko": ""
+    },
+    "cardType": "partner",
+    "colors": [
+      "green"
+    ],
+    "rarity": "C",
+    "cost": 0,
+    "abilities": [],
+    "imageId": "1721357188605252",
+    "restrictedCount": 3,
+    "lp": 1
+  },
+  {
+    "id": "B02017P",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "伊織無我",
+      "ko": ""
+    },
+    "cardType": "partner",
+    "colors": [
+      "green"
+    ],
+    "rarity": "CP",
+    "cost": 0,
+    "abilities": [],
+    "imageId": "1721357188609374",
+    "restrictedCount": 3,
+    "lp": 1
+  },
+  {
+    "id": "B02018",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "服部平次",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "green"
+    ],
+    "rarity": "SR",
+    "cost": 8,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【自分ターン中】【ターン2】このキャラにカード1枚がセットされるたび、このキャラをアクティブにするか、ターン終了時までこのキャラは〚突撃〛（登場したターンからすぐにアクションできる）を持つ。 【宣言】【ターン1】〚デッキのカードを上から3枚リムーブする〛：自分のデッキのカードを上から1枚裏向きでこのキャラにセットする。",
+        "textKo": "[자신의 턴 중][턴2] 이 캐릭터에 카드 1장이 세트될 때마다 이 캐릭터를 액티브하거나, 턴 종료 시까지 돌격(등장한 턴부터 바로 액션할 수 있다)를 얻는다.\n[선언][턴1] 덱의 카드를 위에서부터 3장 리무브한다 : 자신의 덱의 카드를 위에서부터 1장 뒷면으로 이 캐릭터에 세트한다."
+      }
+    ],
+    "imageId": "1721357188612017",
+    "restrictedCount": 3,
+    "ap": 8000,
+    "lp": 1,
+    "traitsJa": [
+      "探偵",
+      "高校生"
+    ]
+  },
+  {
+    "id": "B02018P",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "服部平次",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "green"
+    ],
+    "rarity": "SRP",
+    "cost": 8,
+    "abilities": [],
+    "imageId": "1721357188615979",
+    "restrictedCount": 3,
+    "ap": 8000,
+    "lp": 1,
+    "traitsJa": [
+      "探偵",
+      "高校生"
+    ]
+  },
+  {
+    "id": "B02019",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "伊織無我",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "green"
+    ],
+    "rarity": "SR",
+    "cost": 7,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【登場時】自分のデッキのカードを上から5枚見る。その中から【緑】のイベントを1枚まで公開して手札に加え、残りをシャッフルしてデッキの下に移す。 自分のターン終了時、カードがセットされているキャラを1枚まで選び、アクティブにする。",
+        "textKo": "[등장시] 자신의 덱의 카드를 위에서부터 5장 본다. 그 중에서 녹색의 이벤트를 1장까지 공개해 패에 추가하고, 나머지를 셔플해 덱의 아래에 둔다. 자신의 턴 종료 시, 카드가 세트되어있는 캐릭터를 1장까지 선택해 액티브한다."
+      }
+    ],
+    "imageId": "1721357188619080",
+    "restrictedCount": 3,
+    "ap": 6000,
+    "lp": 1,
+    "traitsJa": [
+      "執事"
+    ]
+  },
+  {
+    "id": "B02019P",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "伊織無我",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "green"
+    ],
+    "rarity": "SRP",
+    "cost": 7,
+    "abilities": [],
+    "imageId": "1721357188622408",
+    "restrictedCount": 3,
+    "ap": 6000,
+    "lp": 1,
+    "traitsJa": [
+      "執事"
+    ]
+  },
+  {
+    "id": "B02020",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "大岡紅葉",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "green"
+    ],
+    "rarity": "SR",
+    "cost": 6,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【自分ターン中】【ターン1】相手の現場にいるキャラにセットされているカードが現場から離れたとき、自分の現場にいるキャラを1枚まで選び、自分のデッキのカードを上から1枚裏向きでセットする。カードを1枚引く。 【登場時】相手の現場にいるキャラを1枚まで選び、相手のデッキのカードを上から1枚裏向きでセットする。",
+        "textKo": "[자신의 턴 중][턴1] 상대의 현장에 있는 캐릭터에 세트되어 있는 카드가 현장에서 벗어났을 때, 자신의 현장에 있는 캐릭터를 1장까지 고르고, 자신의 덱의 카드를 위에서부터 1장 뒷면으로 세트한다. 카드를 1장 뽑는다.\n[등장시] 상대의 현장에 있는 캐릭터를 1장까지 고르고, 상대의 덱의 카드를 위에서부터 1장 뒷면으로 세트한다."
+      }
+    ],
+    "imageId": "1721357188625094",
+    "restrictedCount": 3,
+    "ap": 5000,
+    "lp": 1,
+    "traitsJa": [
+      "高校生"
+    ]
+  },
+  {
+    "id": "B02020P",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "大岡紅葉",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "green"
+    ],
+    "rarity": "SRP",
+    "cost": 6,
+    "abilities": [],
+    "imageId": "1721357188629969",
+    "restrictedCount": 3,
+    "ap": 5000,
+    "lp": 1,
+    "traitsJa": [
+      "高校生"
+    ]
+  },
+  {
+    "id": "B02021",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "沖田総司",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "green"
+    ],
+    "rarity": "R",
+    "cost": 6,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【宣言】【ターン1】相手の現場にいるキャラを5枚まで選び、ターン終了時までAP－1000する。",
+        "textKo": "[선언][턴1] 상대의 현장에 있는 캐릭터를 5장까지 고르고, 턴 종료시까지 AP-1000한다."
+      },
+      {
+        "type": "keyword",
+        "keyword": "ヒラメキ",
+        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）キャラを1枚まで選び、スリープさせる。",
+        "textKo": "(증거에서 리무브될 때 발동한다)캐릭터를 1장까지 고르고,슬립시킨다.",
+        "keywordKo": "히라메키"
+      }
+    ],
+    "imageId": "1721357188632949",
+    "restrictedCount": 3,
+    "ap": 6000,
+    "lp": 0,
+    "traitsJa": [
+      "高校生"
+    ]
+  },
+  {
+    "id": "B02022",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "鬼丸猛",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "green"
+    ],
+    "rarity": "R",
+    "cost": 7,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "〚突撃［キャラ］〛（登場したターンからすぐにキャラを指定してアクションできる） 【ターン1】相手の現場にいるキャラがアクションするとき、このキャラを指定できる場合、必ず指定する。",
+        "textKo": "돌격[캐릭터] (등장한 턴부터 바로 캐릭터를 지정해 액션할 수 있다)\n[턴1] 상대의 현장에 있는 캐릭터가 액션할 때, 이 캐릭터를 지정할 수 있는 경우, 반드시 지정한다."
+      },
+      {
+        "type": "keyword",
+        "keyword": "ヒラメキ",
+        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。",
+        "textKo": "(증거에서 리무브될 때 발동한다)카드를 1장 뽑는다.",
+        "keywordKo": "히라메키"
+      }
+    ],
+    "imageId": "1721357188635287",
+    "restrictedCount": 3,
+    "ap": 6000,
+    "lp": 0,
+    "traitsJa": [
+      "高校生"
+    ]
+  },
+  {
+    "id": "B02022P",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "鬼丸猛",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "green"
+    ],
+    "rarity": "RP",
+    "cost": 7,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "ヒラメキ",
+        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。",
+        "textKo": "(증거에서 리무브될 때 발동한다)카드를 1장 뽑는다.",
+        "keywordKo": "히라메키"
+      }
+    ],
+    "imageId": "1721357188639168",
+    "restrictedCount": 3,
+    "ap": 6000,
+    "lp": 0,
+    "traitsJa": [
+      "高校生"
+    ]
+  },
+  {
+    "id": "B02023",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "遠山和葉",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "green"
+    ],
+    "rarity": "R",
+    "cost": 6,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【登場時】自分の現場にいるキャラを1枚まで選び、自分のデッキのカードを上から1枚裏向きでセットする。 【宣言】【ターン1】〚現場にいるキャラに裏向きでセットされているカードを1枚リムーブする〛：キャラを1枚まで選び、スリープさせる。",
+        "textKo": "[등장시] 자신의 현장에 있는 캐릭터를 1장까지 골라, 자신의 덱의 카드를 위에서 1장 뒷면으로 세트한다.\n[선언][턴1] 현장에 있는 캐릭터에 뒷면으로 세트되어 있는 카드를 1장 리무브한다 : 캐릭터를 1장까지 고르고, 슬립시킨다."
+      },
+      {
+        "type": "keyword",
+        "keyword": "ヒラメキ",
+        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）キャラを1枚まで選び、スリープさせる。",
+        "textKo": "(증거에서 리무브될 때 발동한다)캐릭터를 1장까지 고르고,슬립시킨다.",
+        "keywordKo": "히라메키"
+      }
+    ],
+    "imageId": "1721357188642110",
+    "restrictedCount": 3,
+    "ap": 5000,
+    "lp": 1,
+    "traitsJa": [
+      "高校生"
+    ]
+  },
+  {
+    "id": "B02024",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "服部平次",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "green"
+    ],
+    "rarity": "C",
+    "cost": 3,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "textJa": "【カットイン】【自分ターン中】AP＋3000（自分のターンのコンタクト中に手札からリムーブして使う）",
+        "textKo": "[자신의 턴중]AP+3000(자신의 턴의 콘택트 중에 손패에서 리무브해서 사용한다)",
+        "keywordKo": "컷트인"
+      }
+    ],
+    "imageId": "1721357188645086",
+    "restrictedCount": 3,
+    "ap": 2000,
+    "lp": 1,
+    "traitsJa": [
+      "探偵",
+      "高校生"
+    ]
+  },
+  {
+    "id": "B02024P",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "服部平次",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "green"
+    ],
+    "rarity": "CP",
+    "cost": 3,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "textJa": "【カットイン】【自分ターン中】AP＋3000（自分のターンのコンタクト中に手札からリムーブして使う）",
+        "textKo": "[자신의 턴중]AP+3000(자신의 턴의 콘택트 중에 손패에서 리무브해서 사용한다)",
+        "keywordKo": "컷트인"
+      }
+    ],
+    "imageId": "1721357210995545",
+    "restrictedCount": 3,
+    "ap": 2000,
+    "lp": 1,
+    "traitsJa": [
+      "探偵",
+      "高校生"
+    ]
+  },
+  {
+    "id": "B02025",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "遠山和葉",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "green"
+    ],
+    "rarity": "C",
+    "cost": 4,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【相手ターン中】【現場リムーブ時】自分のリムーブエリアにある【カットイン】を持つ【緑】のカードを1枚まで選び、手札に加える。",
+        "textKo": "[상대의 턴 중][현장 리무브시] 자신의 리무브 에리어에 있는 컷인을 가진 녹색 카드를 1장까지 골라 패에 추가한다."
+      },
+      {
+        "type": "keyword",
+        "keyword": "ヒラメキ",
+        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）自分のリムーブエリアにある【カットイン】を持つ【緑】のカードを1枚まで選び、手札に加える。",
+        "textKo": "(증거에서 리무브될 때 발동한다)자신의 리무브에리어에 있는 컷트인:를 가진 녹의 카드를 1장까지 고르고,손패에 더한다.",
+        "keywordKo": "히라메키"
+      }
+    ],
+    "imageId": "1721357211001401",
+    "restrictedCount": 3,
+    "ap": 3000,
+    "lp": 1,
+    "traitsJa": [
+      "高校生"
+    ]
+  },
+  {
+    "id": "B02025P",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "遠山和葉",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "green"
+    ],
+    "rarity": "CP",
+    "cost": 4,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "ヒラメキ",
+        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）自分のリムーブエリアにある【カットイン】を持つ【緑】のカードを1枚まで選び、手札に加える。",
+        "textKo": "(증거에서 리무브될 때 발동한다)자신의 리무브에리어에 있는 컷트인:를 가진 녹의 카드를 1장까지 고르고,손패에 더한다.",
+        "keywordKo": "히라메키"
+      }
+    ],
+    "imageId": "1721357211005056",
+    "restrictedCount": 3,
+    "ap": 3000,
+    "lp": 1,
+    "traitsJa": [
+      "高校生"
+    ]
+  },
+  {
+    "id": "B02026",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "綾小路文麿",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "green"
+    ],
+    "rarity": "C",
+    "cost": 5,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【ターン1】相手の現場にいるキャラがアクションしたとき、カードを1枚引く。",
+        "textKo": "[턴1] 상대의 현장에 있는 캐릭터가 액션했을 때, 카드를 1장 뽑는다"
+      },
+      {
+        "type": "keyword",
+        "keyword": "ヒラメキ",
+        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。",
+        "textKo": "(증거에서 리무브될 때 발동한다)카드를 1장 뽑는다.",
+        "keywordKo": "히라메키"
+      }
+    ],
+    "imageId": "1721357211008090",
+    "restrictedCount": 3,
+    "ap": 5000,
+    "lp": 1,
+    "traitsJa": [
+      "警察",
+      "京都府警"
+    ]
+  },
+  {
+    "id": "B02027",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "伊織無我",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "green"
+    ],
+    "rarity": "C",
+    "cost": 2,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "textJa": "【カットイン】AP＋2000（コンタクト中に手札からリムーブして使う）",
+        "textKo": "AP+2000(콘택트 중에 손패에서 리무브해서 사용한다)",
+        "keywordKo": "컷트인"
+      }
+    ],
+    "imageId": "1721357211011210",
+    "restrictedCount": 3,
+    "ap": 1000,
+    "lp": 1,
+    "traitsJa": [
+      "執事"
+    ]
+  },
+  {
+    "id": "B02028",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "大岡紅葉",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "green"
+    ],
+    "rarity": "C",
+    "cost": 3,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "textJa": "【カットイン】AP＋2000（コンタクト中に手札からリムーブして使う）",
+        "textKo": "AP+2000(콘택트 중에 손패에서 리무브해서 사용한다)",
+        "keywordKo": "컷트인"
+      }
+    ],
+    "imageId": "1721357211015049",
+    "restrictedCount": 3,
+    "ap": 2000,
+    "lp": 1,
+    "traitsJa": [
+      "高校生"
+    ]
+  },
+  {
+    "id": "B02029",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "沖田総司",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "green"
+    ],
+    "rarity": "C",
+    "cost": 4,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "textJa": "【カットイン】AP＋1000（コンタクト中に手札からリムーブして使う）",
+        "textKo": "AP+1000(콘택트 중에 손패에서 리무브해서 사용한다)",
+        "keywordKo": "컷트인"
+      }
+    ],
+    "imageId": "1721357211018774",
+    "restrictedCount": 3,
+    "ap": 5000,
+    "lp": 0,
+    "traitsJa": [
+      "高校生"
+    ]
+  },
+  {
+    "id": "B02029P",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "沖田総司",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "green"
+    ],
+    "rarity": "CP",
+    "cost": 4,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "textJa": "【カットイン】AP＋1000（コンタクト中に手札からリムーブして使う）",
+        "textKo": "AP+1000(콘택트 중에 손패에서 리무브해서 사용한다)",
+        "keywordKo": "컷트인"
+      }
+    ],
+    "imageId": "1721357211021776",
+    "restrictedCount": 3,
+    "ap": 5000,
+    "lp": 0,
+    "traitsJa": [
+      "高校生"
+    ]
+  },
+  {
+    "id": "B02030",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "服部平蔵",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "green"
+    ],
+    "rarity": "C",
+    "cost": 6,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "相手が【カットイン】を使用したとき、自分の現場にいるキャラにセットされているカードを合わせて2枚リムーブしてもよい。そうした場合、その【カットイン】の効果を無効にする。 【宣言】【ターン1】自分の現場にいるキャラを1枚まで選び、自分のデッキのカードを上から1枚裏向きでセットする。",
+        "textKo": "상대가 컷인을 사용했을 때, 자신의 현장에 있는 캐릭터에 세트되어 있는 카드를 합쳐서 2장 리무브해도 좋다. 그렇게 했을 경우, 그 컷인의 효과를 무효로 한다.\n[선언][턴1] 자신의 현장에 있는 캐릭터를 1장까지 골라 자신의 덱의 카드를 위에서부터 1장 뒷면으로 세트한다."
+      }
+    ],
+    "imageId": "1721357211024602",
+    "restrictedCount": 3,
+    "ap": 6000,
+    "lp": 1,
+    "traitsJa": [
+      "警察",
+      "大阪府警"
+    ]
+  },
+  {
+    "id": "B02031",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "平次のバイク",
+      "ko": ""
+    },
+    "cardType": "event",
+    "colors": [
+      "green"
+    ],
+    "rarity": "C",
+    "cost": 6,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "このイベントを自分の現場にいる【緑】の〚特徴［探偵］〛のキャラ1枚にセットする。 このイベントがセットされているキャラは〚突撃［キャラ］〛と「このキャラは相手の現場にいるアクティブ状態のキャラを指定してアクションできる。」を持つ。",
+        "textKo": "이 이벤트를 자신의 현장에 있는 녹색인 특징 [탐정] 캐릭터 1장에 세트한다. 이 이벤트가 세트되어 있는 캐릭터는 돌격[캐릭터]와 「이 캐릭터는 상대의 현장에 있는 액티브 상태의 캐릭터를 지정해 액션할 수 있다」를 얻는다."
+      },
+      {
+        "type": "keyword",
+        "keyword": "ヒラメキ",
+        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。",
+        "textKo": "(증거에서 리무브될 때 발동한다)카드를 1장 뽑는다.",
+        "keywordKo": "히라메키"
+      }
+    ],
+    "imageId": "1721357211028138",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "ガジェット"
+    ]
+  },
+  {
+    "id": "B02031P",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "平次のバイク",
+      "ko": ""
+    },
+    "cardType": "event",
+    "colors": [
+      "green"
+    ],
+    "rarity": "CP",
+    "cost": 6,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "ヒラメキ",
+        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。",
+        "textKo": "(증거에서 리무브될 때 발동한다)카드를 1장 뽑는다.",
+        "keywordKo": "히라메키"
+      }
+    ],
+    "imageId": "1721357211031413",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "ガジェット"
+    ]
+  },
+  {
+    "id": "B02032",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "「立てや坂田ァ!!」",
+      "ko": ""
+    },
+    "cardType": "event",
+    "colors": [
+      "green"
+    ],
+    "rarity": "C",
+    "cost": 5,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "このイベントは自分の事件が解決編で、自分の現場に〚カード名［服部平次］〛がいる場合に使用できる。 相手の現場にいるすべてのキャラをスリープさせる。",
+        "textKo": "이 이벤트는 자신의 사건이 해결편이고, 자신의 현장에 카드명[핫토리 헤이지]가 있을 경우 사용할 수 있다. 상대의 현장에 있는 모든 캐릭터를 슬립시킨다.\n\n\n❗️[히라메키] (증거에서 리무브되었을 때 발동한다) 캐릭터를 1장까지 고르고, 슬립시킨다."
+      }
+    ],
+    "imageId": "1721357211034778",
+    "restrictedCount": 3
+  },
+  {
+    "id": "B02033",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "死力を尽くして",
+      "ko": ""
+    },
+    "cardType": "event",
+    "colors": [
+      "green"
+    ],
+    "rarity": "C",
+    "cost": 5,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "自分の現場にいるキャラにセットされているカードを合わせて2枚リムーブしてもよい。そうした場合、キャラを1枚まで選び、リムーブする。",
+        "textKo": "자신의 현장에 있는 캐릭터에 세트되어 있는 카드를 합쳐서 2장까지 리무브해도 좋다. 그렇게 했을 경우 캐릭터를 1장까지 골라 리무브한다."
+      }
+    ],
+    "imageId": "1721357211037265",
+    "restrictedCount": 3
+  },
+  {
+    "id": "B02034",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "浪花の連続殺人事件",
+      "ko": ""
+    },
+    "cardType": "case",
+    "colors": [
+      "green"
+    ],
+    "rarity": "C",
+    "cost": 0,
+    "abilities": [],
+    "imageId": "1721357211041042",
+    "restrictedCount": 3
+  },
+  {
+    "id": "B02034P",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "浪花の連続殺人事件",
+      "ko": ""
+    },
+    "cardType": "case",
+    "colors": [
+      "green"
+    ],
+    "rarity": "CP",
+    "cost": 0,
+    "abilities": [],
+    "imageId": "1721357211044508",
+    "restrictedCount": 3
+  },
+  {
+    "id": "B02035",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "怪盗キッド",
+      "ko": ""
+    },
+    "cardType": "partner",
+    "colors": [
+      "white"
+    ],
+    "rarity": "C",
+    "cost": 0,
+    "abilities": [],
+    "imageId": "1721357211047679",
+    "restrictedCount": 3,
+    "lp": 1
+  },
+  {
+    "id": "B02035P",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "怪盗キッド",
+      "ko": ""
+    },
+    "cardType": "partner",
+    "colors": [
+      "white"
+    ],
+    "rarity": "CP",
+    "cost": 0,
+    "abilities": [],
+    "imageId": "1721357211050194",
+    "restrictedCount": 3,
+    "lp": 1
+  },
+  {
+    "id": "B02035Sec1",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "怪盗キッド",
+      "ko": ""
+    },
+    "cardType": "partner",
+    "colors": [
+      "white"
+    ],
+    "rarity": "SEC",
+    "cost": 0,
+    "abilities": [],
+    "imageId": "19444aaee99231",
+    "restrictedCount": 3,
+    "lp": 1
+  },
+  {
+    "id": "B02035Sec2",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "怪盗キッド",
+      "ko": ""
+    },
+    "cardType": "partner",
+    "colors": [
+      "white"
+    ],
+    "rarity": "SEC",
+    "cost": 0,
+    "abilities": [],
+    "imageId": "19444aaa5df2b",
+    "restrictedCount": 3,
+    "lp": 1
+  },
+  {
+    "id": "B02036",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "黒羽盗一",
+      "ko": ""
+    },
+    "cardType": "partner",
+    "colors": [
+      "white"
+    ],
+    "rarity": "C",
+    "cost": 0,
+    "abilities": [],
+    "imageId": "1721357211060675",
+    "restrictedCount": 3,
+    "lp": 1
+  },
+  {
+    "id": "B02036P",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "黒羽盗一",
+      "ko": ""
+    },
+    "cardType": "partner",
+    "colors": [
+      "white"
+    ],
+    "rarity": "CP",
+    "cost": 0,
+    "abilities": [],
+    "imageId": "1721357230932350",
+    "restrictedCount": 3,
+    "lp": 1
+  },
+  {
+    "id": "B02037",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "工藤優作",
+      "ko": ""
+    },
+    "cardType": "partner",
+    "colors": [
+      "white"
+    ],
+    "rarity": "C",
+    "cost": 0,
+    "abilities": [],
+    "imageId": "1721357230938626",
+    "restrictedCount": 3,
+    "lp": 1
+  },
+  {
+    "id": "B02037P",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "工藤優作",
+      "ko": ""
+    },
+    "cardType": "partner",
+    "colors": [
+      "white"
+    ],
+    "rarity": "CP",
+    "cost": 0,
+    "abilities": [],
+    "imageId": "1721357230941979",
+    "restrictedCount": 3,
+    "lp": 1
+  },
+  {
+    "id": "B02038",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "怪盗キッド",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "white"
+    ],
+    "rarity": "SR",
+    "cost": 7,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【変装時】カードを1枚引く。このコンタクト中、このキャラをAP＋1000する。 【登場時】自分のリムーブエリアにあるレベル4以下の【白】のキャラを1枚まで選び、スリープ状態で登場させる。",
+        "textKo": "[변장시] 카드를 1장 뽑는다. 이 콘택트 중, 이 캐릭터를 AP+1000한다.\n[등장시] 자신의 리무브에리어에 있는 레벨 4이하의 백색 캐릭터를 1장까지 고르고, 슬립상태로 등장시킨다."
+      }
+    ],
+    "imageId": "1721357230945818",
+    "restrictedCount": 3,
+    "ap": 6000,
+    "lp": 1,
+    "traitsJa": [
+      "怪盗"
+    ]
+  },
+  {
+    "id": "B02038P",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "怪盗キッド",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "white"
+    ],
+    "rarity": "SRP",
+    "cost": 7,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "変装",
+        "textJa": "【変装】【事件白】【FILE6】（コンタクト中のキャラと入れ替わって手札から出る。入れ替わったキャラはデッキの下に移す）",
+        "textKo": "[사건 (백)][FILE6](콘택트 중의 캐릭터와 교대해서 손패에서 나온다. 교대한 캐릭터는 덱 밑에 보낸다)",
+        "keywordKo": "변장"
+      }
+    ],
+    "imageId": "1721357230948799",
+    "restrictedCount": 3,
+    "ap": 6000,
+    "lp": 1,
+    "traitsJa": [
+      "怪盗"
+    ]
+  },
+  {
+    "id": "B02039",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "工藤優作",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "white"
+    ],
+    "rarity": "SR",
+    "cost": 8,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【絆黒羽盗一】【宣言】【ターン1】【スリープ】：キャラにセットされているカードを1枚選び、持ち主はそのカードを表向きで証拠として得る。そうした場合、キャラを1枚まで選び、リムーブする。 【パートナー白】【登場時】カードを2枚引き、手札を2枚リムーブする。",
+        "textKo": "[인연(쿠로바 도이치)][선언][턴1][슬립]: 캐릭터에 세트되어 있는 카드를 1장까지 고르고, 카드의 주인은 그 카드를 앞면으로 증거로서 얻는다. 그렇게 했을 경우 캐릭터를 1장까지 고르고, 리무브한다.\n[파트너 (백)][등장시] 카드를 2장 뽑고, 패에서 2장 리무브한다."
+      }
+    ],
+    "imageId": "1721357230951279",
+    "restrictedCount": 3,
+    "ap": 8000,
+    "lp": 2,
+    "traitsJa": [
+      "小説家"
+    ]
+  },
+  {
+    "id": "B02040",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "黒羽盗一",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "white"
+    ],
+    "rarity": "SR",
+    "cost": 8,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【パートナー白】【登場時】レベル7以下のキャラを1枚まで選び、リムーブする。 【宣言】【ターン1】自分の現場にいるこのキャラ以外の【白】のキャラを1枚まで選び、自分のデッキのカードを上から1枚裏向きでセットし、ターン終了時までAP＋2000する。",
+        "textKo": "[파트너 (백)][등장시] 레벨 7이하의 캐릭터를 1장까지 고르고, 리무브한다.\n[선언][턴1] 자신의 현장에 있는 이 캐릭터 이외의 백색 캐릭터를 1장까지 골라 자신의 덱의 카드를 위에서부터 1장 뒷면으로 세트하고, 턴 종료 시까지 AP+2000한다."
+      }
+    ],
+    "imageId": "1721357230955975",
+    "restrictedCount": 3,
+    "ap": 7000,
+    "lp": 2,
+    "traitsJa": [
+      "マジシャン"
+    ]
+  },
+  {
+    "id": "B02040P",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "黒羽盗一",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "white"
+    ],
+    "rarity": "SRP",
+    "cost": 8,
+    "abilities": [],
+    "imageId": "1721357230958798",
+    "restrictedCount": 3,
+    "ap": 7000,
+    "lp": 2,
+    "traitsJa": [
+      "マジシャン"
+    ]
+  },
+  {
+    "id": "B02041",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "怪盗キッド",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "white"
+    ],
+    "rarity": "R",
+    "cost": 6,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【パートナー白】【登場時】【変装時】キャラを1枚まで選び、スリープさせる。",
+        "textKo": "[파트너 (백)][등장시][변장시] 캐릭터를 1장까지 고르고, 슬립시킨다."
+      }
+    ],
+    "imageId": "1721357230961900",
+    "restrictedCount": 3,
+    "ap": 5000,
+    "lp": 1,
+    "traitsJa": [
+      "怪盗"
+    ]
+  },
+  {
+    "id": "B02041P",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "怪盗キッド",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "white"
+    ],
+    "rarity": "RP",
+    "cost": 6,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "変装",
+        "textJa": "【変装】【事件白】【FILE6】（コンタクト中のキャラと入れ替わって手札から出る。入れ替わったキャラはデッキの下に移す）",
+        "textKo": "[사건 (백)][FILE6](콘택트 중의 캐릭터와 교대해서 손패에서 나온다. 교대한 캐릭터는 덱 밑에 보낸다)",
+        "keywordKo": "변장"
+      }
+    ],
+    "imageId": "1721357230965316",
+    "restrictedCount": 3,
+    "ap": 5000,
+    "lp": 1,
+    "traitsJa": [
+      "怪盗"
+    ]
+  },
+  {
+    "id": "B02042",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "京極真",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "white"
+    ],
+    "rarity": "R",
+    "cost": 3,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "textJa": "【カットイン】【自分ターン中】AP＋3000（自分のターンのコンタクト中に手札からリムーブして使う）",
+        "textKo": "[자신의 턴중]AP+3000(자신의 턴의 콘택트 중에 손패에서 리무브해서 사용한다)",
+        "keywordKo": "컷트인"
+      }
+    ],
+    "imageId": "1721357230968300",
+    "restrictedCount": 3,
+    "ap": 2000,
+    "lp": 1,
+    "traitsJa": [
+      "高校生",
+      "空手家"
+    ]
+  },
+  {
+    "id": "B02042P",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "京極真",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "white"
+    ],
+    "rarity": "RP",
+    "cost": 3,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "textJa": "【カットイン】【自分ターン中】AP＋3000（自分のターンのコンタクト中に手札からリムーブして使う）",
+        "textKo": "[자신의 턴중]AP+3000(자신의 턴의 콘택트 중에 손패에서 리무브해서 사용한다)",
+        "keywordKo": "컷트인"
+      }
+    ],
+    "imageId": "1721357230971811",
+    "restrictedCount": 3,
+    "ap": 2000,
+    "lp": 1,
+    "traitsJa": [
+      "高校生",
+      "空手家"
+    ]
+  },
+  {
+    "id": "B02043",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "怪盗キッド",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "white"
+    ],
+    "rarity": "C",
+    "cost": 5,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "ヒラメキ",
+        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）キャラを1枚まで選び、スリープさせる。",
+        "textKo": "(증거에서 리무브될 때 발동한다)캐릭터를 1장까지 고르고,슬립시킨다.",
+        "keywordKo": "히라메키"
+      },
+      {
+        "type": "keyword",
+        "keyword": "変装",
+        "textJa": "【変装】【事件白】【FILE5】（コンタクト中のキャラと入れ替わって手札から出る。入れ替わったキャラはデッキの下に移す）",
+        "textKo": "[사건 (백)][FILE5](콘택트 중의 캐릭터와 교대해서 손패에서 나온다. 교대한 캐릭터는 덱 밑에 보낸다)",
+        "keywordKo": "변장"
+      }
+    ],
+    "imageId": "1721357230975577",
+    "restrictedCount": 3,
+    "ap": 6000,
+    "lp": 0,
+    "traitsJa": [
+      "怪盗"
+    ]
+  },
+  {
+    "id": "B02044",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "怪盗キッド",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "white"
+    ],
+    "rarity": "C",
+    "cost": 4,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【登場時】【変装時】自分のデッキのカードを上から2枚見る。その中から【変装】を持つキャラを1枚まで公開して手札に加え、残りを好きな順番でデッキの下に移す。",
+        "textKo": "[등장시][변장시] 자신의 덱의 카드를 위에서부터 2장 본다. 그 중에서 변장을 가진 캐릭터를 1장까지 공개해 패에 추가하고, 남은 카드를 좋아하는 순서대로 덱의 아래에 둔다."
+      }
+    ],
+    "imageId": "1721357230978222",
+    "restrictedCount": 3,
+    "ap": 3000,
+    "lp": 1,
+    "traitsJa": [
+      "怪盗"
+    ]
+  },
+  {
+    "id": "B02044P",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "怪盗キッド",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "white"
+    ],
+    "rarity": "CP",
+    "cost": 4,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "変装",
+        "textJa": "【変装】【事件白】【FILE4】（コンタクト中のキャラと入れ替わって手札から出る。入れ替わったキャラはデッキの下に移す）",
+        "textKo": "[사건 (백)][FILE4](콘택트 중의 캐릭터와 교대해서 손패에서 나온다. 교대한 캐릭터는 덱 밑에 보낸다)",
+        "keywordKo": "변장"
+      }
+    ],
+    "imageId": "1721357230982574",
+    "restrictedCount": 3,
+    "ap": 3000,
+    "lp": 1,
+    "traitsJa": [
+      "怪盗"
+    ]
+  },
+  {
+    "id": "B02045",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "怪盗キッド",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "white"
+    ],
+    "rarity": "C",
+    "cost": 4,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【変装時】キャラを1枚まで選び、ターン終了時までAP－2000する。",
+        "textKo": "[변장시] 캐릭터를 1장까지 고르고, 턴 종료시까지 AP-2000한다."
+      },
+      {
+        "type": "keyword",
+        "keyword": "ヒラメキ",
+        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）キャラを1枚まで選び、スリープさせる。",
+        "textKo": "(증거에서 리무브될 때 발동한다)캐릭터를 1장까지 고르고,슬립시킨다.",
+        "keywordKo": "히라메키"
+      }
+    ],
+    "imageId": "1721357230985593",
+    "restrictedCount": 3,
+    "ap": 4000,
+    "lp": 0,
+    "traitsJa": [
+      "怪盗"
+    ]
+  },
+  {
+    "id": "B02046",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "黒羽盗一",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "white"
+    ],
+    "rarity": "C",
+    "cost": 5,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【登場時】自分の現場にいる【白】のキャラを1枚まで選び、自分のデッキのカードを上から1枚裏向きでセットし、ターン終了時までAP＋1000する。",
+        "textKo": "[등장시] 자신의 현장에 있는 백색 캐릭터를 1장까지 골라 자신의 덱의 카드를 위에서부터 1장 뒷면으로 세트하고, 턴 종료 시까지 AP+1000한다."
+      },
+      {
+        "type": "keyword",
+        "keyword": "ヒラメキ",
+        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。",
+        "textKo": "(증거에서 리무브될 때 발동한다)카드를 1장 뽑는다.",
+        "keywordKo": "히라메키"
+      }
+    ],
+    "imageId": "1721357230988621",
+    "restrictedCount": 3,
+    "ap": 5000,
+    "lp": 1,
+    "traitsJa": [
+      "マジシャン"
+    ]
+  },
+  {
+    "id": "B02046P",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "黒羽盗一",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "white"
+    ],
+    "rarity": "CP",
+    "cost": 5,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "ヒラメキ",
+        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。",
+        "textKo": "(증거에서 리무브될 때 발동한다)카드를 1장 뽑는다.",
+        "keywordKo": "히라메키"
+      }
+    ],
+    "imageId": "1721357230992096",
+    "restrictedCount": 3,
+    "ap": 5000,
+    "lp": 1,
+    "traitsJa": [
+      "マジシャン"
+    ]
+  },
+  {
+    "id": "B02047",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "工藤有希子",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "white"
+    ],
+    "rarity": "C",
+    "cost": 6,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【変装時】LP2以上の【白】のキャラと入れ替わった場合、このキャラはこのコンタクトによってリムーブされない。",
+        "textKo": "[변장시] LP2 이상의 백색 캐릭터와 바뀌었을 경우, 이 캐릭터는 이 콘택트 중에 리무브되지 않는다."
+      }
+    ],
+    "imageId": "1721357230995841",
+    "restrictedCount": 3,
+    "ap": 6000,
+    "lp": 1,
+    "traitsJa": [
+      "女優"
+    ]
+  },
+  {
+    "id": "B02048",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "鈴木園子",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "white"
+    ],
+    "rarity": "C",
+    "cost": 2,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "textJa": "【カットイン】AP＋2000（コンタクト中に手札からリムーブして使う）",
+        "textKo": "AP+2000(콘택트 중에 손패에서 리무브해서 사용한다)",
+        "keywordKo": "컷트인"
+      }
+    ],
+    "imageId": "1721357230998723",
+    "restrictedCount": 3,
+    "ap": 1000,
+    "lp": 1,
+    "traitsJa": [
+      "高校生",
+      "鈴木財閥"
+    ]
+  },
+  {
+    "id": "B02048P",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "鈴木園子",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "white"
+    ],
+    "rarity": "CP",
+    "cost": 2,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "textJa": "【カットイン】AP＋2000（コンタクト中に手札からリムーブして使う）",
+        "textKo": "AP+2000(콘택트 중에 손패에서 리무브해서 사용한다)",
+        "keywordKo": "컷트인"
+      }
+    ],
+    "imageId": "1721357250002869",
+    "restrictedCount": 3,
+    "ap": 1000,
+    "lp": 1,
+    "traitsJa": [
+      "高校生",
+      "鈴木財閥"
+    ]
+  },
+  {
+    "id": "B02049",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "中森青子",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "white"
+    ],
+    "rarity": "C",
+    "cost": 4,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【ターン1】自分の現場にいる〚特徴［怪盗］〛のキャラがアクションしたとき、ターン終了時までそのキャラをAP＋1000する。",
+        "textKo": "[턴1] 자신의 현장에 있는 특징 [괴도] 캐릭터가 액션했을 때, 턴 종료시까지 그 캐릭터를 AP+1000한다."
+      },
+      {
+        "type": "keyword",
+        "keyword": "ヒラメキ",
+        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。",
+        "textKo": "(증거에서 리무브될 때 발동한다)카드를 1장 뽑는다.",
+        "keywordKo": "히라메키"
+      }
+    ],
+    "imageId": "1721357250009567",
+    "restrictedCount": 3,
+    "ap": 4000,
+    "lp": 1,
+    "traitsJa": [
+      "高校生"
+    ]
+  },
+  {
+    "id": "B02050",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "中森銀三",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "white"
+    ],
+    "rarity": "C",
+    "cost": 6,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【登場時】自分のデッキのカードを上から【変装】を持つカードが出るまで1枚ずつ公開し、それを手札に加える。残りの公開したカードをデッキの下に移し、デッキをシャッフルする。",
+        "textKo": "[등장시] 자신의 덱의 카드를 위에서부터 변장을 가진 카드가 나올 때까지 1장씩 공개하고, 그 카드를 패에 추가한다. 남은 공개한 카드를 덱의 아래에 두고, 덱을 셔플한다."
+      }
+    ],
+    "imageId": "1721357250020785",
+    "restrictedCount": 3,
+    "ap": 6000,
+    "lp": 0,
+    "traitsJa": [
+      "警察",
+      "警視庁"
+    ]
+  },
+  {
+    "id": "B02051",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "レッドヘリング",
+      "ko": ""
+    },
+    "cardType": "event",
+    "colors": [
+      "white"
+    ],
+    "rarity": "C",
+    "cost": 6,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "自分の現場にいるキャラを1枚スリープさせてもよい。そうした場合、レベル7以下のキャラを1枚まで選び、リムーブする。",
+        "textKo": "자신의 현장에 있는 캐릭터를 1장 슬립시킬 수 있다. 그렇게 했을 경우 레벨 7 이하의 캐릭터를 1장까지 선택해 리무브한다."
+      }
+    ],
+    "imageId": "1721357250048492",
+    "restrictedCount": 3
+  },
+  {
+    "id": "B02052",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "トランプ銃",
+      "ko": ""
+    },
+    "cardType": "event",
+    "colors": [
+      "white"
+    ],
+    "rarity": "C",
+    "cost": 5,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "このイベントを自分の現場にいる〚特徴［怪盗］〛のキャラ1枚にセットする。 このイベントがセットされているキャラは「自分のターン終了時、自分のデッキのカードを上から3枚リムーブしてもよい。そうした場合、キャラを1枚まで選び、スタンさせる。」を持つ。 【相手ターン中】【ターン1】キャラにセットされているこのイベントがリムーブエリアに置かれるとき、代わりに自分の現場にいる〚特徴［怪盗］〛のキャラ1枚にセットしてもよい。",
+        "textKo": "이 이벤트를 자신의 현장에 있는 특징 [괴도] 캐릭터 1장에 세트한다. 이 이벤트가 세트되어있는 캐릭터는 「자신의 턴 종료 시, 자신의 덱의 카드를 위에서부터 3장 리무브해도 좋다. 그렇게 했을 경우 캐릭터를 1장까지 고르고, 스턴시킨다.」를 얻는다.\n[상대의 턴 중][턴1] 캐릭터에 세트되어있는 이 이벤트가 리무브 에리어에 놓일 때, 대신 자신의 현장에 있는 특징 [괴도] 캐릭터 1장에 세트해도 좋다"
+      }
+    ],
+    "imageId": "1721357250051541",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "ガジェット"
+    ]
+  },
+  {
+    "id": "B02052P",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "トランプ銃",
+      "ko": ""
+    },
+    "cardType": "event",
+    "colors": [
+      "white"
+    ],
+    "rarity": "CP",
+    "cost": 5,
+    "abilities": [],
+    "imageId": "1721357250055590",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "ガジェット"
+    ]
+  },
+  {
+    "id": "B02053",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "「か、怪盗キッド!!!」",
+      "ko": ""
+    },
+    "cardType": "event",
+    "colors": [
+      "white"
+    ],
+    "rarity": "C",
+    "cost": 7,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "自分のリムーブエリアにあるレベル7以下の【白】の〚特徴［怪盗］〛のキャラを1枚まで選び、登場させる。",
+        "textKo": "자신의 리무브 에리어에 있는 레벨 7 이하의 백색인 특징 [괴도] 캐릭터를 1장까지 선택하고, 등장시킨다.\n\n\n❗️[반짝] (증거에서 리무브되었을 때 발동한다) 자신의 리무브 에리어에 있는 백색인 특징 [괴도] 캐릭터를 1장까지 선택하고, 패에 추가한다."
+      },
+      {
+        "type": "keyword",
+        "keyword": "ヒラメキ",
+        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）自分のリムーブエリアにある【白】の〚特徴［怪盗］〛のキャラを1枚まで選び、手札に加える。",
+        "textKo": "(증거에서 리무브될 때 발동한다)자신의 리무브에리어에 있는 백의 특징[괴도]의 캐릭터를 1장까지 고르고,손패에 더한다.",
+        "keywordKo": "히라메키"
+      }
+    ],
+    "imageId": "1721357250058468",
+    "restrictedCount": 3
+  },
+  {
+    "id": "B02054",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "怪盗キッドvs.最強金庫",
+      "ko": ""
+    },
+    "cardType": "case",
+    "colors": [
+      "white"
+    ],
+    "rarity": "C",
+    "cost": 0,
+    "abilities": [],
+    "imageId": "1721357250061249",
+    "restrictedCount": 3
+  },
+  {
+    "id": "B02054P",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "怪盗キッドvs.最強金庫",
+      "ko": ""
+    },
+    "cardType": "case",
+    "colors": [
+      "white"
+    ],
+    "rarity": "CP",
+    "cost": 0,
+    "abilities": [],
+    "imageId": "1721357250065115",
+    "restrictedCount": 3
+  },
+  {
+    "id": "B02055",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "沖矢昴",
+      "ko": ""
+    },
+    "cardType": "partner",
+    "colors": [
+      "red"
+    ],
+    "rarity": "C",
+    "cost": 0,
+    "abilities": [],
+    "imageId": "1721357250068375",
+    "restrictedCount": 3,
+    "lp": 1
+  },
+  {
+    "id": "B02055P",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "沖矢昴",
+      "ko": ""
+    },
+    "cardType": "partner",
+    "colors": [
+      "red"
+    ],
+    "rarity": "CP",
+    "cost": 0,
+    "abilities": [],
+    "imageId": "1721357250071522",
+    "restrictedCount": 3,
+    "lp": 1
+  },
+  {
+    "id": "B02056",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "羽田秀𠮷",
+      "ko": ""
+    },
+    "cardType": "partner",
+    "colors": [
+      "red"
+    ],
+    "rarity": "C",
+    "cost": 0,
+    "abilities": [],
+    "imageId": "1721357250075326",
+    "restrictedCount": 3,
+    "lp": 1
+  },
+  {
+    "id": "B02056P",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "羽田秀𠮷",
+      "ko": ""
+    },
+    "cardType": "partner",
+    "colors": [
+      "red"
+    ],
+    "rarity": "CP",
+    "cost": 0,
+    "abilities": [],
+    "imageId": "1721357250078323",
+    "restrictedCount": 3,
+    "lp": 1
+  },
+  {
+    "id": "B02057",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "沖矢昴",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "red"
+    ],
+    "rarity": "SR",
+    "cost": 8,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【パートナー赤】自分のターン終了時、このキャラがスリープ状態かスタン状態の場合、AP8000以下のキャラを1枚まで選び、リムーブする。 【宣言】【ターン1】【スリープ】：自分の現場にいるレベル7以下の【赤】のキャラを1枚まで選び、ターン終了時まで〚ブレット〛か〚突撃［事件］〛を与える。",
+        "textKo": "[파트너 (적)] 자신의 턴 종료 시, 이 캐릭터가 슬립 상태나 스턴 상태인 경우, AP8000 이하의 캐릭터를 1장까지 고르고, 리무브한다.\n[선언][턴1][슬립]: 자신의 현장에 있는 레벨 7이하의 적색 캐릭터를 1장까지 고르고, 턴 종료시까지 불릿이나 돌격[사건]을 부여한다."
+      }
+    ],
+    "imageId": "1721357250081593",
+    "restrictedCount": 3,
+    "ap": 7000,
+    "lp": 2,
+    "traitsJa": [
+      "大学院生"
+    ]
+  },
+  {
+    "id": "B02057P",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "沖矢昴",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "red"
+    ],
+    "rarity": "SRP",
+    "cost": 8,
+    "abilities": [],
+    "imageId": "1721357250084137",
+    "restrictedCount": 3,
+    "ap": 7000,
+    "lp": 2,
+    "traitsJa": [
+      "大学院生"
+    ]
+  },
+  {
+    "id": "B02058",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "赤井秀一",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "red"
+    ],
+    "rarity": "R",
+    "cost": 6,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【登場時】相手の手札が自分の手札の枚数以上ある場合、相手は手札を1枚リムーブする。 【相手ターン中】【現場リムーブ時】自分のデッキのカードを上から〚カード名［沖矢昴］〛が出るまで1枚ずつ公開し、それを手札に加える。残りの公開したカードをデッキの下に移し、デッキをシャッフルする。",
+        "textKo": "[등장시] 상대의 패가 자신의 패의 수 이상일 경우, 상대는 패를 1장 리무브한다.\n[상대의 턴 중][현장 리무브 시] 자신의 덱의 카드를 위에서부터 카드명 [오키야 스바루]가 나올 때까지 공개하고 그것을 패에 추가한다. 남은 공개한 카드는 덱의 아래에 두고, 덱을 셔플한다."
+      }
+    ],
+    "imageId": "1721357250088561",
+    "restrictedCount": 3,
+    "ap": 5000,
+    "lp": 1,
+    "traitsJa": [
+      "赤井家"
+    ]
+  },
+  {
+    "id": "B02058P",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "赤井秀一",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "red"
+    ],
+    "rarity": "RP",
+    "cost": 6,
+    "abilities": [],
+    "imageId": "1721357250091476",
+    "restrictedCount": 3,
+    "ap": 5000,
+    "lp": 1,
+    "traitsJa": [
+      "赤井家"
+    ]
+  },
+  {
+    "id": "B02059",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "沖矢昴",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "red"
+    ],
+    "rarity": "C",
+    "cost": 3,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "textJa": "【カットイン】【自分ターン中】AP＋3000（自分のターンのコンタクト中に手札からリムーブして使う）",
+        "textKo": "[자신의 턴중]AP+3000(자신의 턴의 콘택트 중에 손패에서 리무브해서 사용한다)",
+        "keywordKo": "컷트인"
+      }
+    ],
+    "imageId": "1721357250095721",
+    "restrictedCount": 3,
+    "ap": 2000,
+    "lp": 1,
+    "traitsJa": [
+      "大学院生"
+    ]
+  },
+  {
+    "id": "B02059P",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "沖矢昴",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "red"
+    ],
+    "rarity": "CP",
+    "cost": 3,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "textJa": "【カットイン】【自分ターン中】AP＋3000（自分のターンのコンタクト中に手札からリムーブして使う）",
+        "textKo": "[자신의 턴중]AP+3000(자신의 턴의 콘택트 중에 손패에서 리무브해서 사용한다)",
+        "keywordKo": "컷트인"
+      }
+    ],
+    "imageId": "1721357250098559",
+    "restrictedCount": 3,
+    "ap": 2000,
+    "lp": 1,
+    "traitsJa": [
+      "大学院生"
+    ]
+  },
+  {
+    "id": "B02060",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "ジョディ・スターリング",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "red"
+    ],
+    "rarity": "C",
+    "cost": 4,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "〚ミスリード1〛（相手の推理に対し、スリープさせることでLP－1する） 【登場時】キャラを1枚まで選び、ターン終了時までAP－1000する。",
+        "textKo": "미스리드1 (상대의 추리에 대해서, 슬립시키는 것으로 LP -1한다.)\n[등장시] 캐릭터를 1장까지 고르고, 턴 종료시까지 AP-1000한다."
+      }
+    ],
+    "imageId": "1721357250101538",
+    "restrictedCount": 3,
+    "ap": 4000,
+    "lp": 1,
+    "traitsJa": [
+      "FBI"
+    ]
+  },
+  {
+    "id": "B02061",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "世良真純",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "red"
+    ],
+    "rarity": "C",
+    "cost": 5,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【登場時】相手に証拠を1つ与えてもよい。そうした場合、このキャラ以外の【赤】のキャラを1枚まで選び、ターン終了時まで〚突撃［事件］〛（登場したターンからすぐに事件を指定してアクションできる）を与える。",
+        "textKo": "[등장시] 상대에게 증거를 1개 줄 수 있다. 그렇게 했을 경우, 이 캐릭터 이외의 적색 캐릭터를 1장까지 고르고, 턴 종료시까지 돌격 [사건](등장한 턴부터 바로 사건을 지정해 액션할 수 있다)을 부여한다."
+      },
+      {
+        "type": "keyword",
+        "keyword": "ヒラメキ",
+        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。",
+        "textKo": "(증거에서 리무브될 때 발동한다)카드를 1장 뽑는다.",
+        "keywordKo": "히라메키"
+      }
+    ],
+    "imageId": "1721357267304419",
+    "restrictedCount": 3,
+    "ap": 4000,
+    "lp": 1,
+    "traitsJa": [
+      "探偵",
+      "高校生",
+      "赤井家"
+    ]
+  },
+  {
+    "id": "B02062",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "世良真純",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "red"
+    ],
+    "rarity": "C",
+    "cost": 5,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【自分ターン中】【ターン1】相手の証拠がリムーブされたとき、カードを1枚引く。",
+        "textKo": "[자신의 턴 중][턴1] 상대의 증거가 리무브 되었을 때, 카드를 1장 뽑는다."
+      },
+      {
+        "type": "keyword",
+        "keyword": "ヒラメキ",
+        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。",
+        "textKo": "(증거에서 리무브될 때 발동한다)카드를 1장 뽑는다.",
+        "keywordKo": "히라메키"
+      }
+    ],
+    "imageId": "1721357267310473",
+    "restrictedCount": 3,
+    "ap": 5000,
+    "lp": 1,
+    "traitsJa": [
+      "赤井家"
+    ]
+  },
+  {
+    "id": "B02063",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "羽田秀𠮷",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "red"
+    ],
+    "rarity": "C",
+    "cost": 7,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "相手は【カットイン】を使用できない。 【FILE8】LP＋1",
+        "textKo": "상대는 컷인을 사용할 수 없다.\n[FILE(8)] LP+1"
+      },
+      {
+        "type": "keyword",
+        "keyword": "ヒラメキ",
+        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）相手は手札を1枚リムーブする。",
+        "textKo": "(증거에서 리무브될 때 발동한다)상대방은 손패를 1장 리무브한다.",
+        "keywordKo": "히라메키"
+      }
+    ],
+    "imageId": "1721357267313068",
+    "restrictedCount": 3,
+    "ap": 6000,
+    "lp": 1,
+    "traitsJa": [
+      "赤井家"
+    ]
+  },
+  {
+    "id": "B02064",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "羽田秀𠮷",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "red"
+    ],
+    "rarity": "C",
+    "cost": 2,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "textJa": "【カットイン】AP＋2000（コンタクト中に手札からリムーブして使う）",
+        "textKo": "AP+2000(콘택트 중에 손패에서 리무브해서 사용한다)",
+        "keywordKo": "컷트인"
+      }
+    ],
+    "imageId": "1721357267316258",
+    "restrictedCount": 3,
+    "ap": 1000,
+    "lp": 1,
+    "traitsJa": [
+      "棋士",
+      "赤井家"
+    ]
+  },
+  {
+    "id": "B02064P",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "羽田秀𠮷",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "red"
+    ],
+    "rarity": "CP",
+    "cost": 2,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "textJa": "【カットイン】AP＋2000（コンタクト中に手札からリムーブして使う）",
+        "textKo": "AP+2000(콘택트 중에 손패에서 리무브해서 사용한다)",
+        "keywordKo": "컷트인"
+      }
+    ],
+    "imageId": "1721357267320837",
+    "restrictedCount": 3,
+    "ap": 1000,
+    "lp": 1,
+    "traitsJa": [
+      "棋士",
+      "赤井家"
+    ]
+  },
+  {
+    "id": "B02065",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "メアリー",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "red"
+    ],
+    "rarity": "C",
+    "cost": 3,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【解決編】〚ブレット〛（このキャラのアクションはガードできない）",
+        "textKo": "[해결편] 불릿 (이 캐릭터의 액션은 가드되지 않는다)"
+      }
+    ],
+    "imageId": "1721357267323953",
+    "restrictedCount": 3,
+    "ap": 3000,
+    "lp": 1,
+    "traitsJa": [
+      "赤井家"
+    ]
+  },
+  {
+    "id": "B02066",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "メアリー",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "red"
+    ],
+    "rarity": "C",
+    "cost": 6,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【登場時】カードを1枚引き、手札を1枚リムーブする。 【相手ターン中】【現場リムーブ時】自分のリムーブエリアにあるレベル5以下の〚カード名［メアリー］〛を1枚まで選び、スリープ状態で登場させる。",
+        "textKo": "[등장시] 카드를 1장 뽑고, 패를 1장 리무브한다.\n[상대의 턴 중][현장 리무브 시] 자신의 리무브 에리어에 있는 레벨 5이하의 카드명 [메리]를 1장까지 선택하고, 슬립 상태로 등장시킨다."
+      }
+    ],
+    "imageId": "1721357267326289",
+    "restrictedCount": 3,
+    "ap": 5000,
+    "lp": 1,
+    "traitsJa": [
+      "赤井家"
+    ]
+  },
+  {
+    "id": "B02066P",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "メアリー",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "red"
+    ],
+    "rarity": "CP",
+    "cost": 6,
+    "abilities": [],
+    "imageId": "1721357267329779",
+    "restrictedCount": 3,
+    "ap": 5000,
+    "lp": 1,
+    "traitsJa": [
+      "赤井家"
+    ]
+  },
+  {
+    "id": "B02067",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "チョーカー型変声機",
+      "ko": ""
+    },
+    "cardType": "event",
+    "colors": [
+      "red"
+    ],
+    "rarity": "C",
+    "cost": 4,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "このイベントを自分の現場にいる【赤】のキャラ1枚にセットする。 このイベントがセットされているキャラは「【ターン1】このキャラが相手の能力や効果によって選ばれたとき、それを無効にする。」を持つ。",
+        "textKo": "이 이벤트를 자신의 현장에 있는 적색 캐릭터 1장에 세트한다. 이 이벤트가 세트되어 있는 캐릭터는 「[턴1] 이 캐릭터가 상대의 능력이나 효과에 의해 선택되었을 때, 그것을 무효로 한다.」를 얻는다."
+      }
+    ],
+    "imageId": "1721357267333530",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "ガジェット"
+    ]
+  },
+  {
+    "id": "B02067P",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "チョーカー型変声機",
+      "ko": ""
+    },
+    "cardType": "event",
+    "colors": [
+      "red"
+    ],
+    "rarity": "CP",
+    "cost": 4,
+    "abilities": [],
+    "imageId": "1721357267336451",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "ガジェット"
+    ]
+  },
+  {
+    "id": "B02068",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "「行け秀一！その熱病でお前の命が尽きるまで…」",
+      "ko": ""
+    },
+    "cardType": "event",
+    "colors": [
+      "red"
+    ],
+    "rarity": "C",
+    "cost": 5,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【パートナー赤】自分の現場にいる【赤】のキャラを好きな数選び、ターン終了時まで「このキャラがアクション［事件］したとき、手札を1枚リムーブしてもよい。そうした場合、ターン終了時までこのキャラは〚ブレット〛（このキャラのアクションはガードできない）を持つ。」を与える。",
+        "textKo": "[파트너 (적)] 자신의 현장에 있는 적색 캐릭터를 좋아하는 만큼 고르고, 턴 종료시까지 「이 캐릭터가 액션 [사건]했을 때 패를 1장 리무브해도 좋다. 그렇게 했을 경우, 턴 종료시까지 이 캐릭터는 불릿(이 캐릭터의 액션은 가드되지 않는다.)을 얻는다.」를 얻는다."
+      }
+    ],
+    "imageId": "1721357267339596",
+    "restrictedCount": 3
+  },
+  {
+    "id": "B02069",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "さざ波の魔法使い",
+      "ko": ""
+    },
+    "cardType": "case",
+    "colors": [
+      "red"
+    ],
+    "rarity": "C",
+    "cost": 0,
+    "abilities": [],
+    "imageId": "1721357267343148",
+    "restrictedCount": 3
+  },
+  {
+    "id": "B02069P",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "さざ波の魔法使い",
+      "ko": ""
+    },
+    "cardType": "case",
+    "colors": [
+      "red"
+    ],
+    "rarity": "CP",
+    "cost": 0,
+    "abilities": [],
+    "imageId": "1721357267346420",
+    "restrictedCount": 3
+  },
+  {
+    "id": "B02070",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "降谷零",
+      "ko": ""
+    },
+    "cardType": "partner",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "C",
+    "cost": 0,
+    "abilities": [],
+    "imageId": "1721357267349626",
+    "restrictedCount": 3,
+    "lp": 1
+  },
+  {
+    "id": "B02070P",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "降谷零",
+      "ko": ""
+    },
+    "cardType": "partner",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "CP",
+    "cost": 0,
+    "abilities": [],
+    "imageId": "1721357267358166",
+    "restrictedCount": 3,
+    "lp": 1
+  },
+  {
+    "id": "B02071",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "佐藤美和子",
+      "ko": ""
+    },
+    "cardType": "partner",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "C",
+    "cost": 0,
+    "abilities": [],
+    "imageId": "1721357267361314",
+    "restrictedCount": 3,
+    "lp": 1
+  },
+  {
+    "id": "B02071P",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "佐藤美和子",
+      "ko": ""
+    },
+    "cardType": "partner",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "CP",
+    "cost": 0,
+    "abilities": [],
+    "imageId": "1721357267364595",
+    "restrictedCount": 3,
+    "lp": 1
+  },
+  {
+    "id": "B02072",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "降谷零",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "SR",
+    "cost": 8,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【宣言】【ターン1】【スリープ】：〚捜査X〛（相手はデッキのカードを上から指定の数だけ公開し、好きな順番でデッキの下に移す）する。Xは自分の現場にいる〚特徴［警察］〛のキャラの数に等しい。発見されたカードのレベルの合計以下のレベルのキャラを1枚まで選び、リムーブする。",
+        "textKo": "[선언][턴1][슬립]: 수사X(상대는 덱의 카드를 위에서부터 지정된 수만큼 공개하고, 좋아하는 순번대로 덱의 아래에 둔다)한다. X는 자신의 현장에 있는 특징 [경찰]인 캐릭터의 수와 같다. 발견된 카드의 레벨의 합계 이하의 레벨의 캐릭터를 1장까지 고르고, 리무브한다."
+      }
+    ],
+    "imageId": "1721357267367364",
+    "restrictedCount": 3,
+    "ap": 8000,
+    "lp": 2,
+    "traitsJa": [
+      "警察",
+      "公安"
+    ]
+  },
+  {
+    "id": "B02072P",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "降谷零",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "SRP",
+    "cost": 8,
+    "abilities": [],
+    "imageId": "1721357267371298",
+    "restrictedCount": 3,
+    "ap": 8000,
+    "lp": 2,
+    "traitsJa": [
+      "警察",
+      "公安"
+    ]
+  },
+  {
+    "id": "B02073",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "上原由衣",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "R",
+    "cost": 5,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【宣言】【スリープ】〚リムーブエリアに移す〛：〚特徴［長野県警］〛のキャラを1枚まで選び、ターン終了時まで〚迅速〛（登場したターンからすぐに推理かアクションできる）を与える。",
+        "textKo": "[선언][슬립] 리무브에리어에 둔다 : 특징 [나가노현 경찰]인 캐릭터를 1장까지 고르고, 턴 종료시까지 신속 (등장한 턴부터 바로 추리나 액션을 할 수 있다)를 부여한다."
+      },
+      {
+        "type": "keyword",
+        "keyword": "ヒラメキ",
+        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。",
+        "textKo": "(증거에서 리무브될 때 발동한다)카드를 1장 뽑는다.",
+        "keywordKo": "히라메키"
+      }
+    ],
+    "imageId": "1721357267374310",
+    "restrictedCount": 3,
+    "ap": 4000,
+    "lp": 1,
+    "traitsJa": [
+      "警察",
+      "長野県警"
+    ]
+  },
+  {
+    "id": "B02074",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "白鳥任三郎",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "R",
+    "cost": 6,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【登場時】自分の現場にこのキャラ以外の〚特徴［警察］〛のキャラがいる場合、ターン終了時までこのキャラは〚突撃〛（登場したターンからすぐにアクションできる）を持つ。",
+        "textKo": "[등장시] 자신의 현장에 이 캐릭터 이외의 특징 [경찰]인 캐릭터가 있을 경우, 턴 종료시까지 이 캐릭터는 돌격 (등장한 턴부터 바로 액션할 수 있다)를 얻는다."
+      }
+    ],
+    "imageId": "1721357284501120",
+    "restrictedCount": 3,
+    "ap": 5000,
+    "lp": 1,
+    "traitsJa": [
+      "警察",
+      "警視庁"
+    ]
+  },
+  {
+    "id": "B02074P",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "白鳥任三郎",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "RP",
+    "cost": 6,
+    "abilities": [],
+    "imageId": "1721357284507830",
+    "restrictedCount": 3,
+    "ap": 5000,
+    "lp": 1,
+    "traitsJa": [
+      "警察",
+      "警視庁"
+    ]
+  },
+  {
+    "id": "B02075",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "諸伏高明",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "R",
+    "cost": 7,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【相手ターン中】【現場リムーブ時】自分のリムーブエリアにあるレベル6以下の〚特徴［長野県警］〛のキャラを1枚まで選び、スリープ状態で登場させる。",
+        "textKo": "[상대의 턴 중][현장 리무브 시] 자신의 리무브 에리어에 있는 레벨 6이하의 특징 [나가노현 경찰]인 캐릭터를 1장까지 고르고, 슬립 상태로 등장시킨다."
+      }
+    ],
+    "imageId": "1721357284510714",
+    "restrictedCount": 3,
+    "ap": 5000,
+    "lp": 2,
+    "traitsJa": [
+      "警察",
+      "長野県警"
+    ]
+  },
+  {
+    "id": "B02075P",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "諸伏高明",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "RP",
+    "cost": 7,
+    "abilities": [],
+    "imageId": "1721357284513510",
+    "restrictedCount": 3,
+    "ap": 5000,
+    "lp": 2,
+    "traitsJa": [
+      "警察",
+      "長野県警"
+    ]
+  },
+  {
+    "id": "B02076",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "大和敢助",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "R",
+    "cost": 6,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【登場時】自分のリムーブエリアにある〚特徴［長野県警］〛のキャラを1枚選び、デッキの下に移してもよい。そうした場合、カードを1枚引く。",
+        "textKo": "[등장시] 자신의 리무브 에리어에 있는 특징 [나가노현 경찰]인 캐릭터를 1장까지 고르고, 덱의 아래에 둘 수 있다. 그렇게 했을 경우, 카드를 1장 뽑는다."
+      },
+      {
+        "type": "keyword",
+        "keyword": "ヒラメキ",
+        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）キャラを1枚まで選び、スリープさせる。",
+        "textKo": "(증거에서 리무브될 때 발동한다)캐릭터를 1장까지 고르고,슬립시킨다.",
+        "keywordKo": "히라메키"
+      }
+    ],
+    "imageId": "1721357284517434",
+    "restrictedCount": 3,
+    "ap": 6000,
+    "lp": 1,
+    "traitsJa": [
+      "警察",
+      "長野県警"
+    ]
+  },
+  {
+    "id": "B02076P",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "大和敢助",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "RP",
+    "cost": 6,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "ヒラメキ",
+        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）キャラを1枚まで選び、スリープさせる。",
+        "textKo": "(증거에서 리무브될 때 발동한다)캐릭터를 1장까지 고르고,슬립시킨다.",
+        "keywordKo": "히라메키"
+      }
+    ],
+    "imageId": "1721357284520795",
+    "restrictedCount": 3,
+    "ap": 6000,
+    "lp": 1,
+    "traitsJa": [
+      "警察",
+      "長野県警"
+    ]
+  },
+  {
+    "id": "B02077",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "安室透",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "C",
+    "cost": 7,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【登場時】自分の現場にこのキャラ以外のレベル7以上の〚特徴［探偵］〛のキャラがいる場合、自分のリムーブエリアにあるレベル5以下の〚特徴［探偵］〛のキャラを1枚まで選び、スリープ状態で登場させる。",
+        "textKo": "[등장시] 자신의 현장에 있는 이 캐릭터 이외의 레벨 7이상인 특징 [탐정] 캐릭터가 있을 경우, 자신의 리무브에리어에 있는 레벨 5이하인 특징 [탐정]인 캐릭터를 1장까지 선택해, 슬립상태로 등장시킨다."
+      }
+    ],
+    "imageId": "1721357284523145",
+    "restrictedCount": 3,
+    "ap": 6000,
+    "lp": 1,
+    "traitsJa": [
+      "探偵",
+      "喫茶ポアロ"
+    ]
+  },
+  {
+    "id": "B02077P",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "安室透",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "CP",
+    "cost": 7,
+    "abilities": [],
+    "imageId": "1721357284527502",
+    "restrictedCount": 3,
+    "ap": 6000,
+    "lp": 1,
+    "traitsJa": [
+      "探偵",
+      "喫茶ポアロ"
+    ]
+  },
+  {
+    "id": "B02078",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "降谷零",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "C",
+    "cost": 3,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "textJa": "【カットイン】【自分ターン中】AP＋3000（自分のターンのコンタクト中に手札からリムーブして使う）",
+        "textKo": "[자신의 턴중]AP+3000(자신의 턴의 콘택트 중에 손패에서 리무브해서 사용한다)",
+        "keywordKo": "컷트인"
+      }
+    ],
+    "imageId": "1721357284530177",
+    "restrictedCount": 3,
+    "ap": 2000,
+    "lp": 1,
+    "traitsJa": [
+      "警察",
+      "公安"
+    ]
+  },
+  {
+    "id": "B02078P",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "降谷零",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "CP",
+    "cost": 3,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "textJa": "【カットイン】【自分ターン中】AP＋3000（自分のターンのコンタクト中に手札からリムーブして使う）",
+        "textKo": "[자신의 턴중]AP+3000(자신의 턴의 콘택트 중에 손패에서 리무브해서 사용한다)",
+        "keywordKo": "컷트인"
+      }
+    ],
+    "imageId": "1721357284533104",
+    "restrictedCount": 3,
+    "ap": 2000,
+    "lp": 1,
+    "traitsJa": [
+      "警察",
+      "公安"
+    ]
+  },
+  {
+    "id": "B02079",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "千葉和伸",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "C",
+    "cost": 6,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【自分ターン中】【ターン1】自分の現場にいる〚特徴［警察］〛のキャラがコンタクトしたとき、カードを1枚引き、手札を1枚リムーブする。",
+        "textKo": "[자신의 턴 중][턴1] 자신의 현장에 있는 특징 [경찰]인 캐릭터가 콘택트했을 때, 카드를 1장 뽑고, 패를 1장 리무브한다."
+      },
+      {
+        "type": "keyword",
+        "keyword": "ヒラメキ",
+        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。",
+        "textKo": "(증거에서 리무브될 때 발동한다)카드를 1장 뽑는다.",
+        "keywordKo": "히라메키"
+      }
+    ],
+    "imageId": "1721357284536628",
+    "restrictedCount": 3,
+    "ap": 6000,
+    "lp": 1,
+    "traitsJa": [
+      "警察",
+      "警視庁"
+    ]
+  },
+  {
+    "id": "B02080",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "三池苗子",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "C",
+    "cost": 4,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【自分ターン中】【ターン1】自分の現場にいる〚特徴［警察］〛のキャラのコンタクト中に自分が【カットイン】を使用したとき、このコンタクト中、そのキャラをAP＋1000する。",
+        "textKo": "[자신의 턴 중][턴1] 자신의 현장에 있는 특징 [경찰]인 캐릭터가 콘택트 중에 자신이 컷인을 사용했을 경우, 이 콘택트 중 그 캐릭터를 AP+1000한다."
+      }
+    ],
+    "imageId": "1721357284540500",
+    "restrictedCount": 3,
+    "ap": 4000,
+    "lp": 1,
+    "traitsJa": [
+      "警察",
+      "警視庁"
+    ]
+  },
+  {
+    "id": "B02081",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "宮本由美",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "C",
+    "cost": 2,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "textJa": "【カットイン】AP＋2000（コンタクト中に手札からリムーブして使う）",
+        "textKo": "AP+2000(콘택트 중에 손패에서 리무브해서 사용한다)",
+        "keywordKo": "컷트인"
+      }
+    ],
+    "imageId": "1721357284543490",
+    "restrictedCount": 3,
+    "ap": 1000,
+    "lp": 1,
+    "traitsJa": [
+      "警察",
+      "警視庁"
+    ]
+  },
+  {
+    "id": "B02082",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "山村ミサオ",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "C",
+    "cost": 3,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "〚ミスリード1〛（相手の推理に対し、スリープさせることでLP－1する）",
+        "textKo": "미스리드1 (상대의 추리에 대해서, 슬립시키는 것으로 LP -1한다.)"
+      }
+    ],
+    "imageId": "1721357284546770",
+    "restrictedCount": 3,
+    "ap": 3000,
+    "lp": 0,
+    "traitsJa": [
+      "警察",
+      "群馬県警"
+    ]
+  },
+  {
+    "id": "B02083",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "「いや、もうオトリはなしだ…」",
+      "ko": ""
+    },
+    "cardType": "event",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "C",
+    "cost": 4,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【パートナー黄】相手の現場にいるスタン状態のキャラ1枚につき、カードを1枚引く。カードを1枚も引かなかった場合、キャラを1枚まで選び、スタンさせる。（スタン状態のキャラをアクティブにする場合、代わりにスリープさせる）",
+        "textKo": "[파트너 (황)] 상대의 현장에 있는 스턴 상태인 캐릭터 1장마다 카드를 1장 뽑는다. 카드를 1장도 뽑지 못했을 경우, 캐릭터를 1장까지 고르고 스턴시킨다. (스턴상태인 캐릭터를 액티브 시킬 경우, 대신 슬립시킨다.)"
+      }
+    ],
+    "imageId": "1721357284550456",
+    "restrictedCount": 3
+  },
+  {
+    "id": "B02084",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "安室の愛車",
+      "ko": ""
+    },
+    "cardType": "event",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "C",
+    "cost": 5,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "このイベントを自分の現場にいるレベル6以上のキャラ1枚にセットする。セットした場合、レベル6以下のキャラを1枚まで選び、リムーブする。 【相手ターン中】キャラにセットされていたこのイベントがリムーブエリアに置かれたとき、自分のリムーブエリアにあるレベル5以下の〚特徴［警察］〛のキャラを1枚まで選び、手札に加える。",
+        "textKo": "이 이벤트를 자신의 현장에 있는 레벨 6이상의 캐릭터 1장에 세트한다. 세트했을 경우, 레벨 6이하인 캐릭터를 1장까지 고르고, 리무브한다.\n[상대의 턴 중] 캐릭터에 세트되어 있는 이 이벤트가 리무브 에리어에 놓일 때 자신의 리무브 에리어에 있는 레벨 5이하의 **특징 [경찰]**인 캐릭터를 1장까지 고르고, 패에 추가한다."
+      }
+    ],
+    "imageId": "1721357284553314",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "ガジェット"
+    ]
+  },
+  {
+    "id": "B02084P",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "安室の愛車",
+      "ko": ""
+    },
+    "cardType": "event",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "CP",
+    "cost": 5,
+    "abilities": [],
+    "imageId": "1721357284556527",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "ガジェット"
+    ]
+  },
+  {
+    "id": "B02085",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "囚われた刑事",
+      "ko": ""
+    },
+    "cardType": "case",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "C",
+    "cost": 0,
+    "abilities": [],
+    "imageId": "1721357284560440",
+    "restrictedCount": 3
+  },
+  {
+    "id": "B02085P",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "囚われた刑事",
+      "ko": ""
+    },
+    "cardType": "case",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "CP",
+    "cost": 0,
+    "abilities": [],
+    "imageId": "1721357284563686",
+    "restrictedCount": 3
+  },
+  {
+    "id": "B02086",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "ベルモット",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "black"
+    ],
+    "rarity": "SR",
+    "cost": 5,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【変装時】相手は手札を1枚リムーブしてもよい。そうしなかった場合、このキャラはこのコンタクトによってリムーブされない。 【登場時】このキャラ以外のキャラを1枚まで選び、ターン終了時までAP＋2000し、〚ブレット〛を与える。",
+        "textKo": "[변장시] 상대는 패를 1장 리무브할 수 있다. 그렇게 하지 않았을 경우, 이 캐릭터는 이 콘택트 중에 리무브되지 않는다.\n[등장시] 이 캐릭터 이외의 캐릭터를 1장까지 고르고, 턴 종료시까지 AP+2000하고, 불릿을 부여한다."
+      }
+    ],
+    "imageId": "1721357284566249",
+    "restrictedCount": 3,
+    "ap": 4000,
+    "lp": 1,
+    "traitsJa": [
+      "黒ずくめの組織"
+    ]
+  },
+  {
+    "id": "B02086P",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "ベルモット",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "black"
+    ],
+    "rarity": "SRP",
+    "cost": 5,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "変装",
+        "textJa": "【変装】【FILE5】（コンタクト中のキャラと入れ替わって手札から出る。入れ替わったキャラはデッキの下に移す）",
+        "textKo": "[FILE5](콘택트 중의 캐릭터와 교대해서 손패에서 나온다. 교대한 캐릭터는 덱 밑에 보낸다)",
+        "keywordKo": "변장"
+      }
+    ],
+    "imageId": "1721357309963656",
+    "restrictedCount": 3,
+    "ap": 4000,
+    "lp": 1,
+    "traitsJa": [
+      "黒ずくめの組織"
+    ]
+  },
+  {
+    "id": "B02087",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "キール",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "black"
+    ],
+    "rarity": "R",
+    "cost": 5,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "ネクストヒントで手札から使用する場合、このキャラは事件カードの色を無視できる。 【登場時】相手の現場にいるキャラにセットされているカードを1枚まで選び、リムーブする。リムーブした場合、ターン終了時までこのキャラは〚突撃［キャラ］〛（登場したターンからすぐにキャラを指定してアクションできる）を持つ。",
+        "textKo": "넥스트 힌트로 패에서 사용할 경우 이 캐릭터는 사건카드의 색을 무시할 수 있다.\n[등장시] 상대의 현장에 있는 캐릭터에 세트되어 있는 카드를 1장까지 고르고, 리무브한다. 리무브했을 경우, 턴 종료시까지 이 캐릭터는 돌격 [캐릭터] (등장한 턴부터 바로 캐릭터를 지정해 액션할 수 있다)를 얻는다."
+      }
+    ],
+    "imageId": "1721357309969799",
+    "restrictedCount": 3,
+    "ap": 5000,
+    "lp": 1,
+    "traitsJa": [
+      "黒ずくめの組織"
+    ]
+  },
+  {
+    "id": "B02087P",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "キール",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "black"
+    ],
+    "rarity": "RP",
+    "cost": 5,
+    "abilities": [],
+    "imageId": "1721357309972744",
+    "restrictedCount": 3,
+    "ap": 5000,
+    "lp": 1,
+    "traitsJa": [
+      "黒ずくめの組織"
+    ]
+  },
+  {
+    "id": "B02088",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "犯人",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "black"
+    ],
+    "rarity": "C",
+    "cost": 3,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "このキャラ以外の〚カード名［犯人］〛が自分の現場に登場したとき、このキャラをリムーブする。 自分か相手のターン終了時、自分の証拠を上から1つリムーブする。（【ヒラメキ】は発動しない）このキャラを表向きのまま証拠として得る。",
+        "textKo": "이 캐릭터 이외의 카드명 [범인]이 자신의 현장에 등장했을 경우, 이 캐릭터를 리무브한다. 자신이나 상대의 턴 종료 시, 자신의 증거를 위에서부터 1장 리무브한다.([반짝]은 발동하지 않는다.) 이캐릭터를 앞면인 채로 증거로서 얻는다.️[히라메키] 상대는 이 액션으로 증거를 얻을 수 없다."
+      },
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "textJa": "【カットイン】自分の現場に空きがある場合、スリープ状態で登場させる。",
+        "textKo": "자신의 현장에 빈자리가 있을 경우,슬립 상태로 등장시킨다.",
+        "keywordKo": "컷트인"
+      }
+    ],
+    "imageId": "1721357309976463",
+    "restrictedCount": 3,
+    "ap": 0,
+    "lp": 0,
+    "traitsJa": [
+      "犯人"
+    ]
+  },
+  {
+    "id": "B02088P",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "犯人",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "black"
+    ],
+    "rarity": "CP",
+    "cost": 3,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "textJa": "【カットイン】自分の現場に空きがある場合、スリープ状態で登場させる。",
+        "textKo": "자신의 현장에 빈자리가 있을 경우,슬립 상태로 등장시킨다.",
+        "keywordKo": "컷트인"
+      },
+      {
+        "type": "keyword",
+        "keyword": "ヒラメキ",
+        "textJa": "【ヒラメキ】相手はこのアクションによって証拠を得られない。",
+        "textKo": "상대방은 이 액션에 의해 증거를 얻을 수 없다.",
+        "keywordKo": "히라메키"
+      }
+    ],
+    "imageId": "1721357309979430",
+    "restrictedCount": 3,
+    "ap": 0,
+    "lp": 0,
+    "traitsJa": [
+      "犯人"
+    ]
+  },
+  {
+    "id": "B02089",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "探偵甲子園",
+      "ko": ""
+    },
+    "cardType": "case",
+    "colors": [
+      "green",
+      "white"
+    ],
+    "rarity": "C",
+    "cost": 0,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "この事件が解決編になったとき、相手はカードを1枚引く。",
+        "textKo": "이 사건이 해결편이 되었을 때, 상대는 카드를 1장 뽑는다."
+      }
+    ],
+    "imageId": "1721357309982654",
+    "restrictedCount": 3
+  },
+  {
+    "id": "B02089P",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "探偵甲子園",
+      "ko": ""
+    },
+    "cardType": "case",
+    "colors": [
+      "green",
+      "white"
+    ],
+    "rarity": "CP",
+    "cost": 0,
+    "abilities": [],
+    "imageId": "1721357309986311",
+    "restrictedCount": 3
+  },
+  {
+    "id": "B02090",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "西の名探偵vs.英語教師",
+      "ko": ""
+    },
+    "cardType": "case",
+    "colors": [
+      "green",
+      "red"
+    ],
+    "rarity": "C",
+    "cost": 0,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "この事件が解決編になったとき、相手はカードを1枚引く。",
+        "textKo": "이 사건이 해결편이 되었을 때, 상대는 카드를 1장 뽑는다."
+      }
+    ],
+    "imageId": "1721357309989784",
+    "restrictedCount": 3
+  },
+  {
+    "id": "B02091",
+    "setId": "CT-P02",
+    "name": {
+      "ja": "謎解きは喫茶ポアロで",
+      "ko": ""
+    },
+    "cardType": "case",
+    "colors": [
+      "green",
+      "yellow"
+    ],
+    "rarity": "C",
+    "cost": 0,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "この事件が解決編になったとき、相手はカードを1枚引く。",
+        "textKo": "이 사건이 해결편이 되었을 때, 상대는 카드를 1장 뽑는다."
+      }
+    ],
+    "imageId": "1721357309992697",
+    "restrictedCount": 3
+  }
+]

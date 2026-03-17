@@ -1,0 +1,462 @@
+[
+  {
+    "id": "D02001",
+    "setId": "CT-D02",
+    "name": {
+      "ja": "服部平次",
+      "ko": ""
+    },
+    "cardType": "partner",
+    "colors": [
+      "green"
+    ],
+    "rarity": "D",
+    "cost": 0,
+    "abilities": [],
+    "imageId": "1714013100441192",
+    "restrictedCount": 3,
+    "lp": 1
+  },
+  {
+    "id": "D02002",
+    "setId": "CT-D02",
+    "name": {
+      "ja": "服部平次",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "green"
+    ],
+    "rarity": "D",
+    "cost": 8,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【パートナー緑】【登場時】手札を1枚リムーブしてもよい。そうした場合、AP8000以下のキャラを1枚まで選び、リムーブする。",
+        "textKo": "[파트너 (녹)] [등장시] 패를 1장 리무브할 수 있다. 그렇게 할 경우 AP8000 이하의 캐릭터 1장까지 선택해 리무브한다."
+      }
+    ],
+    "imageId": "1714013100444205",
+    "restrictedCount": 3,
+    "ap": 7000,
+    "lp": 2,
+    "traitsJa": [
+      "探偵",
+      "高校生"
+    ]
+  },
+  {
+    "id": "D02003",
+    "setId": "CT-D02",
+    "name": {
+      "ja": "服部平次",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "green"
+    ],
+    "rarity": "D",
+    "cost": 7,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【パートナー緑】〚迅速〛（登場したターンからすぐに推理かアクションできる）",
+        "textKo": "[파트너 (녹)] 신속 (등장한 턴부터 바로 추리나 액션을 할 수 있다.)"
+      }
+    ],
+    "imageId": "1714013100447862",
+    "restrictedCount": 3,
+    "ap": 6000,
+    "lp": 1,
+    "traitsJa": [
+      "探偵",
+      "高校生"
+    ]
+  },
+  {
+    "id": "D02004",
+    "setId": "CT-D02",
+    "name": {
+      "ja": "服部平次",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "green"
+    ],
+    "rarity": "D",
+    "cost": 4,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "このキャラがアクションしたとき、相手の現場にいるスリープ状態かスタン状態のキャラ1枚につき、アクション終了時までこのキャラをAP＋1000する。",
+        "textKo": "이 캐릭터가 액션했을 때, 상대의 현장에 있는 슬립 상태나 스턴 상태인 캐릭터 1장당 액션 종료시까지 이 캐릭터를 AP +1000한다."
+      },
+      {
+        "type": "keyword",
+        "keyword": "ヒラメキ",
+        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。",
+        "textKo": "(증거에서 리무브될 때 발동한다)카드를 1장 뽑는다.",
+        "keywordKo": "히라메키"
+      }
+    ],
+    "imageId": "1714013100450523",
+    "restrictedCount": 3,
+    "ap": 4000,
+    "lp": 1,
+    "traitsJa": [
+      "探偵",
+      "高校生"
+    ]
+  },
+  {
+    "id": "D02005",
+    "setId": "CT-D02",
+    "name": {
+      "ja": "遠山和葉",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "green"
+    ],
+    "rarity": "D",
+    "cost": 6,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【ターン1】このキャラか〚カード名［服部平次］〛が自分の現場に登場したとき、キャラを1枚まで選び、スリープさせる。",
+        "textKo": "[턴1] 이 캐릭터나 카드명 [핫토리 헤이지]가 자신의 현장에 등장했을 때, 캐릭터를 1장까지 선택해 슬립시킨다."
+      },
+      {
+        "type": "keyword",
+        "keyword": "ヒラメキ",
+        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）キャラを1枚まで選び、スリープさせる。",
+        "textKo": "(증거에서 리무브될 때 발동한다)캐릭터를 1장까지 고르고,슬립시킨다.",
+        "keywordKo": "히라메키"
+      }
+    ],
+    "imageId": "1714013117360320",
+    "restrictedCount": 3,
+    "ap": 5000,
+    "lp": 1,
+    "traitsJa": [
+      "高校生"
+    ]
+  },
+  {
+    "id": "D02006",
+    "setId": "CT-D02",
+    "name": {
+      "ja": "遠山和葉",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "green"
+    ],
+    "rarity": "D",
+    "cost": 3,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "textJa": "【カットイン】AP＋2000（コンタクト中に手札からリムーブして使う）",
+        "textKo": "AP+2000(콘택트 중에 손패에서 리무브해서 사용한다)",
+        "keywordKo": "컷트인"
+      }
+    ],
+    "imageId": "1714013117365611",
+    "restrictedCount": 3,
+    "ap": 2000,
+    "lp": 1,
+    "traitsJa": [
+      "高校生"
+    ]
+  },
+  {
+    "id": "D02007",
+    "setId": "CT-D02",
+    "name": {
+      "ja": "沖田総司",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "green"
+    ],
+    "rarity": "D",
+    "cost": 5,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【パートナー緑】〚突撃〛（登場したターンからすぐにアクションできる）",
+        "textKo": "[파트너 (녹)] 돌격 (등장한 턴부터 바로 액션할 수 있다.)"
+      }
+    ],
+    "imageId": "1714013117368858",
+    "restrictedCount": 3,
+    "ap": 5000,
+    "lp": 0,
+    "traitsJa": [
+      "高校生"
+    ]
+  },
+  {
+    "id": "D02008",
+    "setId": "CT-D02",
+    "name": {
+      "ja": "服部平蔵",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "green"
+    ],
+    "rarity": "D",
+    "cost": 6,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "このキャラがアクションしたとき、アクション終了時まで相手は【カットイン】を使用できない。 相手の現場にいるキャラがこのキャラとのコンタクトによってリムーブされたとき、カードを1枚引く。",
+        "textKo": "이 캐릭터가 액션했을 때, 액션 종료시까지 상대는 [컷인]을 사용할 수 없다.\n상대의 현장에 있는 캐릭터가 이 캐릭터와의 콘택트에 의해 리무브 되었을 때, 카드를 1장 뽑는다."
+      },
+      {
+        "type": "keyword",
+        "keyword": "ヒラメキ",
+        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。",
+        "textKo": "(증거에서 리무브될 때 발동한다)카드를 1장 뽑는다.",
+        "keywordKo": "히라메키"
+      }
+    ],
+    "imageId": "1714013117371611",
+    "restrictedCount": 3,
+    "ap": 6000,
+    "lp": 1,
+    "traitsJa": [
+      "警察",
+      "大阪府警"
+    ]
+  },
+  {
+    "id": "D02009",
+    "setId": "CT-D02",
+    "name": {
+      "ja": "遠山銀司郎",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "green"
+    ],
+    "rarity": "D",
+    "cost": 3,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "〚ミスリード1〛（相手の推理に対し、スリープさせることでLP－1する）",
+        "textKo": "미스리드 1 (상대의 추리에 대해서, 슬립시키는 것으로 LP -1한다.)"
+      },
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "textJa": "【カットイン】AP＋1000（コンタクト中に手札からリムーブして使う）",
+        "textKo": "AP+1000(콘택트 중에 손패에서 리무브해서 사용한다)",
+        "keywordKo": "컷트인"
+      }
+    ],
+    "imageId": "1714013117373564",
+    "restrictedCount": 3,
+    "ap": 2000,
+    "lp": 1,
+    "traitsJa": [
+      "警察",
+      "大阪府警"
+    ]
+  },
+  {
+    "id": "D02010",
+    "setId": "CT-D02",
+    "name": {
+      "ja": "伊織無我",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "green"
+    ],
+    "rarity": "D",
+    "cost": 4,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "textJa": "【カットイン】AP＋1000（コンタクト中に手札からリムーブして使う）",
+        "textKo": "AP+1000(콘택트 중에 손패에서 리무브해서 사용한다)",
+        "keywordKo": "컷트인"
+      }
+    ],
+    "imageId": "1714013117376760",
+    "restrictedCount": 3,
+    "ap": 4000,
+    "lp": 1,
+    "traitsJa": [
+      "執事"
+    ]
+  },
+  {
+    "id": "D02011",
+    "setId": "CT-D02",
+    "name": {
+      "ja": "大岡紅葉",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "green"
+    ],
+    "rarity": "D",
+    "cost": 4,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【登場時】自分のデッキのカードを上から4枚見る。その中から【緑】のカードを1枚まで公開して手札に加え、残りを好きな順番でデッキの下に移す。カードを手札に加えた場合、手札を1枚リムーブする。",
+        "textKo": "[등장시] 자신의 덱의 카드를 위에서부터 4장 본다. 그 중에서 녹색 카드를 1장까지 공개해 패에 추가하고 나머지를 원하는 순서로 덱 아래에 둔다. 카드를 패에 추가했을 경우, 패를 1장 리무브 한다."
+      },
+      {
+        "type": "keyword",
+        "keyword": "ヒラメキ",
+        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。",
+        "textKo": "(증거에서 리무브될 때 발동한다)카드를 1장 뽑는다.",
+        "keywordKo": "히라메키"
+      }
+    ],
+    "imageId": "1714013117379010",
+    "restrictedCount": 3,
+    "ap": 4000,
+    "lp": 1,
+    "traitsJa": [
+      "高校生"
+    ]
+  },
+  {
+    "id": "D02012",
+    "setId": "CT-D02",
+    "name": {
+      "ja": "大岡紅葉",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "green"
+    ],
+    "rarity": "D",
+    "cost": 2,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "textJa": "【カットイン】AP＋2000（コンタクト中に手札からリムーブして使う）",
+        "textKo": "AP+2000(콘택트 중에 손패에서 리무브해서 사용한다)",
+        "keywordKo": "컷트인"
+      }
+    ],
+    "imageId": "1714013117382698",
+    "restrictedCount": 3,
+    "ap": 1000,
+    "lp": 1,
+    "traitsJa": [
+      "高校生"
+    ]
+  },
+  {
+    "id": "D02013",
+    "setId": "CT-D02",
+    "name": {
+      "ja": "服部静華",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "green"
+    ],
+    "rarity": "D",
+    "cost": 5,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【宣言】【ターン1】〚手札を1枚リムーブする〛：このキャラ以外のレベル6以下の【緑】のキャラを1枚まで選び、ターン終了時まで〚突撃〛（登場したターンからすぐにアクションできる）を与える。この能力は相手の現場にスリープ状態かスタン状態のキャラが合わせて2枚以上いる場合に宣言できる。",
+        "textKo": "[선언][턴1] 패를 1장 리무브한다: 이 캐릭터 이외의 레벨 6이하의 녹색 캐릭터 1장까지 선택해, 턴 종료시까지 돌격 (등장한 턴부터 바로 액션할 수 있다.)을 부여한다. 이 능력은 상대 현장에 슬립 상태나 스턴 상태인 캐릭터가 합계 2장 이상 있을 경우에만 선언할 수 있다."
+      }
+    ],
+    "imageId": "1714013117384306",
+    "restrictedCount": 3,
+    "ap": 5000,
+    "lp": 1
+  },
+  {
+    "id": "D02014",
+    "setId": "CT-D02",
+    "name": {
+      "ja": "御守り",
+      "ko": ""
+    },
+    "cardType": "event",
+    "colors": [
+      "green"
+    ],
+    "rarity": "D",
+    "cost": 1,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "自分のデッキのカードを上から3枚見る。その中から【緑】のキャラを1枚まで公開して手札に加え、残りを好きな順番でデッキの下に移す。手札から自分のFILEエリアの枚数以下のレベルの【緑】のキャラを1枚まで登場させる。",
+        "textKo": "자신의 덱의 카드를 위에서부터 3장 본다. 그 중에서 녹색 캐릭터를 1장까지 공개해 패에 추가하고 나머지를 원하는 순서로 덱 아래에 둔다. 패에서 자신의 FILE 에리어 개수 이하의 레벨인 녹색 캐릭터를 1장까지 등장시킨다."
+      }
+    ],
+    "imageId": "1714013117387727",
+    "restrictedCount": 3
+  },
+  {
+    "id": "D02015",
+    "setId": "CT-D02",
+    "name": {
+      "ja": "平次の洞察力",
+      "ko": ""
+    },
+    "cardType": "event",
+    "colors": [
+      "green"
+    ],
+    "rarity": "D",
+    "cost": 5,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【パートナー緑】（パートナーが条件を満たしている場合、この能力か効果を使える）AP8000以下のキャラを1枚まで選び、リムーブする。",
+        "textKo": "[파트너 (녹)] (파트너가 조건을 만족하는 경우, 이 능력이나 효과를 사용할 수 있다.) AP 8000이하의 캐릭터를 1장까지 선택해 리무브한다."
+      }
+    ],
+    "imageId": "1714013117390168",
+    "restrictedCount": 3
+  },
+  {
+    "id": "D02016",
+    "setId": "CT-D02",
+    "name": {
+      "ja": "そして人魚はいなくなった",
+      "ko": ""
+    },
+    "cardType": "case",
+    "colors": [
+      "green"
+    ],
+    "rarity": "D",
+    "cost": 0,
+    "abilities": [],
+    "imageId": "1714013117392321",
+    "restrictedCount": 3
+  }
+]

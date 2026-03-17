@@ -1,0 +1,719 @@
+[
+  {
+    "id": "D07001",
+    "setId": "CT-D07",
+    "name": {
+      "ja": "シェリー",
+      "ko": ""
+    },
+    "cardType": "partner",
+    "colors": [
+      "black"
+    ],
+    "rarity": "D",
+    "cost": 0,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【解決編】【事件解決】【スリープ】：自分の証拠が事件レベルの数以上ある場合、ゲームに勝利する。<br>【アシスト】【スリープ】：FILEエリアに移動する。自分のFILEエリアにカードが7枚以上ある場合、事件を解決編にする。",
+        "textKo": "[해결편][사건해결][슬립]: 자신의 증거가 사건레벨의 수 이상 있을 경우, 게임에서 승리한다\n[어시스트][슬립]: FILE에리어에 이동한다. 자신의 FILE에리어의 카드가 7장이상이 있다면, 사건을 해결편으로 한다."
+      }
+    ],
+    "imageId": "1729865281990907",
+    "restrictedCount": 3,
+    "lp": 1
+  },
+  {
+    "id": "D07002",
+    "setId": "CT-D07",
+    "name": {
+      "ja": "シェリー",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "black"
+    ],
+    "rarity": "D",
+    "cost": 2,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "textJa": "【カットイン】AP＋2000（コンタクト中に手札からリムーブして使う）",
+        "textKo": "AP+2000(콘택트 중에 손패에서 리무브해서 사용한다)",
+        "keywordKo": "컷트인"
+      }
+    ],
+    "imageId": "1729865281996741",
+    "restrictedCount": 3,
+    "ap": 1000,
+    "lp": 1,
+    "traitsJa": [
+      "黒ずくめの組織"
+    ]
+  },
+  {
+    "id": "D07003",
+    "setId": "CT-D07",
+    "name": {
+      "ja": "シェリー",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "black"
+    ],
+    "rarity": "D",
+    "cost": 2,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "textJa": "【カットイン】AP＋2000（コンタクト中に手札からリムーブして使う）",
+        "textKo": "AP+2000(콘택트 중에 손패에서 리무브해서 사용한다)",
+        "keywordKo": "컷트인"
+      }
+    ],
+    "imageId": "1729865282001483",
+    "restrictedCount": 3,
+    "ap": 1000,
+    "lp": 1,
+    "traitsJa": [
+      "黒ずくめの組織"
+    ]
+  },
+  {
+    "id": "D07004",
+    "setId": "CT-D07",
+    "name": {
+      "ja": "ジン",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "black"
+    ],
+    "rarity": "D",
+    "cost": 8,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【パートナー黒】【登場時】手札を1枚リムーブしてもよい。そうした場合、AP8000以下のキャラを1枚まで選び、リムーブする。",
+        "textKo": "[파트너 (흑)][등장시] 패를 1장 리무브해도 좋다. 그렇게 했을 경우, AP8000 이하의 캐릭터를 1장까지 선택해, 리무브한다."
+      }
+    ],
+    "imageId": "1729865282004728",
+    "restrictedCount": 3,
+    "ap": 7000,
+    "lp": 2,
+    "traitsJa": [
+      "黒ずくめの組織"
+    ]
+  },
+  {
+    "id": "D07005",
+    "setId": "CT-D07",
+    "name": {
+      "ja": "ジン",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "black"
+    ],
+    "rarity": "D",
+    "cost": 8,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【パートナー黒】【登場時】手札を1枚リムーブしてもよい。そうした場合、AP8000以下のキャラを1枚まで選び、リムーブする。",
+        "textKo": "[파트너 (흑)][등장시] 패를 1장 리무브해도 좋다. 그렇게 했을 경우, AP8000 이하의 캐릭터를 1장까지 선택해, 리무브한다."
+      }
+    ],
+    "imageId": "1729865282008221",
+    "restrictedCount": 3,
+    "ap": 7000,
+    "lp": 2,
+    "traitsJa": [
+      "黒ずくめの組織"
+    ]
+  },
+  {
+    "id": "D07006",
+    "setId": "CT-D07",
+    "name": {
+      "ja": "バーボン",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "black"
+    ],
+    "rarity": "D",
+    "cost": 7,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【パートナー黒】〚迅速〛（登場したターンからすぐに推理かアクションできる）",
+        "textKo": "[파트너 (흑)] 신속 (등장한 턴부터 바로 추리나 액션을 할 수 있다.)"
+      }
+    ],
+    "imageId": "1729865282012909",
+    "restrictedCount": 3,
+    "ap": 6000,
+    "lp": 1,
+    "traitsJa": [
+      "黒ずくめの組織"
+    ]
+  },
+  {
+    "id": "D07007",
+    "setId": "CT-D07",
+    "name": {
+      "ja": "バーボン",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "black"
+    ],
+    "rarity": "D",
+    "cost": 7,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【パートナー黒】〚迅速〛（登場したターンからすぐに推理かアクションできる）",
+        "textKo": "[파트너 (흑)] 신속 (등장한 턴부터 바로 추리나 액션을 할 수 있다.)"
+      }
+    ],
+    "imageId": "1729865282015173",
+    "restrictedCount": 3,
+    "ap": 6000,
+    "lp": 1,
+    "traitsJa": [
+      "黒ずくめの組織"
+    ]
+  },
+  {
+    "id": "D07008",
+    "setId": "CT-D07",
+    "name": {
+      "ja": "ベルモット",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "black"
+    ],
+    "rarity": "D",
+    "cost": 6,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【宣言】【スリープ】〚デッキの下に移す〛：手札からレベル5以下のキャラを1枚まで登場させる。ターン終了時までそのキャラに〚突撃〛（登場したターンからすぐにアクションできる）を与える。",
+        "textKo": "[선언][슬립]덱의 아래에 둔다 : 패에서 레벨5 이하의 캐릭터를 1장까지 등장시킨다. 턴 종료시까지 그 캐릭터에 돌격 (등장한 턴부터 바로 액션할 수 있다.)를 부여한다."
+      },
+      {
+        "type": "keyword",
+        "keyword": "ヒラメキ",
+        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）キャラを1枚まで選び、スリープさせる。",
+        "textKo": "(증거에서 리무브될 때 발동한다)캐릭터를 1장까지 고르고,슬립시킨다.",
+        "keywordKo": "히라메키"
+      }
+    ],
+    "imageId": "1729865282020119",
+    "restrictedCount": 3,
+    "ap": 5000,
+    "lp": 1,
+    "traitsJa": [
+      "黒ずくめの組織"
+    ]
+  },
+  {
+    "id": "D07009",
+    "setId": "CT-D07",
+    "name": {
+      "ja": "ベルモット",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "black"
+    ],
+    "rarity": "D",
+    "cost": 6,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【宣言】【スリープ】〚デッキの下に移す〛：手札からレベル5以下のキャラを1枚まで登場させる。ターン終了時までそのキャラに〚突撃〛（登場したターンからすぐにアクションできる）を与える。",
+        "textKo": "[선언][슬립]덱의 아래에 둔다 : 패에서 레벨5 이하의 캐릭터를 1장까지 등장시킨다. 턴 종료시까지 그 캐릭터에 돌격 (등장한 턴부터 바로 액션할 수 있다.)를 부여한다."
+      },
+      {
+        "type": "keyword",
+        "keyword": "ヒラメキ",
+        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）キャラを1枚まで選び、スリープさせる。",
+        "textKo": "(증거에서 리무브될 때 발동한다)캐릭터를 1장까지 고르고,슬립시킨다.",
+        "keywordKo": "히라메키"
+      }
+    ],
+    "imageId": "1729865282024731",
+    "restrictedCount": 3,
+    "ap": 5000,
+    "lp": 1,
+    "traitsJa": [
+      "黒ずくめの組織"
+    ]
+  },
+  {
+    "id": "D07010",
+    "setId": "CT-D07",
+    "name": {
+      "ja": "ラム",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "black"
+    ],
+    "rarity": "D",
+    "cost": 6,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【自分ターン中】自分の現場にいるこのキャラ以外の【黒】のキャラをAP＋1000する。",
+        "textKo": "[자신의 턴 중] 자신의 현장에 있는 이 캐릭터 이외의 흑색 캐릭터를 AP+1000한다."
+      },
+      {
+        "type": "keyword",
+        "keyword": "ヒラメキ",
+        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。",
+        "textKo": "(증거에서 리무브될 때 발동한다)카드를 1장 뽑는다.",
+        "keywordKo": "히라메키"
+      }
+    ],
+    "imageId": "1729865282028760",
+    "restrictedCount": 3,
+    "ap": 6000,
+    "lp": 1,
+    "traitsJa": [
+      "黒ずくめの組織"
+    ]
+  },
+  {
+    "id": "D07011",
+    "setId": "CT-D07",
+    "name": {
+      "ja": "ラム",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "black"
+    ],
+    "rarity": "D",
+    "cost": 6,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【自分ターン中】自分の現場にいるこのキャラ以外の【黒】のキャラをAP＋1000する。",
+        "textKo": "[자신의 턴 중] 자신의 현장에 있는 이 캐릭터 이외의 흑색 캐릭터를 AP+1000한다."
+      },
+      {
+        "type": "keyword",
+        "keyword": "ヒラメキ",
+        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。",
+        "textKo": "(증거에서 리무브될 때 발동한다)카드를 1장 뽑는다.",
+        "keywordKo": "히라메키"
+      }
+    ],
+    "imageId": "1729865282032330",
+    "restrictedCount": 3,
+    "ap": 6000,
+    "lp": 1,
+    "traitsJa": [
+      "黒ずくめの組織"
+    ]
+  },
+  {
+    "id": "D07012",
+    "setId": "CT-D07",
+    "name": {
+      "ja": "ウォッカ",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "black"
+    ],
+    "rarity": "D",
+    "cost": 5,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【パートナー黒】〚突撃〛（登場したターンからすぐにアクションできる）",
+        "textKo": "[파트너 (흑)] 돌격 (등장한 턴부터 바로 액션할 수 있다.)"
+      }
+    ],
+    "imageId": "1729865282035249",
+    "restrictedCount": 3,
+    "ap": 5000,
+    "lp": 0,
+    "traitsJa": [
+      "黒ずくめの組織"
+    ]
+  },
+  {
+    "id": "D07013",
+    "setId": "CT-D07",
+    "name": {
+      "ja": "ウォッカ",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "black"
+    ],
+    "rarity": "D",
+    "cost": 5,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【パートナー黒】〚突撃〛（登場したターンからすぐにアクションできる）",
+        "textKo": "[파트너 (흑)] 돌격 (등장한 턴부터 바로 액션할 수 있다.)"
+      }
+    ],
+    "imageId": "1729865282039523",
+    "restrictedCount": 3,
+    "ap": 5000,
+    "lp": 0,
+    "traitsJa": [
+      "黒ずくめの組織"
+    ]
+  },
+  {
+    "id": "D07014",
+    "setId": "CT-D07",
+    "name": {
+      "ja": "ライ",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "black"
+    ],
+    "rarity": "D",
+    "cost": 5,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【相手ターン中】【現場リムーブ時】相手の現場にいるレベル4以下のキャラを1枚まで選び、リムーブする。リムーブした場合、相手はカードを1枚引く。",
+        "textKo": "[상대의 턴 중][현장 리무브시] 상대의 현장에 있는 레벨4 이하의 캐릭터를 1장까지 선택해 리무브한다. 리무브했을 경우, 상대는 카드를 1장 뽑는다."
+      }
+    ],
+    "imageId": "1729865282043965",
+    "restrictedCount": 3,
+    "ap": 5000,
+    "lp": 1,
+    "traitsJa": [
+      "黒ずくめの組織"
+    ]
+  },
+  {
+    "id": "D07015",
+    "setId": "CT-D07",
+    "name": {
+      "ja": "ライ",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "black"
+    ],
+    "rarity": "D",
+    "cost": 5,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【相手ターン中】【現場リムーブ時】相手の現場にいるレベル4以下のキャラを1枚まで選び、リムーブする。リムーブした場合、相手はカードを1枚引く。",
+        "textKo": "[상대의 턴 중][현장 리무브시] 상대의 현장에 있는 레벨4 이하의 캐릭터를 1장까지 선택해 리무브한다. 리무브했을 경우, 상대는 카드를 1장 뽑는다."
+      }
+    ],
+    "imageId": "1729865282047344",
+    "restrictedCount": 3,
+    "ap": 5000,
+    "lp": 1,
+    "traitsJa": [
+      "黒ずくめの組織"
+    ]
+  },
+  {
+    "id": "D07016",
+    "setId": "CT-D07",
+    "name": {
+      "ja": "キール",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "black"
+    ],
+    "rarity": "D",
+    "cost": 3,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "〚ミスリード1〛（相手の推理に対し、スリープさせることでLP－1する）",
+        "textKo": "미스리드1 (상대의 추리에 대해, 슬립시키는 것으로 LP-1한다.)"
+      },
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "textJa": "【カットイン】AP＋1000（コンタクト中に手札からリムーブして使う）",
+        "textKo": "AP+1000(콘택트 중에 손패에서 리무브해서 사용한다)",
+        "keywordKo": "컷트인"
+      }
+    ],
+    "imageId": "1729865282050103",
+    "restrictedCount": 3,
+    "ap": 2000,
+    "lp": 1,
+    "traitsJa": [
+      "黒ずくめの組織"
+    ]
+  },
+  {
+    "id": "D07017",
+    "setId": "CT-D07",
+    "name": {
+      "ja": "キール",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "black"
+    ],
+    "rarity": "D",
+    "cost": 3,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "〚ミスリード1〛（相手の推理に対し、スリープさせることでLP－1する）",
+        "textKo": "미스리드1 (상대의 추리에 대해, 슬립시키는 것으로 LP-1한다.)"
+      },
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "textJa": "【カットイン】AP＋1000（コンタクト中に手札からリムーブして使う）",
+        "textKo": "AP+1000(콘택트 중에 손패에서 리무브해서 사용한다)",
+        "keywordKo": "컷트인"
+      }
+    ],
+    "imageId": "1729865282054319",
+    "restrictedCount": 3,
+    "ap": 2000,
+    "lp": 1,
+    "traitsJa": [
+      "黒ずくめの組織"
+    ]
+  },
+  {
+    "id": "D07018",
+    "setId": "CT-D07",
+    "name": {
+      "ja": "ジン",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "black"
+    ],
+    "rarity": "D",
+    "cost": 4,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【自分ターン中】このキャラがレベル6以下のキャラとコンタクトしたとき、そのキャラをリムーブする。",
+        "textKo": "[자신의 턴 중] 이 캐릭터가 레벨6 이하의 캐릭터와 콘택트했을 때, 그 캐릭터를 리무브한다."
+      },
+      {
+        "type": "keyword",
+        "keyword": "ヒラメキ",
+        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。",
+        "textKo": "(증거에서 리무브될 때 발동한다)카드를 1장 뽑는다.",
+        "keywordKo": "히라메키"
+      }
+    ],
+    "imageId": "1729865282058831",
+    "restrictedCount": 3,
+    "ap": 4000,
+    "lp": 1,
+    "traitsJa": [
+      "黒ずくめの組織"
+    ]
+  },
+  {
+    "id": "D07019",
+    "setId": "CT-D07",
+    "name": {
+      "ja": "シェリー",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "black"
+    ],
+    "rarity": "D",
+    "cost": 4,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【登場時】自分のデッキのカードを上から4枚見る。その中から【黒】のカードを1枚まで公開して手札に加え、残りを好きな順番でデッキの下に移す。カードを手札に加えた場合、手札を1枚リムーブする。",
+        "textKo": "[등장시] 자신의 덱의 카드를 위에서부터 4장 본다. 그 중에서 흑색 카드를 1장까지 공개해 패에 추가하고, 남은 카드는 좋아하는 순서대로 덱의 아래에 둔다. 카드를 패에 추가했을 경우, 패를 1장 리무브한다."
+      },
+      {
+        "type": "keyword",
+        "keyword": "ヒラメキ",
+        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。",
+        "textKo": "(증거에서 리무브될 때 발동한다)카드를 1장 뽑는다.",
+        "keywordKo": "히라메키"
+      }
+    ],
+    "imageId": "1729865282061478",
+    "restrictedCount": 3,
+    "ap": 4000,
+    "lp": 1,
+    "traitsJa": [
+      "黒ずくめの組織"
+    ]
+  },
+  {
+    "id": "D07020",
+    "setId": "CT-D07",
+    "name": {
+      "ja": "キャンティ",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "black"
+    ],
+    "rarity": "D",
+    "cost": 2,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "textJa": "【カットイン】AP＋2000（コンタクト中に手札からリムーブして使う）",
+        "textKo": "AP+2000(콘택트 중에 손패에서 리무브해서 사용한다)",
+        "keywordKo": "컷트인"
+      }
+    ],
+    "imageId": "1729865282065784",
+    "restrictedCount": 3,
+    "ap": 1000,
+    "lp": 1,
+    "traitsJa": [
+      "黒ずくめの組織"
+    ]
+  },
+  {
+    "id": "D07021",
+    "setId": "CT-D07",
+    "name": {
+      "ja": "コルン",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "black"
+    ],
+    "rarity": "D",
+    "cost": 3,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "textJa": "【カットイン】AP＋2000（コンタクト中に手札からリムーブして使う）",
+        "textKo": "AP+2000(콘택트 중에 손패에서 리무브해서 사용한다)",
+        "keywordKo": "컷트인"
+      }
+    ],
+    "imageId": "1729865297324051",
+    "restrictedCount": 3,
+    "ap": 2000,
+    "lp": 1,
+    "traitsJa": [
+      "黒ずくめの組織"
+    ]
+  },
+  {
+    "id": "D07022",
+    "setId": "CT-D07",
+    "name": {
+      "ja": "「裏切り者は匂いを消せねぇからな…」",
+      "ko": ""
+    },
+    "cardType": "event",
+    "colors": [
+      "black"
+    ],
+    "rarity": "D",
+    "cost": 5,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【パートナー黒】（パートナーが条件を満たしている場合、この能力か効果を使える）AP8000以下のキャラを1枚まで選び、リムーブする。",
+        "textKo": "[파트너 (흑)] AP8000 이하의 캐릭터를 1장까지 선택해, 리무브한다."
+      }
+    ],
+    "imageId": "1729865297331543",
+    "restrictedCount": 3
+  },
+  {
+    "id": "D07023",
+    "setId": "CT-D07",
+    "name": {
+      "ja": "烏丸蓮耶の影",
+      "ko": ""
+    },
+    "cardType": "event",
+    "colors": [
+      "black"
+    ],
+    "rarity": "D",
+    "cost": 1,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "自分のデッキのカードを上から3枚見る。その中から【黒】のキャラを1枚まで公開して手札に加え、残りを好きな順番でデッキの下に移す。手札から自分のFILEエリアの枚数以下のレベルの【黒】のキャラを1枚まで登場させる。",
+        "textKo": "자신의 덱의 카드를 위에서부터 3장 본다. 그 중에서 흑색 캐릭터를 1장까지 공개해 패에 추가하고, 남은 카드를 좋아하는 순서대로 덱의 아래에 둔다. 패에서 자신의 FILE에리어 매수 이하의 레벨의 흑색 캐릭터를 1장까지 등장시킨다."
+      }
+    ],
+    "imageId": "1729865297335374",
+    "restrictedCount": 3
+  },
+  {
+    "id": "D07024",
+    "setId": "CT-D07",
+    "name": {
+      "ja": "コードネーム・シェリー",
+      "ko": ""
+    },
+    "cardType": "case",
+    "colors": [
+      "black"
+    ],
+    "rarity": "D",
+    "cost": 0,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "自分の【黒】のパートナーの【事件解決】能力を以下の能力に書き換える。<br>【解決編】【証拠隠滅】【スリープ】〚証拠を事件レベルの数だけリムーブする〛：相手はゲームに敗北する。",
+        "textKo": "자신의 흑색 파트너의 사건해결 능력을 이하의 능력으로 바꾸어 쓴다.\n[해결편][증거인멸][슬립]증거를 사건레벨의 수만큼 리무브한다: 상대는 게임에서 패배한다."
+      }
+    ],
+    "imageId": "1729865396264410",
+    "restrictedCount": 3
+  }
+]

@@ -1,0 +1,468 @@
+[
+  {
+    "id": "D04001",
+    "setId": "CT-D04",
+    "name": {
+      "ja": "赤井秀一",
+      "ko": ""
+    },
+    "cardType": "partner",
+    "colors": [
+      "red"
+    ],
+    "rarity": "D",
+    "cost": 0,
+    "abilities": [],
+    "imageId": "1714013132375426",
+    "restrictedCount": 3,
+    "lp": 1
+  },
+  {
+    "id": "D04002",
+    "setId": "CT-D04",
+    "name": {
+      "ja": "赤井秀一",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "red"
+    ],
+    "rarity": "D",
+    "cost": 8,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【パートナー赤】【登場時】手札を1枚リムーブしてもよい。そうした場合、AP8000以下のキャラを1枚まで選び、リムーブする。",
+        "textKo": "[파트너 (적)][등장시] 패를 1장 리무브할 수 있다. 그렇게 할 경우 AP8000 이하의 캐릭터를 1장까지 선택해 리무브한다."
+      }
+    ],
+    "imageId": "1714013132379611",
+    "restrictedCount": 3,
+    "ap": 7000,
+    "lp": 2,
+    "traitsJa": [
+      "FBI",
+      "赤井家"
+    ]
+  },
+  {
+    "id": "D04003",
+    "setId": "CT-D04",
+    "name": {
+      "ja": "赤井秀一",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "red"
+    ],
+    "rarity": "D",
+    "cost": 7,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【パートナー赤】〚迅速〛（登場したターンからすぐに推理かアクションできる）",
+        "textKo": "[파트너 (청)] 신속 (등장한 턴부터 바로 추리나 액션을 할 수 있다.)"
+      }
+    ],
+    "imageId": "1714013132382924",
+    "restrictedCount": 3,
+    "ap": 6000,
+    "lp": 1,
+    "traitsJa": [
+      "FBI",
+      "赤井家"
+    ]
+  },
+  {
+    "id": "D04004",
+    "setId": "CT-D04",
+    "name": {
+      "ja": "赤井秀一",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "red"
+    ],
+    "rarity": "D",
+    "cost": 4,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "〚ブレット〛（このキャラのアクションはガードできない）",
+        "textKo": "블릿 (이 캐릭터의 액션은 가드할 수 없다)"
+      },
+      {
+        "type": "keyword",
+        "keyword": "ヒラメキ",
+        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。",
+        "textKo": "(증거에서 리무브될 때 발동한다)카드를 1장 뽑는다.",
+        "keywordKo": "히라메키"
+      }
+    ],
+    "imageId": "1714013132385566",
+    "restrictedCount": 3,
+    "ap": 4000,
+    "lp": 1,
+    "traitsJa": [
+      "FBI",
+      "赤井家"
+    ]
+  },
+  {
+    "id": "D04005",
+    "setId": "CT-D04",
+    "name": {
+      "ja": "世良真純",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "red"
+    ],
+    "rarity": "D",
+    "cost": 6,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "自分の現場にいるキャラがアクション［事件］したとき、ターン終了時までこのキャラは〚突撃〛（登場したターンからすぐにアクションできる）を持つ。",
+        "textKo": "자신의 현장에 있는 캐릭터가 액션[사건]했을 때, 턴 종료시까지 이 캐릭터는 돌격(등장한 턴부터 바로 액션할 수 있다)을 얻는다."
+      },
+      {
+        "type": "keyword",
+        "keyword": "ヒラメキ",
+        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。",
+        "textKo": "(증거에서 리무브될 때 발동한다)카드를 1장 뽑는다.",
+        "keywordKo": "히라메키"
+      }
+    ],
+    "imageId": "1714013132388746",
+    "restrictedCount": 3,
+    "ap": 5000,
+    "lp": 1,
+    "traitsJa": [
+      "探偵",
+      "高校生",
+      "赤井家"
+    ]
+  },
+  {
+    "id": "D04006",
+    "setId": "CT-D04",
+    "name": {
+      "ja": "羽田秀𠮷",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "red"
+    ],
+    "rarity": "D",
+    "cost": 3,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "textJa": "【カットイン】AP＋2000（コンタクト中に手札からリムーブして使う）",
+        "textKo": "AP+2000(콘택트 중에 손패에서 리무브해서 사용한다)",
+        "keywordKo": "컷트인"
+      }
+    ],
+    "imageId": "1714013132391355",
+    "restrictedCount": 3,
+    "ap": 2000,
+    "lp": 1,
+    "traitsJa": [
+      "棋士",
+      "赤井家"
+    ]
+  },
+  {
+    "id": "D04007",
+    "setId": "CT-D04",
+    "name": {
+      "ja": "メアリー",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "red"
+    ],
+    "rarity": "D",
+    "cost": 6,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "〚ミスリード1〛（相手の推理に対し、スリープさせることでLP－1する） 【ターン1】自分の現場にいるキャラのアクション［事件］によって証拠を得たとき、手札を1枚リムーブしてもよい。そうした場合、証拠を1つ得る。",
+        "textKo": "미스리드 1 (상대의 추리에 대해서, 슬립시키는 것으로 LP -1한다.)\n[턴1] 자신의 현장에 있는 캐릭터의 액션[사건]에 의해 증거를 얻었을 때, 패를 한 장 리무브할 수 있다. 그렇게 할 경우 증거를 하나 얻는다."
+      }
+    ],
+    "imageId": "1714013132394119",
+    "restrictedCount": 3,
+    "ap": 6000,
+    "lp": 1,
+    "traitsJa": [
+      "赤井家"
+    ]
+  },
+  {
+    "id": "D04008",
+    "setId": "CT-D04",
+    "name": {
+      "ja": "世良真純",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "red"
+    ],
+    "rarity": "D",
+    "cost": 3,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "〚ミスリード1〛（相手の推理に対し、スリープさせることでLP－1する）",
+        "textKo": "미스리드 1 (상대의 추리에 대해서, 슬립시키는 것으로 LP -1한다.)"
+      },
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "textJa": "【カットイン】AP＋1000（コンタクト中に手札からリムーブして使う）",
+        "textKo": "AP+1000(콘택트 중에 손패에서 리무브해서 사용한다)",
+        "keywordKo": "컷트인"
+      }
+    ],
+    "imageId": "1714013132396448",
+    "restrictedCount": 3,
+    "ap": 2000,
+    "lp": 1,
+    "traitsJa": [
+      "探偵",
+      "高校生",
+      "赤井家"
+    ]
+  },
+  {
+    "id": "D04009",
+    "setId": "CT-D04",
+    "name": {
+      "ja": "本堂瑛海",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "red"
+    ],
+    "rarity": "D",
+    "cost": 2,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "textJa": "【カットイン】AP＋2000（コンタクト中に手札からリムーブして使う）",
+        "textKo": "AP+2000(콘택트 중에 손패에서 리무브해서 사용한다)",
+        "keywordKo": "컷트인"
+      }
+    ],
+    "imageId": "1714013132399068",
+    "restrictedCount": 3,
+    "ap": 1000,
+    "lp": 1,
+    "traitsJa": [
+      "CIA"
+    ]
+  },
+  {
+    "id": "D04010",
+    "setId": "CT-D04",
+    "name": {
+      "ja": "ジョディ・スターリング",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "red"
+    ],
+    "rarity": "D",
+    "cost": 5,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【相手ターン中】【現場リムーブ時】相手は手札を1枚リムーブする。",
+        "textKo": "[상대의 턴 중][현장 리무브시] 상대의 패를 1장 리무브한다."
+      },
+      {
+        "type": "keyword",
+        "keyword": "ヒラメキ",
+        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）キャラを1枚まで選び、スリープさせる。",
+        "textKo": "(증거에서 리무브될 때 발동한다)캐릭터를 1장까지 고르고,슬립시킨다.",
+        "keywordKo": "히라메키"
+      }
+    ],
+    "imageId": "1714013132402737",
+    "restrictedCount": 3,
+    "ap": 5000,
+    "lp": 1,
+    "traitsJa": [
+      "FBI"
+    ]
+  },
+  {
+    "id": "D04011",
+    "setId": "CT-D04",
+    "name": {
+      "ja": "ジョディ・スターリング",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "red"
+    ],
+    "rarity": "D",
+    "cost": 4,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【登場時】自分のデッキのカードを上から4枚見る。その中から【赤】のカードを1枚まで公開して手札に加え、残りを好きな順番でデッキの下に移す。カードを手札に加えた場合、手札を1枚リムーブする。",
+        "textKo": "[등장시] 자신의 덱의 카드를 위에서부터 4장 본다. 그 중에서 적색 카드를 1장까지 공개해 패에 추가하고 나머지를 원하는 순서로 덱 아래에 둔다. 카드를 패에 추가했을 경우, 패를 1장 리무브 한다."
+      },
+      {
+        "type": "keyword",
+        "keyword": "ヒラメキ",
+        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。",
+        "textKo": "(증거에서 리무브될 때 발동한다)카드를 1장 뽑는다.",
+        "keywordKo": "히라메키"
+      }
+    ],
+    "imageId": "1714013132405530",
+    "restrictedCount": 3,
+    "ap": 4000,
+    "lp": 1,
+    "traitsJa": [
+      "FBI"
+    ]
+  },
+  {
+    "id": "D04012",
+    "setId": "CT-D04",
+    "name": {
+      "ja": "ジェイムズ・ブラック",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "red"
+    ],
+    "rarity": "D",
+    "cost": 4,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "textJa": "【カットイン】AP＋1000（コンタクト中に手札からリムーブして使う）",
+        "textKo": "AP+1000(콘택트 중에 손패에서 리무브해서 사용한다)",
+        "keywordKo": "컷트인"
+      }
+    ],
+    "imageId": "1714013132407246",
+    "restrictedCount": 3,
+    "ap": 4000,
+    "lp": 1,
+    "traitsJa": [
+      "FBI"
+    ]
+  },
+  {
+    "id": "D04013",
+    "setId": "CT-D04",
+    "name": {
+      "ja": "アンドレ・キャメル",
+      "ko": ""
+    },
+    "cardType": "character",
+    "colors": [
+      "red"
+    ],
+    "rarity": "D",
+    "cost": 5,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【パートナー赤】〚突撃〛（登場したターンからすぐにアクションできる）",
+        "textKo": "[파트너 (적)] 돌격 (등장한 턴부터 바로 액션할 수 있다.)"
+      }
+    ],
+    "imageId": "1714013167754975",
+    "restrictedCount": 3,
+    "ap": 5000,
+    "lp": 0,
+    "traitsJa": [
+      "FBI"
+    ]
+  },
+  {
+    "id": "D04014",
+    "setId": "CT-D04",
+    "name": {
+      "ja": "謎めいた乗客",
+      "ko": ""
+    },
+    "cardType": "event",
+    "colors": [
+      "red"
+    ],
+    "rarity": "D",
+    "cost": 1,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "自分のデッキのカードを上から3枚見る。その中から【赤】のキャラを1枚まで公開して手札に加え、残りを好きな順番でデッキの下に移す。手札から自分のFILEエリアの枚数以下のレベルの【赤】のキャラを1枚まで登場させる。",
+        "textKo": "자신의 덱의 카드를 위에서부터 3장 본다. 그 중에서 적색 캐릭터를 1장까지 공개해 패에 추가하고 나머지를 원하는 순서로 덱 아래에 둔다. 패에서 자신의 FILE 에리어 개수 이하의 레벨인 적색 캐릭터를 1장까지 등장시킨다."
+      }
+    ],
+    "imageId": "1714013167760500",
+    "restrictedCount": 3
+  },
+  {
+    "id": "D04015",
+    "setId": "CT-D04",
+    "name": {
+      "ja": "赤井の射撃",
+      "ko": ""
+    },
+    "cardType": "event",
+    "colors": [
+      "red"
+    ],
+    "rarity": "D",
+    "cost": 5,
+    "abilities": [
+      {
+        "type": "auto",
+        "textJa": "【パートナー赤】（パートナーが条件を満たしている場合、この能力か効果を使える）AP8000以下のキャラを1枚まで選び、リムーブする。",
+        "textKo": "[파트너 (적)] (파트너가 조건을 만족하는 경우, 이 능력이나 효과를 사용할 수 있다.) AP 8000이하의 캐릭터를 1장까지 선택해 리무브한다."
+      }
+    ],
+    "imageId": "1714013167763076",
+    "restrictedCount": 3
+  },
+  {
+    "id": "D04016",
+    "setId": "CT-D04",
+    "name": {
+      "ja": "緋色の帰還",
+      "ko": ""
+    },
+    "cardType": "case",
+    "colors": [
+      "red"
+    ],
+    "rarity": "D",
+    "cost": 0,
+    "abilities": [],
+    "imageId": "1714013167770207",
+    "restrictedCount": 3
+  }
+]
