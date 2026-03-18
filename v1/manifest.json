@@ -1,7 +1,8 @@
 {
-  "version": "2026-03-17",
+  "version": "2026-03-18",
   "files": {
     "nameTable.json": "de6aff93",
+    "prOrigin.json": "e9e5cb86",
     "sets.json": "a4adac1c",
     "traitTable.json": "e0ac28ae",
     "cards/CT-D01.json": "1e2d74db",
