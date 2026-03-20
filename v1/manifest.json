@@ -1,5 +1,5 @@
 {
-  "version": "2026-03-18",
+  "version": "2026-03-21",
   "files": {
     "nameTable.json": "de6aff93",
     "prOrigin.json": "e9e5cb86",
@@ -22,7 +22,7 @@
     "cards/CT-P05.json": "30405aa3",
     "cards/CT-P06.json": "ffcd1209",
     "cards/CT-P07.json": "b5f558d3",
-    "cards/CT-P08.json": "d6d2bfa2",
+    "cards/CT-P08.json": "025d7b4f",
     "cards/PR.json": "a14c2aed"
   }
 }
