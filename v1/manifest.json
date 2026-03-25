@@ -1,6 +1,7 @@
 {
-  "version": "2026-03-22",
+  "version": "2026-03-25",
   "files": {
+    ".DS_Store": "dc11bea4",
     "nameTable.json": "de6aff93",
     "prOrigin.json": "e9e5cb86",
     "sets.json": "a4adac1c",
@@ -14,15 +15,19 @@
     "cards/CT-D07.json": "52ebf809",
     "cards/CT-D08.json": "06de89df",
     "cards/CT-D09.json": "97b82948",
-    "cards/CT-D10.json": "82378494",
+    "cards/CT-D10.json": "d61e26f5",
     "cards/CT-P01.json": "cb85d176",
-    "cards/CT-P02.json": "5b8d10f2",
+    "cards/CT-P02.json": "eea748d2",
     "cards/CT-P03.json": "d469e59e",
     "cards/CT-P04.json": "1b3dd6ff",
     "cards/CT-P05.json": "30405aa3",
-    "cards/CT-P06.json": "8ed94e3e",
-    "cards/CT-P07.json": "7a4b95e8",
-    "cards/CT-P08.json": "671ee22c",
-    "cards/PR.json": "96d56582"
+    "cards/CT-P06.json": "ffcd1209",
+    "cards/CT-P07.json": "b5f558d3",
+    "cards/CT-P08.json": "d6d2bfa2",
+    "cards/PR.json": "a14c2aed",
+    "cards/.omc/sessions/513c8470-1361-4a46-beb9-b0a957b7a3f9.json": "01a56218",
+    "cards/.omc/state/hud-state.json": "c05ca597",
+    "cards/.omc/state/idle-notif-cooldown.json": "a2b5837e",
+    "cards/.omc/state/last-tool-error.json": "bcebf5b9"
   }
 }
