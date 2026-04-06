@@ -1,10 +1,10 @@
 {
-  "version": "2026-03-25",
+  "version": "2026-04-06",
   "files": {
     ".DS_Store": "dc11bea4",
     "nameTable.json": "de6aff93",
     "prOrigin.json": "e9e5cb86",
-    "sets.json": "a4adac1c",
+    "sets.json": "5ee0d9a4",
     "traitTable.json": "e0ac28ae",
     "cards/CT-D01.json": "1e2d74db",
     "cards/CT-D02.json": "af2da912",
@@ -24,7 +24,7 @@
     "cards/CT-P06.json": "ffcd1209",
     "cards/CT-P07.json": "b5f558d3",
     "cards/CT-P08.json": "d6d2bfa2",
-    "cards/PR.json": "a14c2aed",
+    "cards/PR.json": "aeb0f9cc",
     "cards/.omc/sessions/513c8470-1361-4a46-beb9-b0a957b7a3f9.json": "01a56218",
     "cards/.omc/state/hud-state.json": "c05ca597",
     "cards/.omc/state/idle-notif-cooldown.json": "a2b5837e",

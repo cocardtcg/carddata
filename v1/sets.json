@@ -9,7 +9,8 @@
       { "value": "CT-P05", "label": "새로운 수수께끼" },
       { "value": "CT-P06", "label": "교차하는 칼날" },
       { "value": "CT-P07", "label": "매혹의 매직" },
-      { "value": "CT-P08", "label": "애색의 숙명" }
+      { "value": "CT-P08", "label": "애색의 숙명" },
+      { "value": "CT-P09", "label": "질풍의 반짝임" }
     ]
   },
   {
@@ -29,7 +30,8 @@
       { "value": "CT-D07", "label": "검은 조직" },
       { "value": "CT-D08", "label": "푸른 고성 탐색 사건" },
       { "value": "CT-D09", "label": "사망의 관 붉은 벽" },
-      { "value": "CT-D10", "label": "셔플 로맨스" }
+      { "value": "CT-D10", "label": "셔플 로맨스" },
+      { "value": "CT-D11", "label": "치하야와 쥬고의 맞선 파티" }
     ]
   },
   {
