@@ -1,5 +1,5 @@
 {
-  "version": "2026-04-07",
+  "version": "2026-04-07b",
   "files": {
     "nameTable.json": "de6aff93",
     "prOrigin.json": "e9e5cb86",
@@ -16,12 +16,12 @@
     "cards/CT-D09.json": "97b82948",
     "cards/CT-D10.json": "d61e26f5",
     "cards/CT-P01.json": "cb85d176",
-    "cards/CT-P02.json": "1f350ca8",
-    "cards/CT-P03.json": "55bedc6b",
+    "cards/CT-P02.json": "fab2d2cc",
+    "cards/CT-P03.json": "7c0060c1",
     "cards/CT-P04.json": "1b3dd6ff",
-    "cards/CT-P05.json": "ad017cc9",
-    "cards/CT-P06.json": "ffcd1209",
-    "cards/CT-P07.json": "9db4c2a8",
+    "cards/CT-P05.json": "8c4eda71",
+    "cards/CT-P06.json": "6d780a6a",
+    "cards/CT-P07.json": "2604eb35",
     "cards/CT-P08.json": "d6d2bfa2",
     "cards/PR.json": "aeb0f9cc"
   }
