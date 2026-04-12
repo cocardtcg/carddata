@@ -1,11 +1,11 @@
 {
-  "version": "2026-04-12d",
+  "version": "2026-04-12e",
   "files": {
     "nameTable.json": "4e9443bc",
     "prOrigin.json": "e9e5cb86",
     "sets.json": "5ee0d9a4",
     "traitTable.json": "069b2f3a",
-    "translations.json": "1795e27e",
+    "translations.json": "37f9b6f4",
     "cards/CT-D01.json": "a0a23db4",
     "cards/CT-D02.json": "36a479d7",
     "cards/CT-D03.json": "4cd417d0",
