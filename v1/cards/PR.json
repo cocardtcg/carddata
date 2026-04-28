@@ -6969,5 +6969,423 @@
     ],
     "ap": 1000,
     "lp": 1
+  },
+  {
+    "id": "PR248",
+    "setId": "PR",
+    "name": {
+      "ja": "江戸川コナン&毛利蘭"
+    },
+    "cardType": "partner",
+    "colors": [
+      "blue"
+    ],
+    "rarity": "PR",
+    "cost": 0,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "【解決編】【事件解決】【スリープ】：自分の証拠が事件レベルの数以上ある場合、ゲームに勝利する。\r 【アシスト】【スリープ】：FILEエリアに移動する。自分のFILEエリアにカードが7枚以上ある場合、事件を解決編にする。"
+      }
+    ],
+    "imageId": "1776333828548361",
+    "restrictedCount": 3,
+    "lp": 1
+  },
+  {
+    "id": "PR249",
+    "setId": "PR",
+    "name": {
+      "ja": "遠山和葉"
+    },
+    "cardType": "partner",
+    "colors": [
+      "green"
+    ],
+    "rarity": "PR",
+    "cost": 0,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "【解決編】【事件解決】【スリープ】：自分の証拠が事件レベルの数以上ある場合、ゲームに勝利する。\r 【アシスト】【スリープ】：FILEエリアに移動する。自分のFILEエリアにカードが7枚以上ある場合、事件を解決編にする。"
+      }
+    ],
+    "imageId": "1776333828559436",
+    "restrictedCount": 3,
+    "lp": 1
+  },
+  {
+    "id": "PR250",
+    "setId": "PR",
+    "name": {
+      "ja": "鈴木園子"
+    },
+    "cardType": "partner",
+    "colors": [
+      "white"
+    ],
+    "rarity": "PR",
+    "cost": 0,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "【解決編】【事件解決】【スリープ】：自分の証拠が事件レベルの数以上ある場合、ゲームに勝利する。\r 【アシスト】【スリープ】：FILEエリアに移動する。自分のFILEエリアにカードが7枚以上ある場合、事件を解決編にする。"
+      }
+    ],
+    "imageId": "1776333828569404",
+    "restrictedCount": 3,
+    "lp": 1
+  },
+  {
+    "id": "PR251",
+    "setId": "PR",
+    "name": {
+      "ja": "世良真純"
+    },
+    "cardType": "partner",
+    "colors": [
+      "red"
+    ],
+    "rarity": "PR",
+    "cost": 0,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "【解決編】【事件解決】【スリープ】：自分の証拠が事件レベルの数以上ある場合、ゲームに勝利する。\r 【アシスト】【スリープ】：FILEエリアに移動する。自分のFILEエリアにカードが7枚以上ある場合、事件を解決編にする。"
+      }
+    ],
+    "imageId": "1776333828577292",
+    "restrictedCount": 3,
+    "lp": 1
+  },
+  {
+    "id": "PR252",
+    "setId": "PR",
+    "name": {
+      "ja": "萩原千速"
+    },
+    "cardType": "partner",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "PR",
+    "cost": 0,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "【解決編】【事件解決】【スリープ】：自分の証拠が事件レベルの数以上ある場合、ゲームに勝利する。\r 【アシスト】【スリープ】：FILEエリアに移動する。自分のFILEエリアにカードが7枚以上ある場合、事件を解決編にする。"
+      }
+    ],
+    "imageId": "1776333828586414",
+    "restrictedCount": 3,
+    "lp": 1
+  },
+  {
+    "id": "PR253",
+    "setId": "PR",
+    "name": {
+      "ja": "横溝重悟"
+    },
+    "cardType": "partner",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "PR",
+    "cost": 0,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "【解決編】【事件解決】【スリープ】：自分の証拠が事件レベルの数以上ある場合、ゲームに勝利する。\r 【アシスト】【スリープ】：FILEエリアに移動する。自分のFILEエリアにカードが7枚以上ある場合、事件を解決編にする。"
+      }
+    ],
+    "imageId": "1776333828596829",
+    "restrictedCount": 3,
+    "lp": 1
+  },
+  {
+    "id": "PR254",
+    "setId": "PR",
+    "name": {
+      "ja": "松田陣平"
+    },
+    "cardType": "partner",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "PR",
+    "cost": 0,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "【解決編】【事件解決】【スリープ】：自分の証拠が事件レベルの数以上ある場合、ゲームに勝利する。\r 【アシスト】【スリープ】：FILEエリアに移動する。自分のFILEエリアにカードが7枚以上ある場合、事件を解決編にする。"
+      }
+    ],
+    "imageId": "1776333828604120",
+    "restrictedCount": 3,
+    "lp": 1
+  },
+  {
+    "id": "PR255",
+    "setId": "PR",
+    "name": {
+      "ja": "萩原研二"
+    },
+    "cardType": "partner",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "PR",
+    "cost": 0,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "【解決編】【事件解決】【スリープ】：自分の証拠が事件レベルの数以上ある場合、ゲームに勝利する。\r 【アシスト】【スリープ】：FILEエリアに移動する。自分のFILEエリアにカードが7枚以上ある場合、事件を解決編にする。"
+      }
+    ],
+    "imageId": "1776333828612677",
+    "restrictedCount": 3,
+    "lp": 1
+  },
+  {
+    "id": "PR256",
+    "setId": "PR",
+    "name": {
+      "ja": "ジン"
+    },
+    "cardType": "partner",
+    "colors": [
+      "black"
+    ],
+    "rarity": "PR",
+    "cost": 0,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "【解決編】【事件解決】【スリープ】：自分の証拠が事件レベルの数以上ある場合、ゲームに勝利する。\r 【アシスト】【スリープ】：FILEエリアに移動する。自分のFILEエリアにカードが7枚以上ある場合、事件を解決編にする。"
+      }
+    ],
+    "imageId": "1776333828621452",
+    "restrictedCount": 3,
+    "lp": 1
+  },
+  {
+    "id": "PR257",
+    "setId": "PR",
+    "name": {
+      "ja": "ベルモット"
+    },
+    "cardType": "partner",
+    "colors": [
+      "black"
+    ],
+    "rarity": "PR",
+    "cost": 0,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "【解決編】【事件解決】【スリープ】：自分の証拠が事件レベルの数以上ある場合、ゲームに勝利する。\r 【アシスト】【スリープ】：FILEエリアに移動する。自分のFILEエリアにカードが7枚以上ある場合、事件を解決編にする。"
+      }
+    ],
+    "imageId": "1776333828629825",
+    "restrictedCount": 3,
+    "lp": 1
+  },
+  {
+    "id": "PR258",
+    "setId": "PR",
+    "name": {
+      "ja": "江戸川コナン＆世良真純"
+    },
+    "cardType": "partner",
+    "colors": [
+      "blue"
+    ],
+    "rarity": "PR",
+    "cost": 0,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "【解決編】【事件解決】【スリープ】：自分の証拠が事件レベルの数以上ある場合、ゲームに勝利する。\r 【アシスト】【スリープ】：FILEエリアに移動する。自分のFILEエリアにカードが7枚以上ある場合、事件を解決編にする。"
+      }
+    ],
+    "imageId": "1776331415751744",
+    "restrictedCount": 3,
+    "lp": 1
+  },
+  {
+    "id": "PR259",
+    "setId": "PR",
+    "name": {
+      "ja": "萩原千速＆横溝重悟＆萩原研二＆松田陣平"
+    },
+    "cardType": "partner",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "PR",
+    "cost": 0,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "【解決編】【事件解決】【スリープ】：自分の証拠が事件レベルの数以上ある場合、ゲームに勝利する。\r 【アシスト】【スリープ】：FILEエリアに移動する。自分のFILEエリアにカードが7枚以上ある場合、事件を解決編にする。"
+      }
+    ],
+    "imageId": "1776331415761887",
+    "restrictedCount": 3,
+    "lp": 1
+  },
+  {
+    "id": "PR260",
+    "setId": "PR",
+    "name": {
+      "ja": "江戸川コナン＆世良真純"
+    },
+    "cardType": "partner",
+    "colors": [
+      "blue"
+    ],
+    "rarity": "PR",
+    "cost": 0,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "【解決編】【事件解決】【スリープ】：自分の証拠が事件レベルの数以上ある場合、ゲームに勝利する。\r 【アシスト】【スリープ】：FILEエリアに移動する。自分のFILEエリアにカードが7枚以上ある場合、事件を解決編にする。"
+      }
+    ],
+    "imageId": "1776331415769450",
+    "restrictedCount": 3,
+    "lp": 1
+  },
+  {
+    "id": "PR261",
+    "setId": "PR",
+    "name": {
+      "ja": "萩原千速＆横溝重悟＆萩原研二＆松田陣平"
+    },
+    "cardType": "partner",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "PR",
+    "cost": 0,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "【解決編】【事件解決】【スリープ】：自分の証拠が事件レベルの数以上ある場合、ゲームに勝利する。\r 【アシスト】【スリープ】：FILEエリアに移動する。自分のFILEエリアにカードが7枚以上ある場合、事件を解決編にする。"
+      }
+    ],
+    "imageId": "1776331415776369",
+    "restrictedCount": 3,
+    "lp": 1
+  },
+  {
+    "id": "PR276",
+    "setId": "PR",
+    "name": {
+      "ja": "萩原千速"
+    },
+    "cardType": "character",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "PR",
+    "cost": 7,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "【パートナー黄】〚突撃〛（名乗り状態でもアクションできる）\r このキャラがアクションしたとき、自分のデッキのカードを上から2枚リムーブしてもよい。そうした場合、アクション終了時までこのキャラをAP＋1000する。"
+      }
+    ],
+    "imageId": "1776325107228258",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "警察",
+      "神奈川県警"
+    ],
+    "ap": 5000,
+    "lp": 1
+  },
+  {
+    "id": "PR279",
+    "setId": "PR",
+    "name": {
+      "ja": "萩原千速"
+    },
+    "cardType": "character",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "PR",
+    "cost": 8,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "現場にいるこのキャラは相手のイベントの効果によってリムーブされない。\r 【パートナー黄】〚突撃〛（名乗り状態でもアクションできる）\r 【疾風】相手の裏向きの証拠を1つまで選び、表向きにする。（自分の現場にこのターンで1番に登場したときに発動する）"
+      }
+    ],
+    "imageId": "19db98b484039",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "警察",
+      "神奈川県警"
+    ],
+    "ap": 8000,
+    "lp": 1
+  },
+  {
+    "id": "PR280",
+    "setId": "PR",
+    "name": {
+      "ja": "萩原千速"
+    },
+    "cardType": "character",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "PR",
+    "cost": 7,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "【パートナー黄】〚突撃〛（名乗り状態でもアクションできる）\r 【FILE6】相手の現場にいるキャラがこのキャラとのコンタクトによってリムーブされたとき、このキャラを現場からリムーブしてもよい。そうした場合、手札から〚カード名［萩原千速］〛以外のレベル7以下の〚特徴［警察］〛のキャラを1枚まで登場させる。"
+      }
+    ],
+    "imageId": "19db990b06718d",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "警察",
+      "神奈川県警"
+    ],
+    "ap": 5000,
+    "lp": 1
+  },
+  {
+    "id": "PR287",
+    "setId": "PR",
+    "name": {
+      "ja": "萩原千速"
+    },
+    "cardType": "character",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "PR",
+    "cost": 2,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "keywordKo": "컷인",
+        "textJa": "【カットイン】【パートナー黄】AP＋1000、〚特徴［警察］〛のキャラに【カットイン】した場合、カードを1枚引く。"
+      }
+    ],
+    "imageId": "19db9914eeb1a7",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "警察",
+      "神奈川県警"
+    ],
+    "ap": 1000,
+    "lp": 1
   }
 ]
