@@ -7387,5 +7387,59 @@
     ],
     "ap": 1000,
     "lp": 1
+  },
+  {
+    "id": "PR274",
+    "setId": "PR",
+    "name": {
+      "ja": "工藤新一"
+    },
+    "cardType": "character",
+    "colors": [
+      "blue"
+    ],
+    "rarity": "PR",
+    "cost": 8,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "【自分ターン中】自分の事件が【青】以外の色を持つ場合、自分の現場にいるこのキャラ以外のキャラをAP＋1000する。\r 【宣言】【スリープ】：レベル9以下のキャラを1枚まで選び、リムーブする。"
+      }
+    ],
+    "imageId": "19e3879935c1b0",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "探偵",
+      "高校生"
+    ],
+    "ap": 7000,
+    "lp": 2
+  },
+  {
+    "id": "PR275",
+    "setId": "PR",
+    "name": {
+      "ja": "工藤新一"
+    },
+    "cardType": "character",
+    "colors": [
+      "blue"
+    ],
+    "rarity": "PR",
+    "cost": 8,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "【自分ターン中】自分の事件が【青】以外の色を持つ場合、自分の現場にいるこのキャラ以外のキャラをAP＋1000する。\r 【宣言】【スリープ】：レベル9以下のキャラを1枚まで選び、リムーブする。"
+      }
+    ],
+    "imageId": "19e387bff5cc",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "探偵",
+      "高校生"
+    ],
+    "ap": 7000,
+    "lp": 2
   }
 ]
