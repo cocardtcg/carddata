@@ -7441,5 +7441,564 @@
     ],
     "ap": 7000,
     "lp": 2
+  },
+  {
+    "id": "PR281",
+    "setId": "PR",
+    "name": {
+      "ja": "江戸川コナン"
+    },
+    "cardType": "character",
+    "colors": [
+      "blue"
+    ],
+    "rarity": "PR",
+    "cost": 8,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "【パートナー青】【登場時】手札から〚特徴［少年探偵団］〛のキャラを1枚リムーブしてもよい。そうした場合、AP8000以下のキャラを1枚まで選び、リムーブする。 自分のターン終了時、自分の現場に〚特徴［少年探偵団］〛のキャラが3枚以上いる場合、カードを1枚引く。"
+      }
+    ],
+    "imageId": "1779885194344973",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "探偵",
+      "毛利探偵事務所",
+      "少年探偵団"
+    ],
+    "ap": 7000,
+    "lp": 2
+  },
+  {
+    "id": "PR282",
+    "setId": "PR",
+    "name": {
+      "ja": "大和敢助"
+    },
+    "cardType": "character",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "PR",
+    "cost": 8,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "【絆諸伏高明】【自分ターン中】LP＋1 【登場時】カードを1枚引き、手札を1枚リムーブする。リムーブしたカードが〚特徴［長野県警］〛のキャラの場合、AP8000以下のキャラを1枚まで選び、リムーブする。"
+      }
+    ],
+    "imageId": "1779885194361655",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "警察",
+      "長野県警"
+    ],
+    "ap": 7000,
+    "lp": 1
+  },
+  {
+    "id": "PR283",
+    "setId": "PR",
+    "name": {
+      "ja": "上原由衣"
+    },
+    "cardType": "character",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "PR",
+    "cost": 5,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "【FILE7】【自分ターン中】AP＋2000 このキャラがアクションしたとき、カードを1枚引く。"
+      }
+    ],
+    "imageId": "1779885194368166",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "警察",
+      "長野県警"
+    ],
+    "ap": 4000,
+    "lp": 1
+  },
+  {
+    "id": "PR284",
+    "setId": "PR",
+    "name": {
+      "ja": "諸伏高明"
+    },
+    "cardType": "character",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "PR",
+    "cost": 7,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "【絆大和敢助】【自分ターン中】AP＋2000 自分のリムーブエリアに〚特徴［長野県警］〛のキャラが2枚以上ある場合、このキャラは〚突撃〛（登場したターンからすぐにアクションできる）を持つ。"
+      }
+    ],
+    "imageId": "1779885194375923",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "警察",
+      "長野県警"
+    ],
+    "ap": 5000,
+    "lp": 2
+  },
+  {
+    "id": "PR285",
+    "setId": "PR",
+    "name": {
+      "ja": "諸伏景光"
+    },
+    "cardType": "character",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "PR",
+    "cost": 5,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "【パートナー黄】【登場時】自分のデッキのカードを上から3枚リムーブしてもよい。これによって〚特徴［警察］〛のキャラがリムーブされた場合、ターン終了時までこのキャラは〚突撃〛（登場したターンからすぐにアクションできる）を持つ。"
+      }
+    ],
+    "imageId": "1779885194382517",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "警察",
+      "警視庁",
+      "公安"
+    ],
+    "ap": 5000,
+    "lp": 1
+  },
+  {
+    "id": "PR286",
+    "setId": "PR",
+    "name": {
+      "ja": "ハイウェイの堕天使"
+    },
+    "cardType": "case",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "PR",
+    "cost": 0,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "この事件が解決編になったとき、自分は手札を1枚リムーブする。 【解決編】【宣言】【ターン1】〚手札から、〚特徴［神奈川県警］〛のキャラか【疾風】を持つキャラを1枚リムーブする〛：このターン中、次に自分の現場に登場したキャラは【疾風】の条件を無視できる。（2番目以降に登場しても発動する）"
+      }
+    ],
+    "imageId": "1779885194389343",
+    "restrictedCount": 3
+  },
+  {
+    "id": "PR288",
+    "setId": "PR",
+    "name": {
+      "ja": "萩原研二"
+    },
+    "cardType": "character",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "PR",
+    "cost": 7,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "〚突撃〛（名乗り状態でもアクションできる）\r このキャラがアクションしたとき、自分の裏向きの証拠を1つ選び、表向きにし、相手の裏向きの証拠を1つ選び、表向きにする。（選べる場合、必ず選んで表向きにする）合わせて2つ表向きにした場合、ターン終了時までこのキャラをAP＋1000する。"
+      },
+      {
+        "type": "keyword",
+        "keyword": "ヒラメキ",
+        "keywordKo": "히라메키",
+        "textJa": "【ヒラメキ】相手の裏向きの証拠を1つまで選び、表向きにする。"
+      }
+    ],
+    "imageId": "1779885194396059",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "警察",
+      "警視庁"
+    ],
+    "ap": 6000,
+    "lp": 1
+  },
+  {
+    "id": "PR289",
+    "setId": "PR",
+    "name": {
+      "ja": "円谷光彦"
+    },
+    "cardType": "character",
+    "colors": [
+      "blue"
+    ],
+    "rarity": "PR",
+    "cost": 7,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "〚突撃〛（名乗り状態でもアクションできる）\r 【FILE7】【ターン1】このキャラのアクション終了時、このキャラの下にカードが重なっている場合、手札を1枚リムーブしてもよい。そうした場合、このキャラをアクティブにする。\r 【宣言】【ターン1】〚現場にいるこのキャラ以外の特徴［少年探偵団］のキャラを1枚このキャラの下に重ねる〛：カードを1枚引く。"
+      }
+    ],
+    "imageId": "1779885194402942",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "少年探偵団"
+    ],
+    "ap": 6000,
+    "lp": 0
+  },
+  {
+    "id": "PR290",
+    "setId": "PR",
+    "name": {
+      "ja": "沖田総司"
+    },
+    "cardType": "character",
+    "colors": [
+      "green"
+    ],
+    "rarity": "PR",
+    "cost": 7,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "【自分ターン中】現場にいるこのキャラをレベル＋1し、AP＋1000する。\r 【パートナー緑】〚突撃〛（名乗り状態でもアクションできる）\r 【事件緑＆白】【宣言】【ターン1】相手の現場にいるキャラを1枚まで選び、ターン終了時まで「このキャラはガードできる場合、必ずガードする。」を与える。"
+      }
+    ],
+    "imageId": "1779885194410209",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "高校生"
+    ],
+    "ap": 6000,
+    "lp": 0
+  },
+  {
+    "id": "PR291",
+    "setId": "PR",
+    "name": {
+      "ja": "紫紅の爪"
+    },
+    "cardType": "event",
+    "colors": [
+      "white"
+    ],
+    "rarity": "PR",
+    "cost": 5,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "【パートナー白】【解決編】AP7000以上のキャラを1枚まで選び、リムーブする。このカードをパートナーエリアに移す。自分の現場に〚カード名［怪盗キッド］〛がいる場合、手札からレベル3以下の【白】のキャラを1枚までスリープ状態で登場させてもよい。"
+      },
+      {
+        "type": "keyword",
+        "keyword": "ヒラメキ",
+        "keywordKo": "히라메키",
+        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）このカードをパートナーエリアに移す。"
+      }
+    ],
+    "imageId": "1779885194416137",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "ビッグジュエル"
+    ]
+  },
+  {
+    "id": "PR292",
+    "setId": "PR",
+    "name": {
+      "ja": "キャンティ"
+    },
+    "cardType": "character",
+    "colors": [
+      "black"
+    ],
+    "rarity": "PR",
+    "cost": 7,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "【宣言】【スリープ】〚デッキのカードを上から3枚リムーブする〛：この【宣言】能力のコストによって【カットイン】を持つ【黒】のカードが3枚以上リムーブされた場合、相手の現場にいるレベル7以下のキャラを1枚まで選び、リムーブする。"
+      },
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "keywordKo": "컷인",
+        "textJa": "【カットイン】【自分ターン中】キャラを1枚まで選び、スリープさせる。（自分のターンのコンタクト中に手札からリムーブして使う）"
+      }
+    ],
+    "imageId": "1779885194423472",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "黒ずくめの組織"
+    ],
+    "ap": 5000,
+    "lp": 1
+  },
+  {
+    "id": "PR293",
+    "setId": "PR",
+    "name": {
+      "ja": "キャンティ"
+    },
+    "cardType": "character",
+    "colors": [
+      "black"
+    ],
+    "rarity": "PR",
+    "cost": 2,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "keywordKo": "컷인",
+        "textJa": "【カットイン】AP＋2000（コンタクト中に手札からリムーブして使う）"
+      }
+    ],
+    "imageId": "1779885194430284",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "黒ずくめの組織"
+    ],
+    "ap": 1000,
+    "lp": 1
+  },
+  {
+    "id": "PR294",
+    "setId": "PR",
+    "name": {
+      "ja": "怪盗キッド"
+    },
+    "cardType": "character",
+    "colors": [
+      "white"
+    ],
+    "rarity": "PR",
+    "cost": 2,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "keywordKo": "컷인",
+        "textJa": "【カットイン】AP＋2000"
+      }
+    ],
+    "imageId": "1779885194437594",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "怪盗"
+    ],
+    "ap": 1000,
+    "lp": 1
+  },
+  {
+    "id": "PR295",
+    "setId": "PR",
+    "name": {
+      "ja": "円谷光彦"
+    },
+    "cardType": "character",
+    "colors": [
+      "blue"
+    ],
+    "rarity": "PR",
+    "cost": 7,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "〚突撃〛（名乗り状態でもアクションできる）\r 【FILE7】【ターン1】このキャラのアクション終了時、このキャラの下にカードが重なっている場合、手札を1枚リムーブしてもよい。そうした場合、このキャラをアクティブにする。\r 【宣言】【ターン1】〚現場にいるこのキャラ以外の特徴［少年探偵団］のキャラを1枚このキャラの下に重ねる〛：カードを1枚引く。"
+      }
+    ],
+    "imageId": "1779885194445319",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "少年探偵団"
+    ],
+    "ap": 6000,
+    "lp": 0
+  },
+  {
+    "id": "PR296",
+    "setId": "PR",
+    "name": {
+      "ja": "沖田総司"
+    },
+    "cardType": "character",
+    "colors": [
+      "green"
+    ],
+    "rarity": "PR",
+    "cost": 7,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "【自分ターン中】現場にいるこのキャラをレベル＋1し、AP＋1000する。\r 【パートナー緑】〚突撃〛（名乗り状態でもアクションできる）\r 【事件緑＆白】【宣言】【ターン1】相手の現場にいるキャラを1枚まで選び、ターン終了時まで「このキャラはガードできる場合、必ずガードする。」を与える。"
+      }
+    ],
+    "imageId": "1779885194452790",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "高校生"
+    ],
+    "ap": 6000,
+    "lp": 0
+  },
+  {
+    "id": "PR297",
+    "setId": "PR",
+    "name": {
+      "ja": "紫紅の爪"
+    },
+    "cardType": "event",
+    "colors": [
+      "white"
+    ],
+    "rarity": "PR",
+    "cost": 5,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "【パートナー白】【解決編】AP7000以上のキャラを1枚まで選び、リムーブする。このカードをパートナーエリアに移す。自分の現場に〚カード名［怪盗キッド］〛がいる場合、手札からレベル3以下の【白】のキャラを1枚までスリープ状態で登場させてもよい。"
+      },
+      {
+        "type": "keyword",
+        "keyword": "ヒラメキ",
+        "keywordKo": "히라메키",
+        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）このカードをパートナーエリアに移す。"
+      }
+    ],
+    "imageId": "1779885194459334",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "ビッグジュエル"
+    ]
+  },
+  {
+    "id": "PR298",
+    "setId": "PR",
+    "name": {
+      "ja": "キャンティ"
+    },
+    "cardType": "character",
+    "colors": [
+      "black"
+    ],
+    "rarity": "PR",
+    "cost": 7,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "【宣言】【スリープ】〚デッキのカードを上から3枚リムーブする〛：この【宣言】能力のコストによって【カットイン】を持つ【黒】のカードが3枚以上リムーブされた場合、相手の現場にいるレベル7以下のキャラを1枚まで選び、リムーブする。"
+      },
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "keywordKo": "컷인",
+        "textJa": "【カットイン】【自分ターン中】キャラを1枚まで選び、スリープさせる。（自分のターンのコンタクト中に手札からリムーブして使う）"
+      }
+    ],
+    "imageId": "1779885194466517",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "黒ずくめの組織"
+    ],
+    "ap": 5000,
+    "lp": 1
+  },
+  {
+    "id": "PR299",
+    "setId": "PR",
+    "name": {
+      "ja": "キャンティ"
+    },
+    "cardType": "character",
+    "colors": [
+      "black"
+    ],
+    "rarity": "PR",
+    "cost": 2,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "keywordKo": "컷인",
+        "textJa": "【カットイン】AP＋2000（コンタクト中に手札からリムーブして使う）"
+      }
+    ],
+    "imageId": "1779885194473848",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "黒ずくめの組織"
+    ],
+    "ap": 1000,
+    "lp": 1
+  },
+  {
+    "id": "PR300",
+    "setId": "PR",
+    "name": {
+      "ja": "怪盗キッド"
+    },
+    "cardType": "character",
+    "colors": [
+      "white"
+    ],
+    "rarity": "PR",
+    "cost": 2,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "keywordKo": "컷인",
+        "textJa": "【カットイン】AP＋2000"
+      }
+    ],
+    "imageId": "1779885194480796",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "怪盗"
+    ],
+    "ap": 1000,
+    "lp": 1
+  },
+  {
+    "id": "PR301",
+    "setId": "PR",
+    "name": {
+      "ja": "ジン"
+    },
+    "cardType": "character",
+    "colors": [
+      "black"
+    ],
+    "rarity": "PR",
+    "cost": 2,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "keywordKo": "컷인",
+        "textJa": "【カットイン】【自分ターン中】AP＋3000（自分のターンのコンタクト中に手札からリムーブして使う）"
+      }
+    ],
+    "imageId": "1779885194487245",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "黒ずくめの組織"
+    ],
+    "ap": 1000,
+    "lp": 1
   }
 ]
