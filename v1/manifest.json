@@ -1,5 +1,5 @@
 {
-  "version": "2026-06-28-02",
+  "version": "2026-06-29-01",
   "files": {
     "nameTable.json": "77ad4760",
     "prOrigin.json": "e9e5cb86",
@@ -44,8 +44,8 @@
     "translations/CT-P05.json": "94967b45",
     "translations/CT-P06.json": "4e972619",
     "translations/CT-P07.json": "0f45cf32",
-    "translations/CT-P08.json": "ae1230c8",
-    "translations/CT-P09.json": "2307647e",
+    "translations/CT-P08.json": "d7d03cbf",
+    "translations/CT-P09.json": "00be6d41",
     "translations/PR.json": "ee8013e5"
   }
 }
