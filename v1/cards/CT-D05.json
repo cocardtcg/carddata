@@ -3,8 +3,7 @@
     "id": "D05001",
     "setId": "CT-D05",
     "name": {
-      "ja": "安室透",
-      "ko": ""
+      "ja": "安室透"
     },
     "cardType": "partner",
     "colors": [
@@ -26,8 +25,7 @@
     "id": "D05002",
     "setId": "CT-D05",
     "name": {
-      "ja": "降谷零",
-      "ko": ""
+      "ja": "降谷零"
     },
     "cardType": "character",
     "colors": [
@@ -54,8 +52,7 @@
     "id": "D05003",
     "setId": "CT-D05",
     "name": {
-      "ja": "降谷零",
-      "ko": ""
+      "ja": "降谷零"
     },
     "cardType": "character",
     "colors": [
@@ -82,8 +79,7 @@
     "id": "D05004",
     "setId": "CT-D05",
     "name": {
-      "ja": "降谷零",
-      "ko": ""
+      "ja": "降谷零"
     },
     "cardType": "character",
     "colors": [
@@ -100,7 +96,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。"
+        "textJa": "（証拠からリムーブされるときに発動する）カードを1枚引く。"
       }
     ],
     "imageId": "1714013167782437",
@@ -116,8 +112,7 @@
     "id": "D05005",
     "setId": "CT-D05",
     "name": {
-      "ja": "黒田兵衛",
-      "ko": ""
+      "ja": "黒田兵衛"
     },
     "cardType": "character",
     "colors": [
@@ -134,7 +129,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。"
+        "textJa": "（証拠からリムーブされるときに発動する）カードを1枚引く。"
       }
     ],
     "imageId": "1714013167785716",
@@ -150,8 +145,7 @@
     "id": "D05006",
     "setId": "CT-D05",
     "name": {
-      "ja": "目暮十三",
-      "ko": ""
+      "ja": "目暮十三"
     },
     "cardType": "character",
     "colors": [
@@ -178,8 +172,7 @@
     "id": "D05007",
     "setId": "CT-D05",
     "name": {
-      "ja": "松田陣平",
-      "ko": ""
+      "ja": "松田陣平"
     },
     "cardType": "character",
     "colors": [
@@ -196,7 +189,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）キャラを1枚まで選び、スリープさせる。"
+        "textJa": "（証拠からリムーブされるときに発動する）キャラを1枚まで選び、スリープさせる。"
       }
     ],
     "imageId": "1714013167791370",
@@ -212,8 +205,7 @@
     "id": "D05008",
     "setId": "CT-D05",
     "name": {
-      "ja": "松田陣平",
-      "ko": ""
+      "ja": "松田陣平"
     },
     "cardType": "character",
     "colors": [
@@ -226,7 +218,7 @@
         "type": "keyword",
         "keyword": "カットイン",
         "keywordKo": "컷인",
-        "textJa": "【カットイン】AP＋2000（コンタクト中に手札からリムーブして使う）"
+        "textJa": "AP＋2000（コンタクト中に手札からリムーブして使う）"
       }
     ],
     "imageId": "1714013167794520",
@@ -242,8 +234,7 @@
     "id": "D05009",
     "setId": "CT-D05",
     "name": {
-      "ja": "風見裕也",
-      "ko": ""
+      "ja": "風見裕也"
     },
     "cardType": "character",
     "colors": [
@@ -271,8 +262,7 @@
     "id": "D05010",
     "setId": "CT-D05",
     "name": {
-      "ja": "風見裕也",
-      "ko": ""
+      "ja": "風見裕也"
     },
     "cardType": "character",
     "colors": [
@@ -285,7 +275,7 @@
         "type": "keyword",
         "keyword": "カットイン",
         "keywordKo": "컷인",
-        "textJa": "【カットイン】AP＋2000（コンタクト中に手札からリムーブして使う）"
+        "textJa": "AP＋2000（コンタクト中に手札からリムーブして使う）"
       }
     ],
     "imageId": "1714013167801806",
@@ -302,8 +292,7 @@
     "id": "D05011",
     "setId": "CT-D05",
     "name": {
-      "ja": "白鳥任三郎",
-      "ko": ""
+      "ja": "白鳥任三郎"
     },
     "cardType": "character",
     "colors": [
@@ -320,7 +309,7 @@
         "type": "keyword",
         "keyword": "カットイン",
         "keywordKo": "컷인",
-        "textJa": "【カットイン】AP＋1000（コンタクト中に手札からリムーブして使う）"
+        "textJa": "AP＋1000（コンタクト中に手札からリムーブして使う）"
       }
     ],
     "imageId": "1714013167804383",
@@ -336,8 +325,7 @@
     "id": "D05012",
     "setId": "CT-D05",
     "name": {
-      "ja": "佐藤美和子",
-      "ko": ""
+      "ja": "佐藤美和子"
     },
     "cardType": "character",
     "colors": [
@@ -354,7 +342,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。"
+        "textJa": "（証拠からリムーブされるときに発動する）カードを1枚引く。"
       }
     ],
     "imageId": "1714013167807968",
@@ -370,8 +358,7 @@
     "id": "D05013",
     "setId": "CT-D05",
     "name": {
-      "ja": "高木渉",
-      "ko": ""
+      "ja": "高木渉"
     },
     "cardType": "character",
     "colors": [
@@ -384,7 +371,7 @@
         "type": "keyword",
         "keyword": "カットイン",
         "keywordKo": "컷인",
-        "textJa": "【カットイン】AP＋1000（コンタクト中に手札からリムーブして使う）"
+        "textJa": "AP＋1000（コンタクト中に手札からリムーブして使う）"
       }
     ],
     "imageId": "1714013167810007",
@@ -400,8 +387,7 @@
     "id": "D05014",
     "setId": "CT-D05",
     "name": {
-      "ja": "プライベートアイ",
-      "ko": ""
+      "ja": "プライベートアイ"
     },
     "cardType": "event",
     "colors": [
@@ -422,8 +408,7 @@
     "id": "D05015",
     "setId": "CT-D05",
     "name": {
-      "ja": "安室の一撃",
-      "ko": ""
+      "ja": "安室の一撃"
     },
     "cardType": "event",
     "colors": [
@@ -444,8 +429,7 @@
     "id": "D05016",
     "setId": "CT-D05",
     "name": {
-      "ja": "緋色の疑惑",
-      "ko": ""
+      "ja": "緋色の疑惑"
     },
     "cardType": "case",
     "colors": [

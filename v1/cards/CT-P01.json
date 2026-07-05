@@ -3,8 +3,7 @@
     "id": "B01001",
     "setId": "CT-P01",
     "name": {
-      "ja": "江戸川コナン",
-      "ko": ""
+      "ja": "江戸川コナン"
     },
     "cardType": "partner",
     "colors": [
@@ -26,8 +25,7 @@
     "id": "B01001P",
     "setId": "CT-P01",
     "name": {
-      "ja": "江戸川コナン",
-      "ko": ""
+      "ja": "江戸川コナン"
     },
     "cardType": "partner",
     "colors": [
@@ -49,8 +47,7 @@
     "id": "B01001Sec1",
     "setId": "CT-P01",
     "name": {
-      "ja": "江戸川コナン",
-      "ko": ""
+      "ja": "江戸川コナン"
     },
     "cardType": "partner",
     "colors": [
@@ -72,8 +69,7 @@
     "id": "B01001Sec2",
     "setId": "CT-P01",
     "name": {
-      "ja": "江戸川コナン",
-      "ko": ""
+      "ja": "江戸川コナン"
     },
     "cardType": "partner",
     "colors": [
@@ -95,8 +91,7 @@
     "id": "B01002",
     "setId": "CT-P01",
     "name": {
-      "ja": "工藤新一",
-      "ko": ""
+      "ja": "工藤新一"
     },
     "cardType": "partner",
     "colors": [
@@ -118,8 +113,7 @@
     "id": "B01002P",
     "setId": "CT-P01",
     "name": {
-      "ja": "工藤新一",
-      "ko": ""
+      "ja": "工藤新一"
     },
     "cardType": "partner",
     "colors": [
@@ -141,8 +135,7 @@
     "id": "B01003",
     "setId": "CT-P01",
     "name": {
-      "ja": "灰原哀",
-      "ko": ""
+      "ja": "灰原哀"
     },
     "cardType": "partner",
     "colors": [
@@ -164,8 +157,7 @@
     "id": "B01003P",
     "setId": "CT-P01",
     "name": {
-      "ja": "灰原哀",
-      "ko": ""
+      "ja": "灰原哀"
     },
     "cardType": "partner",
     "colors": [
@@ -187,8 +179,7 @@
     "id": "B01004",
     "setId": "CT-P01",
     "name": {
-      "ja": "毛利小五郎",
-      "ko": ""
+      "ja": "毛利小五郎"
     },
     "cardType": "partner",
     "colors": [
@@ -210,8 +201,7 @@
     "id": "B01004P",
     "setId": "CT-P01",
     "name": {
-      "ja": "毛利小五郎",
-      "ko": ""
+      "ja": "毛利小五郎"
     },
     "cardType": "partner",
     "colors": [
@@ -233,8 +223,7 @@
     "id": "B01005",
     "setId": "CT-P01",
     "name": {
-      "ja": "江戸川コナン",
-      "ko": ""
+      "ja": "江戸川コナン"
     },
     "cardType": "character",
     "colors": [
@@ -262,8 +251,7 @@
     "id": "B01005P",
     "setId": "CT-P01",
     "name": {
-      "ja": "江戸川コナン",
-      "ko": ""
+      "ja": "江戸川コナン"
     },
     "cardType": "character",
     "colors": [
@@ -291,8 +279,7 @@
     "id": "B01006",
     "setId": "CT-P01",
     "name": {
-      "ja": "灰原哀",
-      "ko": ""
+      "ja": "灰原哀"
     },
     "cardType": "character",
     "colors": [
@@ -319,8 +306,7 @@
     "id": "B01006P",
     "setId": "CT-P01",
     "name": {
-      "ja": "灰原哀",
-      "ko": ""
+      "ja": "灰原哀"
     },
     "cardType": "character",
     "colors": [
@@ -347,8 +333,7 @@
     "id": "B01007",
     "setId": "CT-P01",
     "name": {
-      "ja": "毛利蘭",
-      "ko": ""
+      "ja": "毛利蘭"
     },
     "cardType": "character",
     "colors": [
@@ -376,8 +361,7 @@
     "id": "B01008",
     "setId": "CT-P01",
     "name": {
-      "ja": "江戸川コナン",
-      "ko": ""
+      "ja": "江戸川コナン"
     },
     "cardType": "character",
     "colors": [
@@ -390,7 +374,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。"
+        "textJa": "（証拠からリムーブされるときに発動する）カードを1枚引く。"
       }
     ],
     "imageId": "1734349765579866",
@@ -407,8 +391,7 @@
     "id": "B01009",
     "setId": "CT-P01",
     "name": {
-      "ja": "工藤新一",
-      "ko": ""
+      "ja": "工藤新一"
     },
     "cardType": "character",
     "colors": [
@@ -435,8 +418,7 @@
     "id": "B01009P",
     "setId": "CT-P01",
     "name": {
-      "ja": "工藤新一",
-      "ko": ""
+      "ja": "工藤新一"
     },
     "cardType": "character",
     "colors": [
@@ -463,8 +445,7 @@
     "id": "B01010",
     "setId": "CT-P01",
     "name": {
-      "ja": "毛利小五郎",
-      "ko": ""
+      "ja": "毛利小五郎"
     },
     "cardType": "character",
     "colors": [
@@ -491,8 +472,7 @@
     "id": "B01010P",
     "setId": "CT-P01",
     "name": {
-      "ja": "毛利小五郎",
-      "ko": ""
+      "ja": "毛利小五郎"
     },
     "cardType": "character",
     "colors": [
@@ -519,8 +499,7 @@
     "id": "B01011",
     "setId": "CT-P01",
     "name": {
-      "ja": "江戸川コナン",
-      "ko": ""
+      "ja": "江戸川コナン"
     },
     "cardType": "character",
     "colors": [
@@ -537,7 +516,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。"
+        "textJa": "（証拠からリムーブされるときに発動する）カードを1枚引く。"
       }
     ],
     "imageId": "1714012985492767",
@@ -554,8 +533,7 @@
     "id": "B01012",
     "setId": "CT-P01",
     "name": {
-      "ja": "阿笠博士",
-      "ko": ""
+      "ja": "阿笠博士"
     },
     "cardType": "character",
     "colors": [
@@ -581,8 +559,7 @@
     "id": "B01013",
     "setId": "CT-P01",
     "name": {
-      "ja": "妃英理",
-      "ko": ""
+      "ja": "妃英理"
     },
     "cardType": "character",
     "colors": [
@@ -608,8 +585,7 @@
     "id": "B01013P",
     "setId": "CT-P01",
     "name": {
-      "ja": "妃英理",
-      "ko": ""
+      "ja": "妃英理"
     },
     "cardType": "character",
     "colors": [
@@ -635,8 +611,7 @@
     "id": "B01014",
     "setId": "CT-P01",
     "name": {
-      "ja": "小嶋元太",
-      "ko": ""
+      "ja": "小嶋元太"
     },
     "cardType": "character",
     "colors": [
@@ -662,8 +637,7 @@
     "id": "B01015",
     "setId": "CT-P01",
     "name": {
-      "ja": "円谷光彦",
-      "ko": ""
+      "ja": "円谷光彦"
     },
     "cardType": "character",
     "colors": [
@@ -689,8 +663,7 @@
     "id": "B01016",
     "setId": "CT-P01",
     "name": {
-      "ja": "灰原哀",
-      "ko": ""
+      "ja": "灰原哀"
     },
     "cardType": "character",
     "colors": [
@@ -707,7 +680,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。"
+        "textJa": "（証拠からリムーブされるときに発動する）カードを1枚引く。"
       }
     ],
     "imageId": "1714012985512478",
@@ -723,8 +696,7 @@
     "id": "B01016P",
     "setId": "CT-P01",
     "name": {
-      "ja": "灰原哀",
-      "ko": ""
+      "ja": "灰原哀"
     },
     "cardType": "character",
     "colors": [
@@ -741,7 +713,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。"
+        "textJa": "（証拠からリムーブされるときに発動する）カードを1枚引く。"
       }
     ],
     "imageId": "1714012985515913",
@@ -757,8 +729,7 @@
     "id": "B01017",
     "setId": "CT-P01",
     "name": {
-      "ja": "本堂瑛祐",
-      "ko": ""
+      "ja": "本堂瑛祐"
     },
     "cardType": "character",
     "colors": [
@@ -775,7 +746,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。"
+        "textJa": "（証拠からリムーブされるときに発動する）カードを1枚引く。"
       }
     ],
     "imageId": "1714012985519341",
@@ -790,8 +761,7 @@
     "id": "B01018",
     "setId": "CT-P01",
     "name": {
-      "ja": "宮野志保",
-      "ko": ""
+      "ja": "宮野志保"
     },
     "cardType": "character",
     "colors": [
@@ -808,7 +778,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。"
+        "textJa": "（証拠からリムーブされるときに発動する）カードを1枚引く。"
       }
     ],
     "imageId": "1714012985521956",
@@ -823,8 +793,7 @@
     "id": "B01019",
     "setId": "CT-P01",
     "name": {
-      "ja": "毛利蘭",
-      "ko": ""
+      "ja": "毛利蘭"
     },
     "cardType": "character",
     "colors": [
@@ -837,7 +806,7 @@
         "type": "keyword",
         "keyword": "カットイン",
         "keywordKo": "컷인",
-        "textJa": "【カットイン】AP＋2000（コンタクト中に手札からリムーブして使う）"
+        "textJa": "AP＋2000（コンタクト中に手札からリムーブして使う）"
       }
     ],
     "imageId": "1714012985524844",
@@ -854,8 +823,7 @@
     "id": "B01019P",
     "setId": "CT-P01",
     "name": {
-      "ja": "毛利蘭",
-      "ko": ""
+      "ja": "毛利蘭"
     },
     "cardType": "character",
     "colors": [
@@ -868,7 +836,7 @@
         "type": "keyword",
         "keyword": "カットイン",
         "keywordKo": "컷인",
-        "textJa": "【カットイン】AP＋2000（コンタクト中に手札からリムーブして使う）"
+        "textJa": "AP＋2000（コンタクト中に手札からリムーブして使う）"
       }
     ],
     "imageId": "1714012985527672",
@@ -885,8 +853,7 @@
     "id": "B01020",
     "setId": "CT-P01",
     "name": {
-      "ja": "毛利小五郎",
-      "ko": ""
+      "ja": "毛利小五郎"
     },
     "cardType": "character",
     "colors": [
@@ -903,7 +870,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）キャラを1枚まで選び、スリープさせる。"
+        "textJa": "（証拠からリムーブされるときに発動する）キャラを1枚まで選び、スリープさせる。"
       }
     ],
     "imageId": "1714012985529336",
@@ -919,8 +886,7 @@
     "id": "B01021",
     "setId": "CT-P01",
     "name": {
-      "ja": "吉田歩美",
-      "ko": ""
+      "ja": "吉田歩美"
     },
     "cardType": "character",
     "colors": [
@@ -946,8 +912,7 @@
     "id": "B01022",
     "setId": "CT-P01",
     "name": {
-      "ja": "少年探偵団",
-      "ko": ""
+      "ja": "少年探偵団"
     },
     "cardType": "event",
     "colors": [
@@ -968,8 +933,7 @@
     "id": "B01023",
     "setId": "CT-P01",
     "name": {
-      "ja": "シャッフルロマンス",
-      "ko": ""
+      "ja": "シャッフルロマンス"
     },
     "cardType": "event",
     "colors": [
@@ -986,7 +950,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。"
+        "textJa": "（証拠からリムーブされるときに発動する）カードを1枚引く。"
       }
     ],
     "imageId": "1714012985537235",
@@ -996,8 +960,7 @@
     "id": "B01023P",
     "setId": "CT-P01",
     "name": {
-      "ja": "シャッフルロマンス",
-      "ko": ""
+      "ja": "シャッフルロマンス"
     },
     "cardType": "event",
     "colors": [
@@ -1014,7 +977,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。"
+        "textJa": "（証拠からリムーブされるときに発動する）カードを1枚引く。"
       }
     ],
     "imageId": "1714012985541569",
@@ -1024,8 +987,7 @@
     "id": "B01024",
     "setId": "CT-P01",
     "name": {
-      "ja": "大阪“3つのK”事件",
-      "ko": ""
+      "ja": "大阪“3つのK”事件"
     },
     "cardType": "case",
     "colors": [
@@ -1041,8 +1003,7 @@
     "id": "B01024P",
     "setId": "CT-P01",
     "name": {
-      "ja": "大阪“3つのK”事件",
-      "ko": ""
+      "ja": "大阪“3つのK”事件"
     },
     "cardType": "case",
     "colors": [
@@ -1058,8 +1019,7 @@
     "id": "B01025",
     "setId": "CT-P01",
     "name": {
-      "ja": "服部平次",
-      "ko": ""
+      "ja": "服部平次"
     },
     "cardType": "partner",
     "colors": [
@@ -1081,8 +1041,7 @@
     "id": "B01025P",
     "setId": "CT-P01",
     "name": {
-      "ja": "服部平次",
-      "ko": ""
+      "ja": "服部平次"
     },
     "cardType": "partner",
     "colors": [
@@ -1104,8 +1063,7 @@
     "id": "B01026",
     "setId": "CT-P01",
     "name": {
-      "ja": "服部平蔵",
-      "ko": ""
+      "ja": "服部平蔵"
     },
     "cardType": "partner",
     "colors": [
@@ -1127,8 +1085,7 @@
     "id": "B01026P",
     "setId": "CT-P01",
     "name": {
-      "ja": "服部平蔵",
-      "ko": ""
+      "ja": "服部平蔵"
     },
     "cardType": "partner",
     "colors": [
@@ -1150,8 +1107,7 @@
     "id": "B01027",
     "setId": "CT-P01",
     "name": {
-      "ja": "遠山和葉",
-      "ko": ""
+      "ja": "遠山和葉"
     },
     "cardType": "character",
     "colors": [
@@ -1177,8 +1133,7 @@
     "id": "B01028",
     "setId": "CT-P01",
     "name": {
-      "ja": "服部平次",
-      "ko": ""
+      "ja": "服部平次"
     },
     "cardType": "character",
     "colors": [
@@ -1205,8 +1160,7 @@
     "id": "B01028P",
     "setId": "CT-P01",
     "name": {
-      "ja": "服部平次",
-      "ko": ""
+      "ja": "服部平次"
     },
     "cardType": "character",
     "colors": [
@@ -1233,8 +1187,7 @@
     "id": "B01029",
     "setId": "CT-P01",
     "name": {
-      "ja": "服部平次",
-      "ko": ""
+      "ja": "服部平次"
     },
     "cardType": "character",
     "colors": [
@@ -1263,8 +1216,7 @@
     "id": "B01030",
     "setId": "CT-P01",
     "name": {
-      "ja": "大岡紅葉",
-      "ko": ""
+      "ja": "大岡紅葉"
     },
     "cardType": "character",
     "colors": [
@@ -1290,8 +1242,7 @@
     "id": "B01030P",
     "setId": "CT-P01",
     "name": {
-      "ja": "大岡紅葉",
-      "ko": ""
+      "ja": "大岡紅葉"
     },
     "cardType": "character",
     "colors": [
@@ -1317,8 +1268,7 @@
     "id": "B01031",
     "setId": "CT-P01",
     "name": {
-      "ja": "伊織無我",
-      "ko": ""
+      "ja": "伊織無我"
     },
     "cardType": "character",
     "colors": [
@@ -1344,8 +1294,7 @@
     "id": "B01031P",
     "setId": "CT-P01",
     "name": {
-      "ja": "伊織無我",
-      "ko": ""
+      "ja": "伊織無我"
     },
     "cardType": "character",
     "colors": [
@@ -1371,8 +1320,7 @@
     "id": "B01032",
     "setId": "CT-P01",
     "name": {
-      "ja": "服部平次",
-      "ko": ""
+      "ja": "服部平次"
     },
     "cardType": "character",
     "colors": [
@@ -1399,8 +1347,7 @@
     "id": "B01033",
     "setId": "CT-P01",
     "name": {
-      "ja": "遠山和葉",
-      "ko": ""
+      "ja": "遠山和葉"
     },
     "cardType": "character",
     "colors": [
@@ -1413,7 +1360,7 @@
         "type": "keyword",
         "keyword": "カットイン",
         "keywordKo": "컷인",
-        "textJa": "【カットイン】AP＋2000（コンタクト中に手札からリムーブして使う）"
+        "textJa": "AP＋2000（コンタクト中に手札からリムーブして使う）"
       }
     ],
     "imageId": "1714013001006049",
@@ -1428,8 +1375,7 @@
     "id": "B01033P",
     "setId": "CT-P01",
     "name": {
-      "ja": "遠山和葉",
-      "ko": ""
+      "ja": "遠山和葉"
     },
     "cardType": "character",
     "colors": [
@@ -1442,7 +1388,7 @@
         "type": "keyword",
         "keyword": "カットイン",
         "keywordKo": "컷인",
-        "textJa": "【カットイン】AP＋2000（コンタクト中に手札からリムーブして使う）"
+        "textJa": "AP＋2000（コンタクト中に手札からリムーブして使う）"
       }
     ],
     "imageId": "1714013001008442",
@@ -1457,8 +1403,7 @@
     "id": "B01034",
     "setId": "CT-P01",
     "name": {
-      "ja": "大岡紅葉",
-      "ko": ""
+      "ja": "大岡紅葉"
     },
     "cardType": "character",
     "colors": [
@@ -1475,7 +1420,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。"
+        "textJa": "（証拠からリムーブされるときに発動する）カードを1枚引く。"
       }
     ],
     "imageId": "1714013001011714",
@@ -1490,8 +1435,7 @@
     "id": "B01034P",
     "setId": "CT-P01",
     "name": {
-      "ja": "大岡紅葉",
-      "ko": ""
+      "ja": "大岡紅葉"
     },
     "cardType": "character",
     "colors": [
@@ -1508,7 +1452,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。"
+        "textJa": "（証拠からリムーブされるときに発動する）カードを1枚引く。"
       }
     ],
     "imageId": "1714013001014650",
@@ -1523,8 +1467,7 @@
     "id": "B01035",
     "setId": "CT-P01",
     "name": {
-      "ja": "大滝悟郎",
-      "ko": ""
+      "ja": "大滝悟郎"
     },
     "cardType": "character",
     "colors": [
@@ -1541,7 +1484,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。"
+        "textJa": "（証拠からリムーブされるときに発動する）カードを1枚引く。"
       }
     ],
     "imageId": "1714013001017613",
@@ -1557,8 +1500,7 @@
     "id": "B01036",
     "setId": "CT-P01",
     "name": {
-      "ja": "遠山銀司郎",
-      "ko": ""
+      "ja": "遠山銀司郎"
     },
     "cardType": "character",
     "colors": [
@@ -1585,8 +1527,7 @@
     "id": "B01037",
     "setId": "CT-P01",
     "name": {
-      "ja": "服部静華",
-      "ko": ""
+      "ja": "服部静華"
     },
     "cardType": "character",
     "colors": [
@@ -1603,7 +1544,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。"
+        "textJa": "（証拠からリムーブされるときに発動する）カードを1枚引く。"
       }
     ],
     "imageId": "1714013001022129",
@@ -1615,8 +1556,7 @@
     "id": "B01038",
     "setId": "CT-P01",
     "name": {
-      "ja": "服部平蔵",
-      "ko": ""
+      "ja": "服部平蔵"
     },
     "cardType": "character",
     "colors": [
@@ -1633,7 +1573,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。"
+        "textJa": "（証拠からリムーブされるときに発動する）カードを1枚引く。"
       }
     ],
     "imageId": "1714013001025790",
@@ -1649,8 +1589,7 @@
     "id": "B01038P",
     "setId": "CT-P01",
     "name": {
-      "ja": "服部平蔵",
-      "ko": ""
+      "ja": "服部平蔵"
     },
     "cardType": "character",
     "colors": [
@@ -1667,7 +1606,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。"
+        "textJa": "（証拠からリムーブされるときに発動する）カードを1枚引く。"
       }
     ],
     "imageId": "1714013020276307",
@@ -1683,8 +1622,7 @@
     "id": "B01039",
     "setId": "CT-P01",
     "name": {
-      "ja": "「かっ…和葉ァ!!!」",
-      "ko": ""
+      "ja": "「かっ…和葉ァ!!!」"
     },
     "cardType": "event",
     "colors": [
@@ -1705,8 +1643,7 @@
     "id": "B01040",
     "setId": "CT-P01",
     "name": {
-      "ja": "「オレの和葉に何さらしとんじゃ!!!」",
-      "ko": ""
+      "ja": "「オレの和葉に何さらしとんじゃ!!!」"
     },
     "cardType": "event",
     "colors": [
@@ -1723,7 +1660,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）キャラを1枚まで選び、スリープさせる。"
+        "textJa": "（証拠からリムーブされるときに発動する）キャラを1枚まで選び、スリープさせる。"
       }
     ],
     "imageId": "1714013020284784",
@@ -1733,8 +1670,7 @@
     "id": "B01040P",
     "setId": "CT-P01",
     "name": {
-      "ja": "「オレの和葉に何さらしとんじゃ!!!」",
-      "ko": ""
+      "ja": "「オレの和葉に何さらしとんじゃ!!!」"
     },
     "cardType": "event",
     "colors": [
@@ -1751,7 +1687,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）キャラを1枚まで選び、スリープさせる。"
+        "textJa": "（証拠からリムーブされるときに発動する）キャラを1枚まで選び、スリープさせる。"
       }
     ],
     "imageId": "1714013020287901",
@@ -1761,8 +1697,7 @@
     "id": "B01041",
     "setId": "CT-P01",
     "name": {
-      "ja": "コナンと平次 恋の暗号",
-      "ko": ""
+      "ja": "コナンと平次 恋の暗号"
     },
     "cardType": "case",
     "colors": [
@@ -1778,8 +1713,7 @@
     "id": "B01041P",
     "setId": "CT-P01",
     "name": {
-      "ja": "コナンと平次 恋の暗号",
-      "ko": ""
+      "ja": "コナンと平次 恋の暗号"
     },
     "cardType": "case",
     "colors": [
@@ -1795,8 +1729,7 @@
     "id": "B01042",
     "setId": "CT-P01",
     "name": {
-      "ja": "怪盗キッド",
-      "ko": ""
+      "ja": "怪盗キッド"
     },
     "cardType": "partner",
     "colors": [
@@ -1818,8 +1751,7 @@
     "id": "B01042P",
     "setId": "CT-P01",
     "name": {
-      "ja": "怪盗キッド",
-      "ko": ""
+      "ja": "怪盗キッド"
     },
     "cardType": "partner",
     "colors": [
@@ -1841,8 +1773,7 @@
     "id": "B01043",
     "setId": "CT-P01",
     "name": {
-      "ja": "白馬探",
-      "ko": ""
+      "ja": "白馬探"
     },
     "cardType": "partner",
     "colors": [
@@ -1864,8 +1795,7 @@
     "id": "B01043P",
     "setId": "CT-P01",
     "name": {
-      "ja": "白馬探",
-      "ko": ""
+      "ja": "白馬探"
     },
     "cardType": "partner",
     "colors": [
@@ -1887,8 +1817,7 @@
     "id": "B01044",
     "setId": "CT-P01",
     "name": {
-      "ja": "怪盗キッド",
-      "ko": ""
+      "ja": "怪盗キッド"
     },
     "cardType": "character",
     "colors": [
@@ -1914,8 +1843,7 @@
     "id": "B01044P",
     "setId": "CT-P01",
     "name": {
-      "ja": "怪盗キッド",
-      "ko": ""
+      "ja": "怪盗キッド"
     },
     "cardType": "character",
     "colors": [
@@ -1941,8 +1869,7 @@
     "id": "B01045",
     "setId": "CT-P01",
     "name": {
-      "ja": "中森青子",
-      "ko": ""
+      "ja": "中森青子"
     },
     "cardType": "character",
     "colors": [
@@ -1968,8 +1895,7 @@
     "id": "B01046",
     "setId": "CT-P01",
     "name": {
-      "ja": "怪盗キッド",
-      "ko": ""
+      "ja": "怪盗キッド"
     },
     "cardType": "character",
     "colors": [
@@ -1982,7 +1908,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。"
+        "textJa": "（証拠からリムーブされるときに発動する）カードを1枚引く。"
       }
     ],
     "imageId": "1714013020313369",
@@ -1997,8 +1923,7 @@
     "id": "B01047",
     "setId": "CT-P01",
     "name": {
-      "ja": "黒羽快斗",
-      "ko": ""
+      "ja": "黒羽快斗"
     },
     "cardType": "character",
     "colors": [
@@ -2024,8 +1949,7 @@
     "id": "B01047P",
     "setId": "CT-P01",
     "name": {
-      "ja": "黒羽快斗",
-      "ko": ""
+      "ja": "黒羽快斗"
     },
     "cardType": "character",
     "colors": [
@@ -2051,8 +1975,7 @@
     "id": "B01048",
     "setId": "CT-P01",
     "name": {
-      "ja": "鈴木園子",
-      "ko": ""
+      "ja": "鈴木園子"
     },
     "cardType": "character",
     "colors": [
@@ -2069,7 +1992,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）キャラを1枚まで選び、スリープさせる。"
+        "textJa": "（証拠からリムーブされるときに発動する）キャラを1枚まで選び、スリープさせる。"
       }
     ],
     "imageId": "1714013020321565",
@@ -2085,8 +2008,7 @@
     "id": "B01048P",
     "setId": "CT-P01",
     "name": {
-      "ja": "鈴木園子",
-      "ko": ""
+      "ja": "鈴木園子"
     },
     "cardType": "character",
     "colors": [
@@ -2103,7 +2025,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）キャラを1枚まで選び、スリープさせる。"
+        "textJa": "（証拠からリムーブされるときに発動する）キャラを1枚まで選び、スリープさせる。"
       }
     ],
     "imageId": "1714013020324343",
@@ -2119,8 +2041,7 @@
     "id": "B01049",
     "setId": "CT-P01",
     "name": {
-      "ja": "怪盗キッド",
-      "ko": ""
+      "ja": "怪盗キッド"
     },
     "cardType": "character",
     "colors": [
@@ -2146,8 +2067,7 @@
     "id": "B01050",
     "setId": "CT-P01",
     "name": {
-      "ja": "怪盗1412号",
-      "ko": ""
+      "ja": "怪盗1412号"
     },
     "cardType": "character",
     "colors": [
@@ -2164,7 +2084,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。"
+        "textJa": "（証拠からリムーブされるときに発動する）カードを1枚引く。"
       }
     ],
     "imageId": "1714013020329346",
@@ -2179,8 +2099,7 @@
     "id": "B01051",
     "setId": "CT-P01",
     "name": {
-      "ja": "京極真",
-      "ko": ""
+      "ja": "京極真"
     },
     "cardType": "character",
     "colors": [
@@ -2207,8 +2126,7 @@
     "id": "B01052",
     "setId": "CT-P01",
     "name": {
-      "ja": "工藤優作",
-      "ko": ""
+      "ja": "工藤優作"
     },
     "cardType": "character",
     "colors": [
@@ -2234,8 +2152,7 @@
     "id": "B01053",
     "setId": "CT-P01",
     "name": {
-      "ja": "工藤有希子",
-      "ko": ""
+      "ja": "工藤有希子"
     },
     "cardType": "character",
     "colors": [
@@ -2258,8 +2175,7 @@
     "id": "B01054",
     "setId": "CT-P01",
     "name": {
-      "ja": "寺井黄之助",
-      "ko": ""
+      "ja": "寺井黄之助"
     },
     "cardType": "character",
     "colors": [
@@ -2276,7 +2192,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。"
+        "textJa": "（証拠からリムーブされるときに発動する）カードを1枚引く。"
       }
     ],
     "imageId": "1714013041163932",
@@ -2288,8 +2204,7 @@
     "id": "B01054P",
     "setId": "CT-P01",
     "name": {
-      "ja": "寺井黄之助",
-      "ko": ""
+      "ja": "寺井黄之助"
     },
     "cardType": "character",
     "colors": [
@@ -2306,7 +2221,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。"
+        "textJa": "（証拠からリムーブされるときに発動する）カードを1枚引く。"
       }
     ],
     "imageId": "1714013041165487",
@@ -2318,8 +2233,7 @@
     "id": "B01055",
     "setId": "CT-P01",
     "name": {
-      "ja": "鈴木園子",
-      "ko": ""
+      "ja": "鈴木園子"
     },
     "cardType": "character",
     "colors": [
@@ -2336,7 +2250,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。"
+        "textJa": "（証拠からリムーブされるときに発動する）カードを1枚引く。"
       }
     ],
     "imageId": "1714013041168314",
@@ -2352,8 +2266,7 @@
     "id": "B01055P",
     "setId": "CT-P01",
     "name": {
-      "ja": "鈴木園子",
-      "ko": ""
+      "ja": "鈴木園子"
     },
     "cardType": "character",
     "colors": [
@@ -2370,7 +2283,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。"
+        "textJa": "（証拠からリムーブされるときに発動する）カードを1枚引く。"
       }
     ],
     "imageId": "1714013041171526",
@@ -2386,8 +2299,7 @@
     "id": "B01056",
     "setId": "CT-P01",
     "name": {
-      "ja": "白馬探",
-      "ko": ""
+      "ja": "白馬探"
     },
     "cardType": "character",
     "colors": [
@@ -2400,7 +2312,7 @@
         "type": "keyword",
         "keyword": "カットイン",
         "keywordKo": "컷인",
-        "textJa": "【カットイン】AP＋2000（コンタクト中に手札からリムーブして使う）"
+        "textJa": "AP＋2000（コンタクト中に手札からリムーブして使う）"
       }
     ],
     "imageId": "1714013041174586",
@@ -2416,8 +2328,7 @@
     "id": "B01057",
     "setId": "CT-P01",
     "name": {
-      "ja": "「最も出会いたくない…恋人ってトコロかな？」",
-      "ko": ""
+      "ja": "「最も出会いたくない…恋人ってトコロかな？」"
     },
     "cardType": "event",
     "colors": [
@@ -2434,7 +2345,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。"
+        "textJa": "（証拠からリムーブされるときに発動する）カードを1枚引く。"
       }
     ],
     "imageId": "1714013041176877",
@@ -2444,8 +2355,7 @@
     "id": "B01057P",
     "setId": "CT-P01",
     "name": {
-      "ja": "「最も出会いたくない…恋人ってトコロかな？」",
-      "ko": ""
+      "ja": "「最も出会いたくない…恋人ってトコロかな？」"
     },
     "cardType": "event",
     "colors": [
@@ -2462,7 +2372,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。"
+        "textJa": "（証拠からリムーブされるときに発動する）カードを1枚引く。"
       }
     ],
     "imageId": "1714013041179851",
@@ -2472,8 +2382,7 @@
     "id": "B01058",
     "setId": "CT-P01",
     "name": {
-      "ja": "トッ",
-      "ko": ""
+      "ja": "トッ"
     },
     "cardType": "event",
     "colors": [
@@ -2494,8 +2403,7 @@
     "id": "B01059",
     "setId": "CT-P01",
     "name": {
-      "ja": "怪盗キッドの瞬間移動魔術",
-      "ko": ""
+      "ja": "怪盗キッドの瞬間移動魔術"
     },
     "cardType": "case",
     "colors": [
@@ -2511,8 +2419,7 @@
     "id": "B01059P",
     "setId": "CT-P01",
     "name": {
-      "ja": "怪盗キッドの瞬間移動魔術",
-      "ko": ""
+      "ja": "怪盗キッドの瞬間移動魔術"
     },
     "cardType": "case",
     "colors": [
@@ -2528,8 +2435,7 @@
     "id": "B01060",
     "setId": "CT-P01",
     "name": {
-      "ja": "赤井秀一",
-      "ko": ""
+      "ja": "赤井秀一"
     },
     "cardType": "partner",
     "colors": [
@@ -2551,8 +2457,7 @@
     "id": "B01060P",
     "setId": "CT-P01",
     "name": {
-      "ja": "赤井秀一",
-      "ko": ""
+      "ja": "赤井秀一"
     },
     "cardType": "partner",
     "colors": [
@@ -2574,8 +2479,7 @@
     "id": "B01061",
     "setId": "CT-P01",
     "name": {
-      "ja": "世良真純",
-      "ko": ""
+      "ja": "世良真純"
     },
     "cardType": "partner",
     "colors": [
@@ -2597,8 +2501,7 @@
     "id": "B01061P",
     "setId": "CT-P01",
     "name": {
-      "ja": "世良真純",
-      "ko": ""
+      "ja": "世良真純"
     },
     "cardType": "partner",
     "colors": [
@@ -2620,8 +2523,7 @@
     "id": "B01062",
     "setId": "CT-P01",
     "name": {
-      "ja": "赤井秀一",
-      "ko": ""
+      "ja": "赤井秀一"
     },
     "cardType": "character",
     "colors": [
@@ -2648,8 +2550,7 @@
     "id": "B01062P",
     "setId": "CT-P01",
     "name": {
-      "ja": "赤井秀一",
-      "ko": ""
+      "ja": "赤井秀一"
     },
     "cardType": "character",
     "colors": [
@@ -2676,8 +2577,7 @@
     "id": "B01063",
     "setId": "CT-P01",
     "name": {
-      "ja": "ジョディ・スターリング",
-      "ko": ""
+      "ja": "ジョディ・スターリング"
     },
     "cardType": "character",
     "colors": [
@@ -2703,8 +2603,7 @@
     "id": "B01064",
     "setId": "CT-P01",
     "name": {
-      "ja": "赤井秀一",
-      "ko": ""
+      "ja": "赤井秀一"
     },
     "cardType": "character",
     "colors": [
@@ -2733,8 +2632,7 @@
     "id": "B01065",
     "setId": "CT-P01",
     "name": {
-      "ja": "沖矢昴",
-      "ko": ""
+      "ja": "沖矢昴"
     },
     "cardType": "character",
     "colors": [
@@ -2751,7 +2649,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）キャラを1枚まで選び、スリープさせる。"
+        "textJa": "（証拠からリムーブされるときに発動する）キャラを1枚まで選び、スリープさせる。"
       }
     ],
     "imageId": "1714013053496360",
@@ -2766,8 +2664,7 @@
     "id": "B01065P",
     "setId": "CT-P01",
     "name": {
-      "ja": "沖矢昴",
-      "ko": ""
+      "ja": "沖矢昴"
     },
     "cardType": "character",
     "colors": [
@@ -2784,7 +2681,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）キャラを1枚まで選び、スリープさせる。"
+        "textJa": "（証拠からリムーブされるときに発動する）キャラを1枚まで選び、スリープさせる。"
       }
     ],
     "imageId": "1714013053499763",
@@ -2799,8 +2696,7 @@
     "id": "B01066",
     "setId": "CT-P01",
     "name": {
-      "ja": "世良真純",
-      "ko": ""
+      "ja": "世良真純"
     },
     "cardType": "character",
     "colors": [
@@ -2828,8 +2724,7 @@
     "id": "B01066P",
     "setId": "CT-P01",
     "name": {
-      "ja": "世良真純",
-      "ko": ""
+      "ja": "世良真純"
     },
     "cardType": "character",
     "colors": [
@@ -2857,8 +2752,7 @@
     "id": "B01067",
     "setId": "CT-P01",
     "name": {
-      "ja": "メアリー",
-      "ko": ""
+      "ja": "メアリー"
     },
     "cardType": "character",
     "colors": [
@@ -2884,8 +2778,7 @@
     "id": "B01068",
     "setId": "CT-P01",
     "name": {
-      "ja": "赤井秀一",
-      "ko": ""
+      "ja": "赤井秀一"
     },
     "cardType": "character",
     "colors": [
@@ -2912,8 +2805,7 @@
     "id": "B01069",
     "setId": "CT-P01",
     "name": {
-      "ja": "赤井務武",
-      "ko": ""
+      "ja": "赤井務武"
     },
     "cardType": "character",
     "colors": [
@@ -2939,8 +2831,7 @@
     "id": "B01070",
     "setId": "CT-P01",
     "name": {
-      "ja": "アンドレ・キャメル",
-      "ko": ""
+      "ja": "アンドレ・キャメル"
     },
     "cardType": "character",
     "colors": [
@@ -2957,7 +2848,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。"
+        "textJa": "（証拠からリムーブされるときに発動する）カードを1枚引く。"
       }
     ],
     "imageId": "1714013053516094",
@@ -2972,8 +2863,7 @@
     "id": "B01071",
     "setId": "CT-P01",
     "name": {
-      "ja": "ジェイムズ・ブラック",
-      "ko": ""
+      "ja": "ジェイムズ・ブラック"
     },
     "cardType": "character",
     "colors": [
@@ -2999,8 +2889,7 @@
     "id": "B01072",
     "setId": "CT-P01",
     "name": {
-      "ja": "ジョディ・スターリング",
-      "ko": ""
+      "ja": "ジョディ・スターリング"
     },
     "cardType": "character",
     "colors": [
@@ -3017,7 +2906,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。"
+        "textJa": "（証拠からリムーブされるときに発動する）カードを1枚引く。"
       }
     ],
     "imageId": "1714013053521689",
@@ -3032,8 +2921,7 @@
     "id": "B01072P",
     "setId": "CT-P01",
     "name": {
-      "ja": "ジョディ・スターリング",
-      "ko": ""
+      "ja": "ジョディ・スターリング"
     },
     "cardType": "character",
     "colors": [
@@ -3050,7 +2938,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。"
+        "textJa": "（証拠からリムーブされるときに発動する）カードを1枚引く。"
       }
     ],
     "imageId": "1714013053524648",
@@ -3065,8 +2953,7 @@
     "id": "B01073",
     "setId": "CT-P01",
     "name": {
-      "ja": "世良真純",
-      "ko": ""
+      "ja": "世良真純"
     },
     "cardType": "character",
     "colors": [
@@ -3079,7 +2966,7 @@
         "type": "keyword",
         "keyword": "カットイン",
         "keywordKo": "컷인",
-        "textJa": "【カットイン】AP＋2000（コンタクト中に手札からリムーブして使う）"
+        "textJa": "AP＋2000（コンタクト中に手札からリムーブして使う）"
       }
     ],
     "imageId": "1714013053527543",
@@ -3096,8 +2983,7 @@
     "id": "B01073P",
     "setId": "CT-P01",
     "name": {
-      "ja": "世良真純",
-      "ko": ""
+      "ja": "世良真純"
     },
     "cardType": "character",
     "colors": [
@@ -3110,7 +2996,7 @@
         "type": "keyword",
         "keyword": "カットイン",
         "keywordKo": "컷인",
-        "textJa": "【カットイン】AP＋2000（コンタクト中に手札からリムーブして使う）"
+        "textJa": "AP＋2000（コンタクト中に手札からリムーブして使う）"
       }
     ],
     "imageId": "1714013053530398",
@@ -3127,8 +3013,7 @@
     "id": "B01074",
     "setId": "CT-P01",
     "name": {
-      "ja": "羽田秀𠮷",
-      "ko": ""
+      "ja": "羽田秀𠮷"
     },
     "cardType": "character",
     "colors": [
@@ -3145,7 +3030,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。"
+        "textJa": "（証拠からリムーブされるときに発動する）カードを1枚引く。"
       }
     ],
     "imageId": "1714013053532063",
@@ -3161,8 +3046,7 @@
     "id": "B01075",
     "setId": "CT-P01",
     "name": {
-      "ja": "宮野明美",
-      "ko": ""
+      "ja": "宮野明美"
     },
     "cardType": "character",
     "colors": [
@@ -3179,7 +3063,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。"
+        "textJa": "（証拠からリムーブされるときに発動する）カードを1枚引く。"
       }
     ],
     "imageId": "1714013053535170",
@@ -3191,8 +3075,7 @@
     "id": "B01076",
     "setId": "CT-P01",
     "name": {
-      "ja": "「開けるんだキャメル…」",
-      "ko": ""
+      "ja": "「開けるんだキャメル…」"
     },
     "cardType": "event",
     "colors": [
@@ -3213,8 +3096,7 @@
     "id": "B01076P",
     "setId": "CT-P01",
     "name": {
-      "ja": "「開けるんだキャメル…」",
-      "ko": ""
+      "ja": "「開けるんだキャメル…」"
     },
     "cardType": "event",
     "colors": [
@@ -3235,8 +3117,7 @@
     "id": "B01077",
     "setId": "CT-P01",
     "name": {
-      "ja": "「赤井…秀一!?」",
-      "ko": ""
+      "ja": "「赤井…秀一!?」"
     },
     "cardType": "event",
     "colors": [
@@ -3253,7 +3134,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）相手は手札を1枚リムーブする。"
+        "textJa": "（証拠からリムーブされるときに発動する）相手は手札を1枚リムーブする。"
       }
     ],
     "imageId": "1714013053543438",
@@ -3263,8 +3144,7 @@
     "id": "B01078",
     "setId": "CT-P01",
     "name": {
-      "ja": "17年前と同じ現場",
-      "ko": ""
+      "ja": "17年前と同じ現場"
     },
     "cardType": "case",
     "colors": [
@@ -3280,8 +3160,7 @@
     "id": "B01078P",
     "setId": "CT-P01",
     "name": {
-      "ja": "17年前と同じ現場",
-      "ko": ""
+      "ja": "17年前と同じ現場"
     },
     "cardType": "case",
     "colors": [
@@ -3297,8 +3176,7 @@
     "id": "B01079",
     "setId": "CT-P01",
     "name": {
-      "ja": "安室透",
-      "ko": ""
+      "ja": "安室透"
     },
     "cardType": "partner",
     "colors": [
@@ -3320,8 +3198,7 @@
     "id": "B01079P",
     "setId": "CT-P01",
     "name": {
-      "ja": "安室透",
-      "ko": ""
+      "ja": "安室透"
     },
     "cardType": "partner",
     "colors": [
@@ -3343,8 +3220,7 @@
     "id": "B01080",
     "setId": "CT-P01",
     "name": {
-      "ja": "風見裕也",
-      "ko": ""
+      "ja": "風見裕也"
     },
     "cardType": "partner",
     "colors": [
@@ -3366,8 +3242,7 @@
     "id": "B01080P",
     "setId": "CT-P01",
     "name": {
-      "ja": "風見裕也",
-      "ko": ""
+      "ja": "風見裕也"
     },
     "cardType": "partner",
     "colors": [
@@ -3389,8 +3264,7 @@
     "id": "B01081",
     "setId": "CT-P01",
     "name": {
-      "ja": "安室透",
-      "ko": ""
+      "ja": "安室透"
     },
     "cardType": "character",
     "colors": [
@@ -3417,8 +3291,7 @@
     "id": "B01081P",
     "setId": "CT-P01",
     "name": {
-      "ja": "安室透",
-      "ko": ""
+      "ja": "安室透"
     },
     "cardType": "character",
     "colors": [
@@ -3445,8 +3318,7 @@
     "id": "B01082",
     "setId": "CT-P01",
     "name": {
-      "ja": "榎本梓",
-      "ko": ""
+      "ja": "榎本梓"
     },
     "cardType": "character",
     "colors": [
@@ -3472,8 +3344,7 @@
     "id": "B01083",
     "setId": "CT-P01",
     "name": {
-      "ja": "安室透",
-      "ko": ""
+      "ja": "安室透"
     },
     "cardType": "character",
     "colors": [
@@ -3502,8 +3373,7 @@
     "id": "B01084",
     "setId": "CT-P01",
     "name": {
-      "ja": "降谷零",
-      "ko": ""
+      "ja": "降谷零"
     },
     "cardType": "character",
     "colors": [
@@ -3530,8 +3400,7 @@
     "id": "B01084P",
     "setId": "CT-P01",
     "name": {
-      "ja": "降谷零",
-      "ko": ""
+      "ja": "降谷零"
     },
     "cardType": "character",
     "colors": [
@@ -3558,8 +3427,7 @@
     "id": "B01085",
     "setId": "CT-P01",
     "name": {
-      "ja": "安室透",
-      "ko": ""
+      "ja": "安室透"
     },
     "cardType": "character",
     "colors": [
@@ -3586,8 +3454,7 @@
     "id": "B01086",
     "setId": "CT-P01",
     "name": {
-      "ja": "榎本梓",
-      "ko": ""
+      "ja": "榎本梓"
     },
     "cardType": "character",
     "colors": [
@@ -3600,7 +3467,7 @@
         "type": "keyword",
         "keyword": "カットイン",
         "keywordKo": "컷인",
-        "textJa": "【カットイン】AP＋2000（コンタクト中に手札からリムーブして使う）"
+        "textJa": "AP＋2000（コンタクト中に手札からリムーブして使う）"
       }
     ],
     "imageId": "1714013067534737",
@@ -3615,8 +3482,7 @@
     "id": "B01086P",
     "setId": "CT-P01",
     "name": {
-      "ja": "榎本梓",
-      "ko": ""
+      "ja": "榎本梓"
     },
     "cardType": "character",
     "colors": [
@@ -3629,7 +3495,7 @@
         "type": "keyword",
         "keyword": "カットイン",
         "keywordKo": "컷인",
-        "textJa": "【カットイン】AP＋2000（コンタクト中に手札からリムーブして使う）"
+        "textJa": "AP＋2000（コンタクト中に手札からリムーブして使う）"
       }
     ],
     "imageId": "1714013067538850",
@@ -3644,8 +3510,7 @@
     "id": "B01087",
     "setId": "CT-P01",
     "name": {
-      "ja": "風見裕也",
-      "ko": ""
+      "ja": "風見裕也"
     },
     "cardType": "character",
     "colors": [
@@ -3662,7 +3527,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。"
+        "textJa": "（証拠からリムーブされるときに発動する）カードを1枚引く。"
       }
     ],
     "imageId": "1714013067541294",
@@ -3679,8 +3544,7 @@
     "id": "B01088",
     "setId": "CT-P01",
     "name": {
-      "ja": "黒田兵衛",
-      "ko": ""
+      "ja": "黒田兵衛"
     },
     "cardType": "character",
     "colors": [
@@ -3707,8 +3571,7 @@
     "id": "B01089",
     "setId": "CT-P01",
     "name": {
-      "ja": "佐藤美和子",
-      "ko": ""
+      "ja": "佐藤美和子"
     },
     "cardType": "character",
     "colors": [
@@ -3725,7 +3588,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）キャラを1枚まで選び、スリープさせる。"
+        "textJa": "（証拠からリムーブされるときに発動する）キャラを1枚まで選び、スリープさせる。"
       }
     ],
     "imageId": "1714013067546631",
@@ -3741,8 +3604,7 @@
     "id": "B01090",
     "setId": "CT-P01",
     "name": {
-      "ja": "佐藤美和子",
-      "ko": ""
+      "ja": "佐藤美和子"
     },
     "cardType": "character",
     "colors": [
@@ -3759,7 +3621,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。"
+        "textJa": "（証拠からリムーブされるときに発動する）カードを1枚引く。"
       }
     ],
     "imageId": "1714013067549534",
@@ -3775,8 +3637,7 @@
     "id": "B01090P",
     "setId": "CT-P01",
     "name": {
-      "ja": "佐藤美和子",
-      "ko": ""
+      "ja": "佐藤美和子"
     },
     "cardType": "character",
     "colors": [
@@ -3793,7 +3654,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。"
+        "textJa": "（証拠からリムーブされるときに発動する）カードを1枚引く。"
       }
     ],
     "imageId": "1714013067551980",
@@ -3809,8 +3670,7 @@
     "id": "B01091",
     "setId": "CT-P01",
     "name": {
-      "ja": "高木渉",
-      "ko": ""
+      "ja": "高木渉"
     },
     "cardType": "character",
     "colors": [
@@ -3827,7 +3687,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）キャラを1枚まで選び、スリープさせる。"
+        "textJa": "（証拠からリムーブされるときに発動する）キャラを1枚まで選び、スリープさせる。"
       }
     ],
     "imageId": "1714013067554857",
@@ -3843,8 +3703,7 @@
     "id": "B01092",
     "setId": "CT-P01",
     "name": {
-      "ja": "松田陣平",
-      "ko": ""
+      "ja": "松田陣平"
     },
     "cardType": "character",
     "colors": [
@@ -3861,7 +3720,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。"
+        "textJa": "（証拠からリムーブされるときに発動する）カードを1枚引く。"
       }
     ],
     "imageId": "1714013082039905",
@@ -3877,8 +3736,7 @@
     "id": "B01092P",
     "setId": "CT-P01",
     "name": {
-      "ja": "松田陣平",
-      "ko": ""
+      "ja": "松田陣平"
     },
     "cardType": "character",
     "colors": [
@@ -3895,7 +3753,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。"
+        "textJa": "（証拠からリムーブされるときに発動する）カードを1枚引く。"
       }
     ],
     "imageId": "1714013082044795",
@@ -3911,8 +3769,7 @@
     "id": "B01093",
     "setId": "CT-P01",
     "name": {
-      "ja": "目暮十三",
-      "ko": ""
+      "ja": "目暮十三"
     },
     "cardType": "character",
     "colors": [
@@ -3929,7 +3786,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。"
+        "textJa": "（証拠からリムーブされるときに発動する）カードを1枚引く。"
       }
     ],
     "imageId": "1714013082047213",
@@ -3945,8 +3802,7 @@
     "id": "B01094",
     "setId": "CT-P01",
     "name": {
-      "ja": "「刑事なら刑事らしく…」",
-      "ko": ""
+      "ja": "「刑事なら刑事らしく…」"
     },
     "cardType": "event",
     "colors": [
@@ -3963,7 +3819,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）自分のリムーブエリアにある【黄】のキャラを1枚まで選び、手札に加える。"
+        "textJa": "（証拠からリムーブされるときに発動する）自分のリムーブエリアにある【黄】のキャラを1枚まで選び、手札に加える。"
       }
     ],
     "imageId": "1714013082049447",
@@ -3973,8 +3829,7 @@
     "id": "B01094P",
     "setId": "CT-P01",
     "name": {
-      "ja": "「刑事なら刑事らしく…」",
-      "ko": ""
+      "ja": "「刑事なら刑事らしく…」"
     },
     "cardType": "event",
     "colors": [
@@ -3991,7 +3846,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）自分のリムーブエリアにある【黄】のキャラを1枚まで選び、手札に加える。"
+        "textJa": "（証拠からリムーブされるときに発動する）自分のリムーブエリアにある【黄】のキャラを1枚まで選び、手札に加える。"
       }
     ],
     "imageId": "1714013082052186",
@@ -4001,8 +3856,7 @@
     "id": "B01095",
     "setId": "CT-P01",
     "name": {
-      "ja": "「僕の日本から…」",
-      "ko": ""
+      "ja": "「僕の日本から…」"
     },
     "cardType": "event",
     "colors": [
@@ -4023,8 +3877,7 @@
     "id": "B01096",
     "setId": "CT-P01",
     "name": {
-      "ja": "ギスギスしたお茶会",
-      "ko": ""
+      "ja": "ギスギスしたお茶会"
     },
     "cardType": "case",
     "colors": [
@@ -4040,8 +3893,7 @@
     "id": "B01096P",
     "setId": "CT-P01",
     "name": {
-      "ja": "ギスギスしたお茶会",
-      "ko": ""
+      "ja": "ギスギスしたお茶会"
     },
     "cardType": "case",
     "colors": [
@@ -4057,8 +3909,7 @@
     "id": "B01097",
     "setId": "CT-P01",
     "name": {
-      "ja": "ウォッカ",
-      "ko": ""
+      "ja": "ウォッカ"
     },
     "cardType": "character",
     "colors": [
@@ -4071,7 +3922,7 @@
         "type": "keyword",
         "keyword": "カットイン",
         "keywordKo": "컷인",
-        "textJa": "【カットイン】カードを2枚引き、手札を1枚リムーブする。（コンタクト中に手札からリムーブして使う）"
+        "textJa": "カードを2枚引き、手札を1枚リムーブする。（コンタクト中に手札からリムーブして使う）"
       }
     ],
     "imageId": "1714013082063255",
@@ -4086,8 +3937,7 @@
     "id": "B01097P",
     "setId": "CT-P01",
     "name": {
-      "ja": "ウォッカ",
-      "ko": ""
+      "ja": "ウォッカ"
     },
     "cardType": "character",
     "colors": [
@@ -4100,7 +3950,7 @@
         "type": "keyword",
         "keyword": "カットイン",
         "keywordKo": "컷인",
-        "textJa": "【カットイン】カードを2枚引き、手札を1枚リムーブする。（コンタクト中に手札からリムーブして使う）"
+        "textJa": "カードを2枚引き、手札を1枚リムーブする。（コンタクト中に手札からリムーブして使う）"
       }
     ],
     "imageId": "1714013082066472",
@@ -4115,8 +3965,7 @@
     "id": "B01098",
     "setId": "CT-P01",
     "name": {
-      "ja": "ジン",
-      "ko": ""
+      "ja": "ジン"
     },
     "cardType": "character",
     "colors": [
@@ -4129,7 +3978,7 @@
         "type": "keyword",
         "keyword": "カットイン",
         "keywordKo": "컷인",
-        "textJa": "【カットイン】【自分ターン中】（自分のターンのコンタクト中に手札からリムーブすることで発動する）コンタクト中のすべてのキャラをリムーブする。"
+        "textJa": "【自分ターン中】（自分のターンのコンタクト中に手札からリムーブすることで発動する）コンタクト中のすべてのキャラをリムーブする。"
       }
     ],
     "imageId": "1714013082069934",
@@ -4144,8 +3993,7 @@
     "id": "B01098P",
     "setId": "CT-P01",
     "name": {
-      "ja": "ジン",
-      "ko": ""
+      "ja": "ジン"
     },
     "cardType": "character",
     "colors": [
@@ -4158,7 +4006,7 @@
         "type": "keyword",
         "keyword": "カットイン",
         "keywordKo": "컷인",
-        "textJa": "【カットイン】【自分ターン中】（自分のターンのコンタクト中に手札からリムーブすることで発動する）コンタクト中のすべてのキャラをリムーブする。"
+        "textJa": "【自分ターン中】（自分のターンのコンタクト中に手札からリムーブすることで発動する）コンタクト中のすべてのキャラをリムーブする。"
       }
     ],
     "imageId": "1714013082071827",
@@ -4173,8 +4021,7 @@
     "id": "B01099",
     "setId": "CT-P01",
     "name": {
-      "ja": "どっちの推理ショー",
-      "ko": ""
+      "ja": "どっちの推理ショー"
     },
     "cardType": "case",
     "colors": [
@@ -4196,8 +4043,7 @@
     "id": "B01099P",
     "setId": "CT-P01",
     "name": {
-      "ja": "どっちの推理ショー",
-      "ko": ""
+      "ja": "どっちの推理ショー"
     },
     "cardType": "case",
     "colors": [
@@ -4219,8 +4065,7 @@
     "id": "B01100",
     "setId": "CT-P01",
     "name": {
-      "ja": "怪盗キッドの絡繰箱",
-      "ko": ""
+      "ja": "怪盗キッドの絡繰箱"
     },
     "cardType": "case",
     "colors": [
@@ -4242,8 +4087,7 @@
     "id": "B01100P",
     "setId": "CT-P01",
     "name": {
-      "ja": "怪盗キッドの絡繰箱",
-      "ko": ""
+      "ja": "怪盗キッドの絡繰箱"
     },
     "cardType": "case",
     "colors": [
@@ -4265,8 +4109,7 @@
     "id": "B01101",
     "setId": "CT-P01",
     "name": {
-      "ja": "赤と黒のクラッシュ",
-      "ko": ""
+      "ja": "赤と黒のクラッシュ"
     },
     "cardType": "case",
     "colors": [
@@ -4288,8 +4131,7 @@
     "id": "B01101P",
     "setId": "CT-P01",
     "name": {
-      "ja": "赤と黒のクラッシュ",
-      "ko": ""
+      "ja": "赤と黒のクラッシュ"
     },
     "cardType": "case",
     "colors": [
@@ -4311,8 +4153,7 @@
     "id": "B01102",
     "setId": "CT-P01",
     "name": {
-      "ja": "牧場に墜ちた火種",
-      "ko": ""
+      "ja": "牧場に墜ちた火種"
     },
     "cardType": "case",
     "colors": [
@@ -4334,8 +4175,7 @@
     "id": "B01102P",
     "setId": "CT-P01",
     "name": {
-      "ja": "牧場に墜ちた火種",
-      "ko": ""
+      "ja": "牧場に墜ちた火種"
     },
     "cardType": "case",
     "colors": [

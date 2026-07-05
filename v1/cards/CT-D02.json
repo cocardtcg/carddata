@@ -3,8 +3,7 @@
     "id": "D02001",
     "setId": "CT-D02",
     "name": {
-      "ja": "服部平次",
-      "ko": ""
+      "ja": "服部平次"
     },
     "cardType": "partner",
     "colors": [
@@ -26,8 +25,7 @@
     "id": "D02002",
     "setId": "CT-D02",
     "name": {
-      "ja": "服部平次",
-      "ko": ""
+      "ja": "服部平次"
     },
     "cardType": "character",
     "colors": [
@@ -54,8 +52,7 @@
     "id": "D02003",
     "setId": "CT-D02",
     "name": {
-      "ja": "服部平次",
-      "ko": ""
+      "ja": "服部平次"
     },
     "cardType": "character",
     "colors": [
@@ -82,8 +79,7 @@
     "id": "D02004",
     "setId": "CT-D02",
     "name": {
-      "ja": "服部平次",
-      "ko": ""
+      "ja": "服部平次"
     },
     "cardType": "character",
     "colors": [
@@ -100,7 +96,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。"
+        "textJa": "（証拠からリムーブされるときに発動する）カードを1枚引く。"
       }
     ],
     "imageId": "1714013100450523",
@@ -116,8 +112,7 @@
     "id": "D02005",
     "setId": "CT-D02",
     "name": {
-      "ja": "遠山和葉",
-      "ko": ""
+      "ja": "遠山和葉"
     },
     "cardType": "character",
     "colors": [
@@ -134,7 +129,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）キャラを1枚まで選び、スリープさせる。"
+        "textJa": "（証拠からリムーブされるときに発動する）キャラを1枚まで選び、スリープさせる。"
       }
     ],
     "imageId": "1714013117360320",
@@ -149,8 +144,7 @@
     "id": "D02006",
     "setId": "CT-D02",
     "name": {
-      "ja": "遠山和葉",
-      "ko": ""
+      "ja": "遠山和葉"
     },
     "cardType": "character",
     "colors": [
@@ -163,7 +157,7 @@
         "type": "keyword",
         "keyword": "カットイン",
         "keywordKo": "컷인",
-        "textJa": "【カットイン】AP＋2000（コンタクト中に手札からリムーブして使う）"
+        "textJa": "AP＋2000（コンタクト中に手札からリムーブして使う）"
       }
     ],
     "imageId": "1714013117365611",
@@ -178,8 +172,7 @@
     "id": "D02007",
     "setId": "CT-D02",
     "name": {
-      "ja": "沖田総司",
-      "ko": ""
+      "ja": "沖田総司"
     },
     "cardType": "character",
     "colors": [
@@ -205,8 +198,7 @@
     "id": "D02008",
     "setId": "CT-D02",
     "name": {
-      "ja": "服部平蔵",
-      "ko": ""
+      "ja": "服部平蔵"
     },
     "cardType": "character",
     "colors": [
@@ -223,7 +215,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。"
+        "textJa": "（証拠からリムーブされるときに発動する）カードを1枚引く。"
       }
     ],
     "imageId": "1714013117371611",
@@ -239,8 +231,7 @@
     "id": "D02009",
     "setId": "CT-D02",
     "name": {
-      "ja": "遠山銀司郎",
-      "ko": ""
+      "ja": "遠山銀司郎"
     },
     "cardType": "character",
     "colors": [
@@ -257,7 +248,7 @@
         "type": "keyword",
         "keyword": "カットイン",
         "keywordKo": "컷인",
-        "textJa": "【カットイン】AP＋1000（コンタクト中に手札からリムーブして使う）"
+        "textJa": "AP＋1000（コンタクト中に手札からリムーブして使う）"
       }
     ],
     "imageId": "1714013117373564",
@@ -273,8 +264,7 @@
     "id": "D02010",
     "setId": "CT-D02",
     "name": {
-      "ja": "伊織無我",
-      "ko": ""
+      "ja": "伊織無我"
     },
     "cardType": "character",
     "colors": [
@@ -287,7 +277,7 @@
         "type": "keyword",
         "keyword": "カットイン",
         "keywordKo": "컷인",
-        "textJa": "【カットイン】AP＋1000（コンタクト中に手札からリムーブして使う）"
+        "textJa": "AP＋1000（コンタクト中に手札からリムーブして使う）"
       }
     ],
     "imageId": "1714013117376760",
@@ -302,8 +292,7 @@
     "id": "D02011",
     "setId": "CT-D02",
     "name": {
-      "ja": "大岡紅葉",
-      "ko": ""
+      "ja": "大岡紅葉"
     },
     "cardType": "character",
     "colors": [
@@ -320,7 +309,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。"
+        "textJa": "（証拠からリムーブされるときに発動する）カードを1枚引く。"
       }
     ],
     "imageId": "1714013117379010",
@@ -335,8 +324,7 @@
     "id": "D02012",
     "setId": "CT-D02",
     "name": {
-      "ja": "大岡紅葉",
-      "ko": ""
+      "ja": "大岡紅葉"
     },
     "cardType": "character",
     "colors": [
@@ -349,7 +337,7 @@
         "type": "keyword",
         "keyword": "カットイン",
         "keywordKo": "컷인",
-        "textJa": "【カットイン】AP＋2000（コンタクト中に手札からリムーブして使う）"
+        "textJa": "AP＋2000（コンタクト中に手札からリムーブして使う）"
       }
     ],
     "imageId": "1714013117382698",
@@ -364,8 +352,7 @@
     "id": "D02013",
     "setId": "CT-D02",
     "name": {
-      "ja": "服部静華",
-      "ko": ""
+      "ja": "服部静華"
     },
     "cardType": "character",
     "colors": [
@@ -388,8 +375,7 @@
     "id": "D02014",
     "setId": "CT-D02",
     "name": {
-      "ja": "御守り",
-      "ko": ""
+      "ja": "御守り"
     },
     "cardType": "event",
     "colors": [
@@ -410,8 +396,7 @@
     "id": "D02015",
     "setId": "CT-D02",
     "name": {
-      "ja": "平次の洞察力",
-      "ko": ""
+      "ja": "平次の洞察力"
     },
     "cardType": "event",
     "colors": [
@@ -432,8 +417,7 @@
     "id": "D02016",
     "setId": "CT-D02",
     "name": {
-      "ja": "そして人魚はいなくなった",
-      "ko": ""
+      "ja": "そして人魚はいなくなった"
     },
     "cardType": "case",
     "colors": [

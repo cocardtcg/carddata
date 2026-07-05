@@ -3,8 +3,7 @@
     "id": "D06001",
     "setId": "CT-D06",
     "name": {
-      "ja": "服部平次",
-      "ko": ""
+      "ja": "服部平次"
     },
     "cardType": "partner",
     "colors": [
@@ -26,8 +25,7 @@
     "id": "D06002",
     "setId": "CT-D06",
     "name": {
-      "ja": "怪盗キッド",
-      "ko": ""
+      "ja": "怪盗キッド"
     },
     "cardType": "partner",
     "colors": [
@@ -49,8 +47,7 @@
     "id": "D06003",
     "setId": "CT-D06",
     "name": {
-      "ja": "服部平次",
-      "ko": ""
+      "ja": "服部平次"
     },
     "cardType": "character",
     "colors": [
@@ -77,8 +74,7 @@
     "id": "D06004",
     "setId": "CT-D06",
     "name": {
-      "ja": "服部平次",
-      "ko": ""
+      "ja": "服部平次"
     },
     "cardType": "character",
     "colors": [
@@ -105,8 +101,7 @@
     "id": "D06005",
     "setId": "CT-D06",
     "name": {
-      "ja": "服部平次",
-      "ko": ""
+      "ja": "服部平次"
     },
     "cardType": "character",
     "colors": [
@@ -133,8 +128,7 @@
     "id": "D06006",
     "setId": "CT-D06",
     "name": {
-      "ja": "遠山和葉",
-      "ko": ""
+      "ja": "遠山和葉"
     },
     "cardType": "character",
     "colors": [
@@ -160,8 +154,7 @@
     "id": "D06007",
     "setId": "CT-D06",
     "name": {
-      "ja": "遠山和葉",
-      "ko": ""
+      "ja": "遠山和葉"
     },
     "cardType": "character",
     "colors": [
@@ -174,7 +167,7 @@
         "type": "keyword",
         "keyword": "カットイン",
         "keywordKo": "컷인",
-        "textJa": "【カットイン】AP＋2000（コンタクト中に手札からリムーブして使う）"
+        "textJa": "AP＋2000（コンタクト中に手札からリムーブして使う）"
       }
     ],
     "imageId": "1718844176811176",
@@ -189,8 +182,7 @@
     "id": "D06008",
     "setId": "CT-D06",
     "name": {
-      "ja": "伊織無我",
-      "ko": ""
+      "ja": "伊織無我"
     },
     "cardType": "character",
     "colors": [
@@ -203,7 +195,7 @@
         "type": "keyword",
         "keyword": "カットイン",
         "keywordKo": "컷인",
-        "textJa": "【カットイン】AP＋1000（コンタクト中に手札からリムーブして使う）"
+        "textJa": "AP＋1000（コンタクト中に手札からリムーブして使う）"
       }
     ],
     "imageId": "1718844176814318",
@@ -218,8 +210,7 @@
     "id": "D06009",
     "setId": "CT-D06",
     "name": {
-      "ja": "大滝悟郎",
-      "ko": ""
+      "ja": "大滝悟郎"
     },
     "cardType": "character",
     "colors": [
@@ -236,7 +227,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。"
+        "textJa": "（証拠からリムーブされるときに発動する）カードを1枚引く。"
       }
     ],
     "imageId": "1718844176817683",
@@ -252,8 +243,7 @@
     "id": "D06010",
     "setId": "CT-D06",
     "name": {
-      "ja": "怪盗キッド",
-      "ko": ""
+      "ja": "怪盗キッド"
     },
     "cardType": "character",
     "colors": [
@@ -279,8 +269,7 @@
     "id": "D06011",
     "setId": "CT-D06",
     "name": {
-      "ja": "怪盗キッド",
-      "ko": ""
+      "ja": "怪盗キッド"
     },
     "cardType": "character",
     "colors": [
@@ -306,8 +295,7 @@
     "id": "D06012",
     "setId": "CT-D06",
     "name": {
-      "ja": "怪盗キッド",
-      "ko": ""
+      "ja": "怪盗キッド"
     },
     "cardType": "character",
     "colors": [
@@ -320,13 +308,13 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）キャラを1枚まで選び、スリープさせる。"
+        "textJa": "（証拠からリムーブされるときに発動する）キャラを1枚まで選び、スリープさせる。"
       },
       {
         "type": "keyword",
         "keyword": "変装",
         "keywordKo": "변장",
-        "textJa": "【変装】【事件白】【FILE5】（コンタクト中のキャラと入れ替わって手札から出る。入れ替わったキャラはデッキの下に移す）"
+        "textJa": "【事件白】【FILE5】（コンタクト中のキャラと入れ替わって手札から出る。入れ替わったキャラはデッキの下に移す）"
       }
     ],
     "imageId": "1718844176830680",
@@ -341,8 +329,7 @@
     "id": "D06013",
     "setId": "CT-D06",
     "name": {
-      "ja": "白馬探",
-      "ko": ""
+      "ja": "白馬探"
     },
     "cardType": "character",
     "colors": [
@@ -369,8 +356,7 @@
     "id": "D06014",
     "setId": "CT-D06",
     "name": {
-      "ja": "中森青子",
-      "ko": ""
+      "ja": "中森青子"
     },
     "cardType": "character",
     "colors": [
@@ -383,7 +369,7 @@
         "type": "keyword",
         "keyword": "カットイン",
         "keywordKo": "컷인",
-        "textJa": "【カットイン】AP＋2000（コンタクト中に手札からリムーブして使う）"
+        "textJa": "AP＋2000（コンタクト中に手札からリムーブして使う）"
       }
     ],
     "imageId": "1718844176836891",
@@ -398,8 +384,7 @@
     "id": "D06015",
     "setId": "CT-D06",
     "name": {
-      "ja": "鈴木園子",
-      "ko": ""
+      "ja": "鈴木園子"
     },
     "cardType": "character",
     "colors": [
@@ -416,7 +401,7 @@
         "type": "keyword",
         "keyword": "カットイン",
         "keywordKo": "컷인",
-        "textJa": "【カットイン】AP＋1000（コンタクト中に手札からリムーブして使う）"
+        "textJa": "AP＋1000（コンタクト中に手札からリムーブして使う）"
       }
     ],
     "imageId": "1718844176839448",
@@ -432,8 +417,7 @@
     "id": "D06016",
     "setId": "CT-D06",
     "name": {
-      "ja": "工藤優作",
-      "ko": ""
+      "ja": "工藤優作"
     },
     "cardType": "character",
     "colors": [
@@ -459,8 +443,7 @@
     "id": "D06017",
     "setId": "CT-D06",
     "name": {
-      "ja": "「オレの和葉に何さらしとんじゃ!!!」",
-      "ko": ""
+      "ja": "「オレの和葉に何さらしとんじゃ!!!」"
     },
     "cardType": "event",
     "colors": [
@@ -477,7 +460,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）キャラを1枚まで選び、スリープさせる。"
+        "textJa": "（証拠からリムーブされるときに発動する）キャラを1枚まで選び、スリープさせる。"
       }
     ],
     "imageId": "1718844195430901",
@@ -487,8 +470,7 @@
     "id": "D06018",
     "setId": "CT-D06",
     "name": {
-      "ja": "レッドヘリング",
-      "ko": ""
+      "ja": "レッドヘリング"
     },
     "cardType": "event",
     "colors": [
@@ -509,8 +491,7 @@
     "id": "D06019",
     "setId": "CT-D06",
     "name": {
-      "ja": "妖精の唇",
-      "ko": ""
+      "ja": "妖精の唇"
     },
     "cardType": "case",
     "colors": [
@@ -532,8 +513,7 @@
     "id": "D06020",
     "setId": "CT-D06",
     "name": {
-      "ja": "妖精の唇",
-      "ko": ""
+      "ja": "妖精の唇"
     },
     "cardType": "case",
     "colors": [
@@ -555,8 +535,7 @@
     "id": "D06021",
     "setId": "CT-D06",
     "name": {
-      "ja": "服部平次",
-      "ko": ""
+      "ja": "服部平次"
     },
     "cardType": "character",
     "colors": [
@@ -583,8 +562,7 @@
     "id": "D06022",
     "setId": "CT-D06",
     "name": {
-      "ja": "怪盗キッド",
-      "ko": ""
+      "ja": "怪盗キッド"
     },
     "cardType": "character",
     "colors": [
@@ -610,8 +588,7 @@
     "id": "D06023",
     "setId": "CT-D06",
     "name": {
-      "ja": "服部平次",
-      "ko": ""
+      "ja": "服部平次"
     },
     "cardType": "character",
     "colors": [
@@ -638,8 +615,7 @@
     "id": "D06024",
     "setId": "CT-D06",
     "name": {
-      "ja": "怪盗キッド",
-      "ko": ""
+      "ja": "怪盗キッド"
     },
     "cardType": "character",
     "colors": [

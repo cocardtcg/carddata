@@ -3,8 +3,7 @@
     "id": "D04001",
     "setId": "CT-D04",
     "name": {
-      "ja": "赤井秀一",
-      "ko": ""
+      "ja": "赤井秀一"
     },
     "cardType": "partner",
     "colors": [
@@ -26,8 +25,7 @@
     "id": "D04002",
     "setId": "CT-D04",
     "name": {
-      "ja": "赤井秀一",
-      "ko": ""
+      "ja": "赤井秀一"
     },
     "cardType": "character",
     "colors": [
@@ -54,8 +52,7 @@
     "id": "D04003",
     "setId": "CT-D04",
     "name": {
-      "ja": "赤井秀一",
-      "ko": ""
+      "ja": "赤井秀一"
     },
     "cardType": "character",
     "colors": [
@@ -82,8 +79,7 @@
     "id": "D04004",
     "setId": "CT-D04",
     "name": {
-      "ja": "赤井秀一",
-      "ko": ""
+      "ja": "赤井秀一"
     },
     "cardType": "character",
     "colors": [
@@ -100,7 +96,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。"
+        "textJa": "（証拠からリムーブされるときに発動する）カードを1枚引く。"
       }
     ],
     "imageId": "1714013132385566",
@@ -116,8 +112,7 @@
     "id": "D04005",
     "setId": "CT-D04",
     "name": {
-      "ja": "世良真純",
-      "ko": ""
+      "ja": "世良真純"
     },
     "cardType": "character",
     "colors": [
@@ -134,7 +129,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。"
+        "textJa": "（証拠からリムーブされるときに発動する）カードを1枚引く。"
       }
     ],
     "imageId": "1714013132388746",
@@ -151,8 +146,7 @@
     "id": "D04006",
     "setId": "CT-D04",
     "name": {
-      "ja": "羽田秀𠮷",
-      "ko": ""
+      "ja": "羽田秀𠮷"
     },
     "cardType": "character",
     "colors": [
@@ -165,7 +159,7 @@
         "type": "keyword",
         "keyword": "カットイン",
         "keywordKo": "컷인",
-        "textJa": "【カットイン】AP＋2000（コンタクト中に手札からリムーブして使う）"
+        "textJa": "AP＋2000（コンタクト中に手札からリムーブして使う）"
       }
     ],
     "imageId": "1714013132391355",
@@ -181,8 +175,7 @@
     "id": "D04007",
     "setId": "CT-D04",
     "name": {
-      "ja": "メアリー",
-      "ko": ""
+      "ja": "メアリー"
     },
     "cardType": "character",
     "colors": [
@@ -208,8 +201,7 @@
     "id": "D04008",
     "setId": "CT-D04",
     "name": {
-      "ja": "世良真純",
-      "ko": ""
+      "ja": "世良真純"
     },
     "cardType": "character",
     "colors": [
@@ -226,7 +218,7 @@
         "type": "keyword",
         "keyword": "カットイン",
         "keywordKo": "컷인",
-        "textJa": "【カットイン】AP＋1000（コンタクト中に手札からリムーブして使う）"
+        "textJa": "AP＋1000（コンタクト中に手札からリムーブして使う）"
       }
     ],
     "imageId": "1714013132396448",
@@ -243,8 +235,7 @@
     "id": "D04009",
     "setId": "CT-D04",
     "name": {
-      "ja": "本堂瑛海",
-      "ko": ""
+      "ja": "本堂瑛海"
     },
     "cardType": "character",
     "colors": [
@@ -257,7 +248,7 @@
         "type": "keyword",
         "keyword": "カットイン",
         "keywordKo": "컷인",
-        "textJa": "【カットイン】AP＋2000（コンタクト中に手札からリムーブして使う）"
+        "textJa": "AP＋2000（コンタクト中に手札からリムーブして使う）"
       }
     ],
     "imageId": "1714013132399068",
@@ -272,8 +263,7 @@
     "id": "D04010",
     "setId": "CT-D04",
     "name": {
-      "ja": "ジョディ・スターリング",
-      "ko": ""
+      "ja": "ジョディ・スターリング"
     },
     "cardType": "character",
     "colors": [
@@ -290,7 +280,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）キャラを1枚まで選び、スリープさせる。"
+        "textJa": "（証拠からリムーブされるときに発動する）キャラを1枚まで選び、スリープさせる。"
       }
     ],
     "imageId": "1714013132402737",
@@ -305,8 +295,7 @@
     "id": "D04011",
     "setId": "CT-D04",
     "name": {
-      "ja": "ジョディ・スターリング",
-      "ko": ""
+      "ja": "ジョディ・スターリング"
     },
     "cardType": "character",
     "colors": [
@@ -323,7 +312,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。"
+        "textJa": "（証拠からリムーブされるときに発動する）カードを1枚引く。"
       }
     ],
     "imageId": "1714013132405530",
@@ -338,8 +327,7 @@
     "id": "D04012",
     "setId": "CT-D04",
     "name": {
-      "ja": "ジェイムズ・ブラック",
-      "ko": ""
+      "ja": "ジェイムズ・ブラック"
     },
     "cardType": "character",
     "colors": [
@@ -352,7 +340,7 @@
         "type": "keyword",
         "keyword": "カットイン",
         "keywordKo": "컷인",
-        "textJa": "【カットイン】AP＋1000（コンタクト中に手札からリムーブして使う）"
+        "textJa": "AP＋1000（コンタクト中に手札からリムーブして使う）"
       }
     ],
     "imageId": "1714013132407246",
@@ -367,8 +355,7 @@
     "id": "D04013",
     "setId": "CT-D04",
     "name": {
-      "ja": "アンドレ・キャメル",
-      "ko": ""
+      "ja": "アンドレ・キャメル"
     },
     "cardType": "character",
     "colors": [
@@ -394,8 +381,7 @@
     "id": "D04014",
     "setId": "CT-D04",
     "name": {
-      "ja": "謎めいた乗客",
-      "ko": ""
+      "ja": "謎めいた乗客"
     },
     "cardType": "event",
     "colors": [
@@ -416,8 +402,7 @@
     "id": "D04015",
     "setId": "CT-D04",
     "name": {
-      "ja": "赤井の射撃",
-      "ko": ""
+      "ja": "赤井の射撃"
     },
     "cardType": "event",
     "colors": [
@@ -438,8 +423,7 @@
     "id": "D04016",
     "setId": "CT-D04",
     "name": {
-      "ja": "緋色の帰還",
-      "ko": ""
+      "ja": "緋色の帰還"
     },
     "cardType": "case",
     "colors": [

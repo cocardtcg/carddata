@@ -8000,5 +8000,133 @@
     ],
     "ap": 1000,
     "lp": 1
+  },
+  {
+    "id": "PR277",
+    "setId": "PR",
+    "name": {
+      "ja": "萩原千速"
+    },
+    "cardType": "character",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "PR",
+    "cost": 5,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "【パートナー黄】【解決編】〚迅速〛（名乗り状態でも推理かアクションできる）"
+      }
+    ],
+    "imageId": "1782441097676450",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "警察",
+      "神奈川県警"
+    ],
+    "ap": 5000,
+    "lp": 0
+  },
+  {
+    "id": "PR278",
+    "setId": "PR",
+    "name": {
+      "ja": "萩原千速"
+    },
+    "cardType": "character",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "PR",
+    "cost": 2,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "keywordKo": "컷인",
+        "textJa": "【カットイン】【パートナー黄】AP＋1000、〚特徴［警察］〛のキャラに【カットイン】した場合、カードを1枚引く。（コンタクト中に手札からリムーブして使う）"
+      }
+    ],
+    "imageId": "1782441097692224",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "警察",
+      "神奈川県警"
+    ],
+    "ap": 1000,
+    "lp": 1
+  },
+  {
+    "id": "PR302",
+    "setId": "PR",
+    "name": {
+      "ja": "TVアニメ「名探偵コナン」放送30周年！"
+    },
+    "cardType": "case",
+    "colors": [
+      "blue"
+    ],
+    "rarity": "PR",
+    "cost": 0,
+    "abilities": [],
+    "imageId": "1782441097699935",
+    "restrictedCount": 3
+  },
+  {
+    "id": "PR303",
+    "setId": "PR",
+    "name": {
+      "ja": "黒羽快斗"
+    },
+    "cardType": "character",
+    "colors": [
+      "white"
+    ],
+    "rarity": "PR",
+    "cost": 2,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "keywordKo": "컷인",
+        "textJa": "【カットイン】AP＋2000（コンタクト中に手札からリムーブして使う）"
+      }
+    ],
+    "imageId": "1782441097707783",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "高校生",
+      "マジシャン"
+    ],
+    "ap": 1000,
+    "lp": 1
+  },
+  {
+    "id": "PR304",
+    "setId": "PR",
+    "name": {
+      "ja": "松田陣平"
+    },
+    "cardType": "character",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "PR",
+    "cost": 6,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "このキャラは相手の現場にいるレベル7以上のアクティブ状態のキャラを指定してアクションできる。\r 【パートナー黄】〚突撃〛（名乗り状態でもアクションできる）\r 【自分ターン中】【ターン1】このキャラが、このキャラよりAPの高いキャラとコンタクトしたとき、手札を1枚リムーブしてもよい。そうした場合、そのコンタクト中、このキャラをAP＋3000する。"
+      }
+    ],
+    "imageId": "1782441097714951",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "警察",
+      "警視庁"
+    ],
+    "ap": 5000,
+    "lp": 1
   }
 ]

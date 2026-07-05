@@ -3,8 +3,7 @@
     "id": "B07001",
     "setId": "CT-P07",
     "name": {
-      "ja": "毛利蘭＆灰原哀",
-      "ko": ""
+      "ja": "毛利蘭＆灰原哀"
     },
     "cardType": "character",
     "colors": [
@@ -21,7 +20,7 @@
         "type": "keyword",
         "keyword": "カットイン",
         "keywordKo": "컷인",
-        "textJa": "【カットイン】AP＋2000"
+        "textJa": "AP＋2000"
       }
     ],
     "imageId": "1758249671465789",
@@ -40,8 +39,7 @@
     "id": "B07001P",
     "setId": "CT-P07",
     "name": {
-      "ja": "毛利蘭＆灰原哀",
-      "ko": ""
+      "ja": "毛利蘭＆灰原哀"
     },
     "cardType": "character",
     "colors": [
@@ -58,7 +56,7 @@
         "type": "keyword",
         "keyword": "カットイン",
         "keywordKo": "컷인",
-        "textJa": "【カットイン】AP＋2000"
+        "textJa": "AP＋2000"
       }
     ],
     "imageId": "1763546798151232",
@@ -77,8 +75,7 @@
     "id": "B07001P2",
     "setId": "CT-P07",
     "name": {
-      "ja": "毛利蘭＆灰原哀",
-      "ko": ""
+      "ja": "毛利蘭＆灰原哀"
     },
     "cardType": "character",
     "colors": [
@@ -95,7 +92,7 @@
         "type": "keyword",
         "keyword": "カットイン",
         "keywordKo": "컷인",
-        "textJa": "【カットイン】AP＋2000"
+        "textJa": "AP＋2000"
       }
     ],
     "imageId": "1763789142308211",
@@ -114,8 +111,7 @@
     "id": "B07002",
     "setId": "CT-P07",
     "name": {
-      "ja": "江戸川コナン",
-      "ko": ""
+      "ja": "江戸川コナン"
     },
     "cardType": "character",
     "colors": [
@@ -143,8 +139,7 @@
     "id": "B07002P",
     "setId": "CT-P07",
     "name": {
-      "ja": "江戸川コナン",
-      "ko": ""
+      "ja": "江戸川コナン"
     },
     "cardType": "character",
     "colors": [
@@ -172,8 +167,7 @@
     "id": "B07003",
     "setId": "CT-P07",
     "name": {
-      "ja": "工藤新一",
-      "ko": ""
+      "ja": "工藤新一"
     },
     "cardType": "character",
     "colors": [
@@ -200,8 +194,7 @@
     "id": "B07003P",
     "setId": "CT-P07",
     "name": {
-      "ja": "工藤新一",
-      "ko": ""
+      "ja": "工藤新一"
     },
     "cardType": "character",
     "colors": [
@@ -228,8 +221,7 @@
     "id": "B07004",
     "setId": "CT-P07",
     "name": {
-      "ja": "吉田歩美",
-      "ko": ""
+      "ja": "吉田歩美"
     },
     "cardType": "character",
     "colors": [
@@ -255,8 +247,7 @@
     "id": "B07004P",
     "setId": "CT-P07",
     "name": {
-      "ja": "吉田歩美",
-      "ko": ""
+      "ja": "吉田歩美"
     },
     "cardType": "character",
     "colors": [
@@ -282,8 +273,7 @@
     "id": "B07005",
     "setId": "CT-P07",
     "name": {
-      "ja": "毛利小五郎",
-      "ko": ""
+      "ja": "毛利小五郎"
     },
     "cardType": "character",
     "colors": [
@@ -310,8 +300,7 @@
     "id": "B07006",
     "setId": "CT-P07",
     "name": {
-      "ja": "妃英理",
-      "ko": ""
+      "ja": "妃英理"
     },
     "cardType": "character",
     "colors": [
@@ -324,7 +313,7 @@
         "type": "keyword",
         "keyword": "カットイン",
         "keywordKo": "컷인",
-        "textJa": "【カットイン】AP＋2000（コンタクト中に手札からリムーブして使う）"
+        "textJa": "AP＋2000（コンタクト中に手札からリムーブして使う）"
       }
     ],
     "imageId": "1762413976072550",
@@ -339,8 +328,7 @@
     "id": "B07007",
     "setId": "CT-P07",
     "name": {
-      "ja": "沖野ヨーコ",
-      "ko": ""
+      "ja": "沖野ヨーコ"
     },
     "cardType": "character",
     "colors": [
@@ -366,8 +354,7 @@
     "id": "B07007P",
     "setId": "CT-P07",
     "name": {
-      "ja": "沖野ヨーコ",
-      "ko": ""
+      "ja": "沖野ヨーコ"
     },
     "cardType": "character",
     "colors": [
@@ -393,8 +380,7 @@
     "id": "B07007P2",
     "setId": "CT-P07",
     "name": {
-      "ja": "沖野ヨーコ",
-      "ko": ""
+      "ja": "沖野ヨーコ"
     },
     "cardType": "character",
     "colors": [
@@ -420,8 +406,7 @@
     "id": "B07008",
     "setId": "CT-P07",
     "name": {
-      "ja": "小嶋元太",
-      "ko": ""
+      "ja": "小嶋元太"
     },
     "cardType": "character",
     "colors": [
@@ -447,8 +432,7 @@
     "id": "B07009",
     "setId": "CT-P07",
     "name": {
-      "ja": "小林澄子",
-      "ko": ""
+      "ja": "小林澄子"
     },
     "cardType": "character",
     "colors": [
@@ -461,7 +445,7 @@
         "type": "keyword",
         "keyword": "カットイン",
         "keywordKo": "컷인",
-        "textJa": "【カットイン】AP＋1000、〚カード名［白鳥任三郎］〛か〚特徴［少年探偵団］〛のキャラに【カットイン】した場合、カードを1枚引く。（コンタクト中に手札からリムーブして使う）"
+        "textJa": "AP＋1000、〚カード名［白鳥任三郎］〛か〚特徴［少年探偵団］〛のキャラに【カットイン】した場合、カードを1枚引く。（コンタクト中に手札からリムーブして使う）"
       }
     ],
     "imageId": "1762413976090100",
@@ -476,8 +460,7 @@
     "id": "B07009P",
     "setId": "CT-P07",
     "name": {
-      "ja": "小林澄子",
-      "ko": ""
+      "ja": "小林澄子"
     },
     "cardType": "character",
     "colors": [
@@ -490,7 +473,7 @@
         "type": "keyword",
         "keyword": "カットイン",
         "keywordKo": "컷인",
-        "textJa": "【カットイン】AP＋1000、〚カード名［白鳥任三郎］〛か〚特徴［少年探偵団］〛のキャラに【カットイン】した場合、カードを1枚引く。（コンタクト中に手札からリムーブして使う）"
+        "textJa": "AP＋1000、〚カード名［白鳥任三郎］〛か〚特徴［少年探偵団］〛のキャラに【カットイン】した場合、カードを1枚引く。（コンタクト中に手札からリムーブして使う）"
       }
     ],
     "imageId": "1763546798271108",
@@ -505,8 +488,7 @@
     "id": "B07010",
     "setId": "CT-P07",
     "name": {
-      "ja": "円谷光彦",
-      "ko": ""
+      "ja": "円谷光彦"
     },
     "cardType": "character",
     "colors": [
@@ -532,8 +514,7 @@
     "id": "B07011",
     "setId": "CT-P07",
     "name": {
-      "ja": "福井柚嬉",
-      "ko": ""
+      "ja": "福井柚嬉"
     },
     "cardType": "character",
     "colors": [
@@ -550,7 +531,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】【解決編】自分のリムーブエリアにある〚カード名［毛利小五郎］〛を1枚まで選び、手札に加える。"
+        "textJa": "【解決編】自分のリムーブエリアにある〚カード名［毛利小五郎］〛を1枚まで選び、手札に加える。"
       }
     ],
     "imageId": "1762413976102325",
@@ -565,8 +546,7 @@
     "id": "B07012",
     "setId": "CT-P07",
     "name": {
-      "ja": "本堂瑛祐",
-      "ko": ""
+      "ja": "本堂瑛祐"
     },
     "cardType": "character",
     "colors": [
@@ -583,7 +563,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】自分のリムーブエリアにある【青】以外の色を持つ〚特徴［高校生］〛のキャラを1枚まで選び、手札に加える。"
+        "textJa": "自分のリムーブエリアにある【青】以外の色を持つ〚特徴［高校生］〛のキャラを1枚まで選び、手札に加える。"
       }
     ],
     "imageId": "1762413976107871",
@@ -598,8 +578,7 @@
     "id": "B07012P",
     "setId": "CT-P07",
     "name": {
-      "ja": "本堂瑛祐",
-      "ko": ""
+      "ja": "本堂瑛祐"
     },
     "cardType": "character",
     "colors": [
@@ -616,7 +595,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】自分のリムーブエリアにある【青】以外の色を持つ〚特徴［高校生］〛のキャラを1枚まで選び、手札に加える。"
+        "textJa": "自分のリムーブエリアにある【青】以外の色を持つ〚特徴［高校生］〛のキャラを1枚まで選び、手札に加える。"
       }
     ],
     "imageId": "1763546798279338",
@@ -631,8 +610,7 @@
     "id": "B07013",
     "setId": "CT-P07",
     "name": {
-      "ja": "「今時、予告状を送りつける、レトロな泥棒さんの面をな…」",
-      "ko": ""
+      "ja": "「今時、予告状を送りつける、レトロな泥棒さんの面をな…」"
     },
     "cardType": "event",
     "colors": [
@@ -653,8 +631,7 @@
     "id": "B07014",
     "setId": "CT-P07",
     "name": {
-      "ja": "弁当型携帯FAX",
-      "ko": ""
+      "ja": "弁当型携帯FAX"
     },
     "cardType": "event",
     "colors": [
@@ -678,8 +655,7 @@
     "id": "B07014P",
     "setId": "CT-P07",
     "name": {
-      "ja": "弁当型携帯FAX",
-      "ko": ""
+      "ja": "弁当型携帯FAX"
     },
     "cardType": "event",
     "colors": [
@@ -703,8 +679,7 @@
     "id": "B07015",
     "setId": "CT-P07",
     "name": {
-      "ja": "遠山和葉＆大岡紅葉",
-      "ko": ""
+      "ja": "遠山和葉＆大岡紅葉"
     },
     "cardType": "character",
     "colors": [
@@ -721,7 +696,7 @@
         "type": "keyword",
         "keyword": "カットイン",
         "keywordKo": "컷인",
-        "textJa": "【カットイン】AP＋2000"
+        "textJa": "AP＋2000"
       }
     ],
     "imageId": "1758249671488232",
@@ -736,8 +711,7 @@
     "id": "B07015P",
     "setId": "CT-P07",
     "name": {
-      "ja": "遠山和葉＆大岡紅葉",
-      "ko": ""
+      "ja": "遠山和葉＆大岡紅葉"
     },
     "cardType": "character",
     "colors": [
@@ -754,7 +728,7 @@
         "type": "keyword",
         "keyword": "カットイン",
         "keywordKo": "컷인",
-        "textJa": "【カットイン】AP＋2000"
+        "textJa": "AP＋2000"
       }
     ],
     "imageId": "1763546798295229",
@@ -769,8 +743,7 @@
     "id": "B07016",
     "setId": "CT-P07",
     "name": {
-      "ja": "服部平次",
-      "ko": ""
+      "ja": "服部平次"
     },
     "cardType": "character",
     "colors": [
@@ -797,8 +770,7 @@
     "id": "B07016P",
     "setId": "CT-P07",
     "name": {
-      "ja": "服部平次",
-      "ko": ""
+      "ja": "服部平次"
     },
     "cardType": "character",
     "colors": [
@@ -825,8 +797,7 @@
     "id": "B07016P2",
     "setId": "CT-P07",
     "name": {
-      "ja": "服部平次",
-      "ko": ""
+      "ja": "服部平次"
     },
     "cardType": "character",
     "colors": [
@@ -853,8 +824,7 @@
     "id": "B07017",
     "setId": "CT-P07",
     "name": {
-      "ja": "伊織無我",
-      "ko": ""
+      "ja": "伊織無我"
     },
     "cardType": "character",
     "colors": [
@@ -880,8 +850,7 @@
     "id": "B07017P",
     "setId": "CT-P07",
     "name": {
-      "ja": "伊織無我",
-      "ko": ""
+      "ja": "伊織無我"
     },
     "cardType": "character",
     "colors": [
@@ -907,8 +876,7 @@
     "id": "B07018",
     "setId": "CT-P07",
     "name": {
-      "ja": "越水七槻",
-      "ko": ""
+      "ja": "越水七槻"
     },
     "cardType": "character",
     "colors": [
@@ -934,8 +902,7 @@
     "id": "B07018P",
     "setId": "CT-P07",
     "name": {
-      "ja": "越水七槻",
-      "ko": ""
+      "ja": "越水七槻"
     },
     "cardType": "character",
     "colors": [
@@ -961,8 +928,7 @@
     "id": "B07019",
     "setId": "CT-P07",
     "name": {
-      "ja": "遠山和葉",
-      "ko": ""
+      "ja": "遠山和葉"
     },
     "cardType": "character",
     "colors": [
@@ -988,8 +954,7 @@
     "id": "B07020",
     "setId": "CT-P07",
     "name": {
-      "ja": "綾小路文麿",
-      "ko": ""
+      "ja": "綾小路文麿"
     },
     "cardType": "character",
     "colors": [
@@ -1016,8 +981,7 @@
     "id": "B07020P",
     "setId": "CT-P07",
     "name": {
-      "ja": "綾小路文麿",
-      "ko": ""
+      "ja": "綾小路文麿"
     },
     "cardType": "character",
     "colors": [
@@ -1044,8 +1008,7 @@
     "id": "B07021",
     "setId": "CT-P07",
     "name": {
-      "ja": "マロちゃん",
-      "ko": ""
+      "ja": "マロちゃん"
     },
     "cardType": "character",
     "colors": [
@@ -1071,8 +1034,7 @@
     "id": "B07022",
     "setId": "CT-P07",
     "name": {
-      "ja": "沖田総司",
-      "ko": ""
+      "ja": "沖田総司"
     },
     "cardType": "character",
     "colors": [
@@ -1098,8 +1060,7 @@
     "id": "B07023",
     "setId": "CT-P07",
     "name": {
-      "ja": "光本兵我",
-      "ko": ""
+      "ja": "光本兵我"
     },
     "cardType": "character",
     "colors": [
@@ -1125,8 +1086,7 @@
     "id": "B07023P",
     "setId": "CT-P07",
     "name": {
-      "ja": "光本兵我",
-      "ko": ""
+      "ja": "光本兵我"
     },
     "cardType": "character",
     "colors": [
@@ -1152,8 +1112,7 @@
     "id": "B07024",
     "setId": "CT-P07",
     "name": {
-      "ja": "ハチ",
-      "ko": ""
+      "ja": "ハチ"
     },
     "cardType": "character",
     "colors": [
@@ -1170,7 +1129,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】自分のリムーブエリアにある〚特徴［高校生］〛のキャラを1枚まで選び、手札に加える。"
+        "textJa": "自分のリムーブエリアにある〚特徴［高校生］〛のキャラを1枚まで選び、手札に加える。"
       }
     ],
     "imageId": "1762413994189163",
@@ -1185,8 +1144,7 @@
     "id": "B07025",
     "setId": "CT-P07",
     "name": {
-      "ja": "星河童吾",
-      "ko": ""
+      "ja": "星河童吾"
     },
     "cardType": "character",
     "colors": [
@@ -1212,8 +1170,7 @@
     "id": "B07026",
     "setId": "CT-P07",
     "name": {
-      "ja": "相応しいお方",
-      "ko": ""
+      "ja": "相応しいお方"
     },
     "cardType": "event",
     "colors": [
@@ -1234,8 +1191,7 @@
     "id": "B07026P",
     "setId": "CT-P07",
     "name": {
-      "ja": "相応しいお方",
-      "ko": ""
+      "ja": "相応しいお方"
     },
     "cardType": "event",
     "colors": [
@@ -1256,8 +1212,7 @@
     "id": "B07027",
     "setId": "CT-P07",
     "name": {
-      "ja": "小泉紅子",
-      "ko": ""
+      "ja": "小泉紅子"
     },
     "cardType": "partner",
     "colors": [
@@ -1279,8 +1234,7 @@
     "id": "B07027P",
     "setId": "CT-P07",
     "name": {
-      "ja": "小泉紅子",
-      "ko": ""
+      "ja": "小泉紅子"
     },
     "cardType": "partner",
     "colors": [
@@ -1302,8 +1256,7 @@
     "id": "B07027Sec1",
     "setId": "CT-P07",
     "name": {
-      "ja": "小泉紅子",
-      "ko": ""
+      "ja": "小泉紅子"
     },
     "cardType": "partner",
     "colors": [
@@ -1324,8 +1277,7 @@
     "id": "B07027Sec2",
     "setId": "CT-P07",
     "name": {
-      "ja": "小泉紅子",
-      "ko": ""
+      "ja": "小泉紅子"
     },
     "cardType": "partner",
     "colors": [
@@ -1347,8 +1299,7 @@
     "id": "B07028",
     "setId": "CT-P07",
     "name": {
-      "ja": "中森青子",
-      "ko": ""
+      "ja": "中森青子"
     },
     "cardType": "partner",
     "colors": [
@@ -1370,8 +1321,7 @@
     "id": "B07028P",
     "setId": "CT-P07",
     "name": {
-      "ja": "中森青子",
-      "ko": ""
+      "ja": "中森青子"
     },
     "cardType": "partner",
     "colors": [
@@ -1393,8 +1343,7 @@
     "id": "B07028Sec1",
     "setId": "CT-P07",
     "name": {
-      "ja": "中森青子",
-      "ko": ""
+      "ja": "中森青子"
     },
     "cardType": "partner",
     "colors": [
@@ -1416,8 +1365,7 @@
     "id": "B07028Sec2",
     "setId": "CT-P07",
     "name": {
-      "ja": "中森青子",
-      "ko": ""
+      "ja": "中森青子"
     },
     "cardType": "partner",
     "colors": [
@@ -1439,8 +1387,7 @@
     "id": "B07029",
     "setId": "CT-P07",
     "name": {
-      "ja": "怪盗キッド",
-      "ko": ""
+      "ja": "怪盗キッド"
     },
     "cardType": "partner",
     "colors": [
@@ -1462,8 +1409,7 @@
     "id": "B07029P",
     "setId": "CT-P07",
     "name": {
-      "ja": "怪盗キッド",
-      "ko": ""
+      "ja": "怪盗キッド"
     },
     "cardType": "partner",
     "colors": [
@@ -1485,8 +1431,7 @@
     "id": "B07030",
     "setId": "CT-P07",
     "name": {
-      "ja": "黒羽快斗＆中森青子",
-      "ko": ""
+      "ja": "黒羽快斗＆中森青子"
     },
     "cardType": "character",
     "colors": [
@@ -1503,7 +1448,7 @@
         "type": "keyword",
         "keyword": "カットイン",
         "keywordKo": "컷인",
-        "textJa": "【カットイン】AP＋2000"
+        "textJa": "AP＋2000"
       }
     ],
     "imageId": "1758249671501230",
@@ -1519,8 +1464,7 @@
     "id": "B07030P",
     "setId": "CT-P07",
     "name": {
-      "ja": "黒羽快斗＆中森青子",
-      "ko": ""
+      "ja": "黒羽快斗＆中森青子"
     },
     "cardType": "character",
     "colors": [
@@ -1537,7 +1481,7 @@
         "type": "keyword",
         "keyword": "カットイン",
         "keywordKo": "컷인",
-        "textJa": "【カットイン】AP＋2000"
+        "textJa": "AP＋2000"
       }
     ],
     "imageId": "1763546809849500",
@@ -1553,8 +1497,7 @@
     "id": "B07030P2",
     "setId": "CT-P07",
     "name": {
-      "ja": "黒羽快斗＆中森青子",
-      "ko": ""
+      "ja": "黒羽快斗＆中森青子"
     },
     "cardType": "character",
     "colors": [
@@ -1571,7 +1514,7 @@
         "type": "keyword",
         "keyword": "カットイン",
         "keywordKo": "컷인",
-        "textJa": "【カットイン】AP＋2000"
+        "textJa": "AP＋2000"
       }
     ],
     "imageId": "1763789142316390",
@@ -1587,8 +1530,7 @@
     "id": "B07031",
     "setId": "CT-P07",
     "name": {
-      "ja": "小泉紅子",
-      "ko": ""
+      "ja": "小泉紅子"
     },
     "cardType": "character",
     "colors": [
@@ -1615,8 +1557,7 @@
     "id": "B07031P",
     "setId": "CT-P07",
     "name": {
-      "ja": "小泉紅子",
-      "ko": ""
+      "ja": "小泉紅子"
     },
     "cardType": "character",
     "colors": [
@@ -1643,8 +1584,7 @@
     "id": "B07032",
     "setId": "CT-P07",
     "name": {
-      "ja": "白馬探",
-      "ko": ""
+      "ja": "白馬探"
     },
     "cardType": "character",
     "colors": [
@@ -1671,8 +1611,7 @@
     "id": "B07032P",
     "setId": "CT-P07",
     "name": {
-      "ja": "白馬探",
-      "ko": ""
+      "ja": "白馬探"
     },
     "cardType": "character",
     "colors": [
@@ -1699,8 +1638,7 @@
     "id": "B07033",
     "setId": "CT-P07",
     "name": {
-      "ja": "怪盗キッド",
-      "ko": ""
+      "ja": "怪盗キッド"
     },
     "cardType": "character",
     "colors": [
@@ -1717,7 +1655,7 @@
         "type": "keyword",
         "keyword": "変装",
         "keywordKo": "변장",
-        "textJa": "【変装】【FILE6】（コンタクト中のキャラと入れ替わって手札から出る。入れ替わったキャラはデッキの下に移す）"
+        "textJa": "【FILE6】（コンタクト中のキャラと入れ替わって手札から出る。入れ替わったキャラはデッキの下に移す）"
       }
     ],
     "imageId": "1762413994222260",
@@ -1732,8 +1670,7 @@
     "id": "B07033P",
     "setId": "CT-P07",
     "name": {
-      "ja": "怪盗キッド",
-      "ko": ""
+      "ja": "怪盗キッド"
     },
     "cardType": "character",
     "colors": [
@@ -1750,7 +1687,7 @@
         "type": "keyword",
         "keyword": "変装",
         "keywordKo": "변장",
-        "textJa": "【変装】【FILE6】（コンタクト中のキャラと入れ替わって手札から出る。入れ替わったキャラはデッキの下に移す）"
+        "textJa": "【FILE6】（コンタクト中のキャラと入れ替わって手札から出る。入れ替わったキャラはデッキの下に移す）"
       }
     ],
     "imageId": "1763546809883815",
@@ -1765,8 +1702,7 @@
     "id": "B07033P2",
     "setId": "CT-P07",
     "name": {
-      "ja": "怪盗キッド",
-      "ko": ""
+      "ja": "怪盗キッド"
     },
     "cardType": "character",
     "colors": [
@@ -1783,7 +1719,7 @@
         "type": "keyword",
         "keyword": "変装",
         "keywordKo": "변장",
-        "textJa": "【変装】【FILE6】（コンタクト中のキャラと入れ替わって手札から出る。入れ替わったキャラはデッキの下に移す）"
+        "textJa": "【FILE6】（コンタクト中のキャラと入れ替わって手札から出る。入れ替わったキャラはデッキの下に移す）"
       }
     ],
     "imageId": "1763546809892683",
@@ -1798,8 +1734,7 @@
     "id": "B07034",
     "setId": "CT-P07",
     "name": {
-      "ja": "小泉紅子",
-      "ko": ""
+      "ja": "小泉紅子"
     },
     "cardType": "character",
     "colors": [
@@ -1826,8 +1761,7 @@
     "id": "B07034P",
     "setId": "CT-P07",
     "name": {
-      "ja": "小泉紅子",
-      "ko": ""
+      "ja": "小泉紅子"
     },
     "cardType": "character",
     "colors": [
@@ -1854,8 +1788,7 @@
     "id": "B07035",
     "setId": "CT-P07",
     "name": {
-      "ja": "古畑恵",
-      "ko": ""
+      "ja": "古畑恵"
     },
     "cardType": "character",
     "colors": [
@@ -1881,8 +1814,7 @@
     "id": "B07035P",
     "setId": "CT-P07",
     "name": {
-      "ja": "古畑恵",
-      "ko": ""
+      "ja": "古畑恵"
     },
     "cardType": "character",
     "colors": [
@@ -1908,8 +1840,7 @@
     "id": "B07036",
     "setId": "CT-P07",
     "name": {
-      "ja": "中森青子",
-      "ko": ""
+      "ja": "中森青子"
     },
     "cardType": "character",
     "colors": [
@@ -1935,8 +1866,7 @@
     "id": "B07036P",
     "setId": "CT-P07",
     "name": {
-      "ja": "中森青子",
-      "ko": ""
+      "ja": "中森青子"
     },
     "cardType": "character",
     "colors": [
@@ -1962,8 +1892,7 @@
     "id": "B07037",
     "setId": "CT-P07",
     "name": {
-      "ja": "黒羽快斗",
-      "ko": ""
+      "ja": "黒羽快斗"
     },
     "cardType": "character",
     "colors": [
@@ -1990,8 +1919,7 @@
     "id": "B07038",
     "setId": "CT-P07",
     "name": {
-      "ja": "紅子の執事",
-      "ko": ""
+      "ja": "紅子の執事"
     },
     "cardType": "character",
     "colors": [
@@ -2008,7 +1936,7 @@
         "type": "keyword",
         "keyword": "カットイン",
         "keywordKo": "컷인",
-        "textJa": "【カットイン】AP＋1000（コンタクト中に手札からリムーブして使う）"
+        "textJa": "AP＋1000（コンタクト中に手札からリムーブして使う）"
       }
     ],
     "imageId": "1762413994250288",
@@ -2023,8 +1951,7 @@
     "id": "B07039",
     "setId": "CT-P07",
     "name": {
-      "ja": "アン王女",
-      "ko": ""
+      "ja": "アン王女"
     },
     "cardType": "character",
     "colors": [
@@ -2050,8 +1977,7 @@
     "id": "B07039P",
     "setId": "CT-P07",
     "name": {
-      "ja": "アン王女",
-      "ko": ""
+      "ja": "アン王女"
     },
     "cardType": "character",
     "colors": [
@@ -2077,8 +2003,7 @@
     "id": "B07040",
     "setId": "CT-P07",
     "name": {
-      "ja": "黒羽千影",
-      "ko": ""
+      "ja": "黒羽千影"
     },
     "cardType": "character",
     "colors": [
@@ -2101,8 +2026,7 @@
     "id": "B07041",
     "setId": "CT-P07",
     "name": {
-      "ja": "黒羽盗一",
-      "ko": ""
+      "ja": "黒羽盗一"
     },
     "cardType": "character",
     "colors": [
@@ -2128,8 +2052,7 @@
     "id": "B07041P",
     "setId": "CT-P07",
     "name": {
-      "ja": "黒羽盗一",
-      "ko": ""
+      "ja": "黒羽盗一"
     },
     "cardType": "character",
     "colors": [
@@ -2155,8 +2078,7 @@
     "id": "B07042",
     "setId": "CT-P07",
     "name": {
-      "ja": "式部鹿紫子",
-      "ko": ""
+      "ja": "式部鹿紫子"
     },
     "cardType": "character",
     "colors": [
@@ -2182,8 +2104,7 @@
     "id": "B07043",
     "setId": "CT-P07",
     "name": {
-      "ja": "寺井黄之助",
-      "ko": ""
+      "ja": "寺井黄之助"
     },
     "cardType": "character",
     "colors": [
@@ -2209,8 +2130,7 @@
     "id": "B07044",
     "setId": "CT-P07",
     "name": {
-      "ja": "ジョディ・ホッパー",
-      "ko": ""
+      "ja": "ジョディ・ホッパー"
     },
     "cardType": "character",
     "colors": [
@@ -2227,7 +2147,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。"
+        "textJa": "（証拠からリムーブされるときに発動する）カードを1枚引く。"
       }
     ],
     "imageId": "1762413994288898",
@@ -2242,8 +2162,7 @@
     "id": "B07045",
     "setId": "CT-P07",
     "name": {
-      "ja": "セリザベス女王",
-      "ko": ""
+      "ja": "セリザベス女王"
     },
     "cardType": "character",
     "colors": [
@@ -2269,8 +2188,7 @@
     "id": "B07046",
     "setId": "CT-P07",
     "name": {
-      "ja": "ドロン刑事",
-      "ko": ""
+      "ja": "ドロン刑事"
     },
     "cardType": "character",
     "colors": [
@@ -2296,8 +2214,7 @@
     "id": "B07047",
     "setId": "CT-P07",
     "name": {
-      "ja": "中森銀三",
-      "ko": ""
+      "ja": "中森銀三"
     },
     "cardType": "character",
     "colors": [
@@ -2314,7 +2231,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）キャラを1枚まで選び、スリープさせる。"
+        "textJa": "（証拠からリムーブされるときに発動する）キャラを1枚まで選び、スリープさせる。"
       }
     ],
     "imageId": "1762413994306516",
@@ -2330,8 +2247,7 @@
     "id": "B07047P",
     "setId": "CT-P07",
     "name": {
-      "ja": "中森銀三",
-      "ko": ""
+      "ja": "中森銀三"
     },
     "cardType": "character",
     "colors": [
@@ -2348,7 +2264,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）キャラを1枚まで選び、スリープさせる。"
+        "textJa": "（証拠からリムーブされるときに発動する）キャラを1枚まで選び、スリープさせる。"
       }
     ],
     "imageId": "1763546809941263",
@@ -2364,8 +2280,7 @@
     "id": "B07048",
     "setId": "CT-P07",
     "name": {
-      "ja": "白馬探",
-      "ko": ""
+      "ja": "白馬探"
     },
     "cardType": "character",
     "colors": [
@@ -2392,8 +2307,7 @@
     "id": "B07049",
     "setId": "CT-P07",
     "name": {
-      "ja": "フィリップ王子",
-      "ko": ""
+      "ja": "フィリップ王子"
     },
     "cardType": "character",
     "colors": [
@@ -2419,8 +2333,7 @@
     "id": "B07050",
     "setId": "CT-P07",
     "name": {
-      "ja": "藤江",
-      "ko": ""
+      "ja": "藤江"
     },
     "cardType": "character",
     "colors": [
@@ -2437,7 +2350,7 @@
         "type": "keyword",
         "keyword": "カットイン",
         "keywordKo": "컷인",
-        "textJa": "【カットイン】AP＋1000、〚カード名［小泉紅子］〛のキャラに【カットイン】する場合、代わりにAP＋3000（コンタクト中に手札からリムーブして使う）"
+        "textJa": "AP＋1000、〚カード名［小泉紅子］〛のキャラに【カットイン】する場合、代わりにAP＋3000（コンタクト中に手札からリムーブして使う）"
       }
     ],
     "imageId": "1762414010576370",
@@ -2452,8 +2365,7 @@
     "id": "B07051",
     "setId": "CT-P07",
     "name": {
-      "ja": "桃井恵子",
-      "ko": ""
+      "ja": "桃井恵子"
     },
     "cardType": "character",
     "colors": [
@@ -2479,8 +2391,7 @@
     "id": "B07052",
     "setId": "CT-P07",
     "name": {
-      "ja": "ルシュファー",
-      "ko": ""
+      "ja": "ルシュファー"
     },
     "cardType": "character",
     "colors": [
@@ -2506,8 +2417,7 @@
     "id": "B07053",
     "setId": "CT-P07",
     "name": {
-      "ja": "ロボット黒羽快斗",
-      "ko": ""
+      "ja": "ロボット黒羽快斗"
     },
     "cardType": "character",
     "colors": [
@@ -2533,8 +2443,7 @@
     "id": "B07054",
     "setId": "CT-P07",
     "name": {
-      "ja": "「アイスクリームは……甘いんだぜ!!」　",
-      "ko": ""
+      "ja": "「アイスクリームは……甘いんだぜ!!」　"
     },
     "cardType": "event",
     "colors": [
@@ -2555,8 +2464,7 @@
     "id": "B07054P",
     "setId": "CT-P07",
     "name": {
-      "ja": "「アイスクリームは……甘いんだぜ!!」　",
-      "ko": ""
+      "ja": "「アイスクリームは……甘いんだぜ!!」　"
     },
     "cardType": "event",
     "colors": [
@@ -2577,8 +2485,7 @@
     "id": "B07055",
     "setId": "CT-P07",
     "name": {
-      "ja": "紅の盟約",
-      "ko": ""
+      "ja": "紅の盟約"
     },
     "cardType": "event",
     "colors": [
@@ -2602,8 +2509,7 @@
     "id": "B07055P",
     "setId": "CT-P07",
     "name": {
-      "ja": "紅の盟約",
-      "ko": ""
+      "ja": "紅の盟約"
     },
     "cardType": "event",
     "colors": [
@@ -2627,8 +2533,7 @@
     "id": "B07056",
     "setId": "CT-P07",
     "name": {
-      "ja": "怪盗キッドと中森王女",
-      "ko": ""
+      "ja": "怪盗キッドと中森王女"
     },
     "cardType": "event",
     "colors": [
@@ -2649,8 +2554,7 @@
     "id": "B07056P",
     "setId": "CT-P07",
     "name": {
-      "ja": "怪盗キッドと中森王女",
-      "ko": ""
+      "ja": "怪盗キッドと中森王女"
     },
     "cardType": "event",
     "colors": [
@@ -2671,8 +2575,7 @@
     "id": "B07057",
     "setId": "CT-P07",
     "name": {
-      "ja": "「時価4億円！」",
-      "ko": ""
+      "ja": "「時価4億円！」"
     },
     "cardType": "event",
     "colors": [
@@ -2693,8 +2596,7 @@
     "id": "B07057P",
     "setId": "CT-P07",
     "name": {
-      "ja": "「時価4億円！」",
-      "ko": ""
+      "ja": "「時価4億円！」"
     },
     "cardType": "event",
     "colors": [
@@ -2715,8 +2617,7 @@
     "id": "B07058",
     "setId": "CT-P07",
     "name": {
-      "ja": "「私があなたの心を…盗んであげる…」",
-      "ko": ""
+      "ja": "「私があなたの心を…盗んであげる…」"
     },
     "cardType": "event",
     "colors": [
@@ -2740,8 +2641,7 @@
     "id": "B07058P",
     "setId": "CT-P07",
     "name": {
-      "ja": "「私があなたの心を…盗んであげる…」",
-      "ko": ""
+      "ja": "「私があなたの心を…盗んであげる…」"
     },
     "cardType": "event",
     "colors": [
@@ -2765,8 +2665,7 @@
     "id": "B07059",
     "setId": "CT-P07",
     "name": {
-      "ja": "赤い涙",
-      "ko": ""
+      "ja": "赤い涙"
     },
     "cardType": "event",
     "colors": [
@@ -2783,7 +2682,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）このカードをパートナーエリアに移す。"
+        "textJa": "（証拠からリムーブされるときに発動する）このカードをパートナーエリアに移す。"
       }
     ],
     "imageId": "1762414010617160",
@@ -2796,8 +2695,7 @@
     "id": "B07059P",
     "setId": "CT-P07",
     "name": {
-      "ja": "赤い涙",
-      "ko": ""
+      "ja": "赤い涙"
     },
     "cardType": "event",
     "colors": [
@@ -2814,7 +2712,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）このカードをパートナーエリアに移す。"
+        "textJa": "（証拠からリムーブされるときに発動する）このカードをパートナーエリアに移す。"
       }
     ],
     "imageId": "1763546825628257",
@@ -2827,8 +2725,7 @@
     "id": "B07060",
     "setId": "CT-P07",
     "name": {
-      "ja": "クリスタル・マザー",
-      "ko": ""
+      "ja": "クリスタル・マザー"
     },
     "cardType": "event",
     "colors": [
@@ -2845,7 +2742,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）このカードをパートナーエリアに移す。"
+        "textJa": "（証拠からリムーブされるときに発動する）このカードをパートナーエリアに移す。"
       }
     ],
     "imageId": "1758249671507652",
@@ -2858,8 +2755,7 @@
     "id": "B07060P",
     "setId": "CT-P07",
     "name": {
-      "ja": "クリスタル・マザー",
-      "ko": ""
+      "ja": "クリスタル・マザー"
     },
     "cardType": "event",
     "colors": [
@@ -2876,7 +2772,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）このカードをパートナーエリアに移す。"
+        "textJa": "（証拠からリムーブされるときに発動する）このカードをパートナーエリアに移す。"
       }
     ],
     "imageId": "1763546825649758",
@@ -2889,8 +2785,7 @@
     "id": "B07061",
     "setId": "CT-P07",
     "name": {
-      "ja": "日輪の後光の巻",
-      "ko": ""
+      "ja": "日輪の後光の巻"
     },
     "cardType": "case",
     "colors": [
@@ -2914,8 +2809,7 @@
     "id": "B07061P",
     "setId": "CT-P07",
     "name": {
-      "ja": "日輪の後光の巻",
-      "ko": ""
+      "ja": "日輪の後光の巻"
     },
     "cardType": "case",
     "colors": [
@@ -2939,8 +2833,7 @@
     "id": "B07062",
     "setId": "CT-P07",
     "name": {
-      "ja": "緋色の誘惑の巻",
-      "ko": ""
+      "ja": "緋色の誘惑の巻"
     },
     "cardType": "case",
     "colors": [
@@ -2965,8 +2858,7 @@
     "id": "B07062P",
     "setId": "CT-P07",
     "name": {
-      "ja": "緋色の誘惑の巻",
-      "ko": ""
+      "ja": "緋色の誘惑の巻"
     },
     "cardType": "case",
     "colors": [
@@ -2991,8 +2883,7 @@
     "id": "B07063",
     "setId": "CT-P07",
     "name": {
-      "ja": "鈴木園子",
-      "ko": ""
+      "ja": "鈴木園子"
     },
     "cardType": "character",
     "colors": [
@@ -3019,8 +2910,7 @@
     "id": "B07063P",
     "setId": "CT-P07",
     "name": {
-      "ja": "鈴木園子",
-      "ko": ""
+      "ja": "鈴木園子"
     },
     "cardType": "character",
     "colors": [
@@ -3047,8 +2937,7 @@
     "id": "B07064",
     "setId": "CT-P07",
     "name": {
-      "ja": "ワトソン",
-      "ko": ""
+      "ja": "ワトソン"
     },
     "cardType": "character",
     "colors": [
@@ -3074,8 +2963,7 @@
     "id": "B07065",
     "setId": "CT-P07",
     "name": {
-      "ja": "世良真純＆メアリー",
-      "ko": ""
+      "ja": "世良真純＆メアリー"
     },
     "cardType": "character",
     "colors": [
@@ -3092,7 +2980,7 @@
         "type": "keyword",
         "keyword": "カットイン",
         "keywordKo": "컷인",
-        "textJa": "【カットイン】AP＋2000"
+        "textJa": "AP＋2000"
       }
     ],
     "imageId": "1758249671512059",
@@ -3109,8 +2997,7 @@
     "id": "B07065P",
     "setId": "CT-P07",
     "name": {
-      "ja": "世良真純＆メアリー",
-      "ko": ""
+      "ja": "世良真純＆メアリー"
     },
     "cardType": "character",
     "colors": [
@@ -3127,7 +3014,7 @@
         "type": "keyword",
         "keyword": "カットイン",
         "keywordKo": "컷인",
-        "textJa": "【カットイン】AP＋2000"
+        "textJa": "AP＋2000"
       }
     ],
     "imageId": "1763546825743074",
@@ -3144,8 +3031,7 @@
     "id": "B07066",
     "setId": "CT-P07",
     "name": {
-      "ja": "赤井秀一",
-      "ko": ""
+      "ja": "赤井秀一"
     },
     "cardType": "character",
     "colors": [
@@ -3172,8 +3058,7 @@
     "id": "B07066P",
     "setId": "CT-P07",
     "name": {
-      "ja": "赤井秀一",
-      "ko": ""
+      "ja": "赤井秀一"
     },
     "cardType": "character",
     "colors": [
@@ -3200,8 +3085,7 @@
     "id": "B07067",
     "setId": "CT-P07",
     "name": {
-      "ja": "沖矢昴",
-      "ko": ""
+      "ja": "沖矢昴"
     },
     "cardType": "character",
     "colors": [
@@ -3227,8 +3111,7 @@
     "id": "B07068",
     "setId": "CT-P07",
     "name": {
-      "ja": "羽田秀𠮷",
-      "ko": ""
+      "ja": "羽田秀𠮷"
     },
     "cardType": "character",
     "colors": [
@@ -3245,7 +3128,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。"
+        "textJa": "（証拠からリムーブされるときに発動する）カードを1枚引く。"
       }
     ],
     "imageId": "1762414010653092",
@@ -3261,8 +3144,7 @@
     "id": "B07068P",
     "setId": "CT-P07",
     "name": {
-      "ja": "羽田秀𠮷",
-      "ko": ""
+      "ja": "羽田秀𠮷"
     },
     "cardType": "character",
     "colors": [
@@ -3279,7 +3161,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。"
+        "textJa": "（証拠からリムーブされるときに発動する）カードを1枚引く。"
       }
     ],
     "imageId": "1763546825767441",
@@ -3295,8 +3177,7 @@
     "id": "B07069",
     "setId": "CT-P07",
     "name": {
-      "ja": "本堂瑛海",
-      "ko": ""
+      "ja": "本堂瑛海"
     },
     "cardType": "character",
     "colors": [
@@ -3322,8 +3203,7 @@
     "id": "B07069P",
     "setId": "CT-P07",
     "name": {
-      "ja": "本堂瑛海",
-      "ko": ""
+      "ja": "本堂瑛海"
     },
     "cardType": "character",
     "colors": [
@@ -3349,8 +3229,7 @@
     "id": "B07070",
     "setId": "CT-P07",
     "name": {
-      "ja": "新出智明",
-      "ko": ""
+      "ja": "新出智明"
     },
     "cardType": "character",
     "colors": [
@@ -3367,7 +3246,7 @@
         "type": "keyword",
         "keyword": "カットイン",
         "keywordKo": "컷인",
-        "textJa": "【カットイン】AP＋2000（コンタクト中に手札からリムーブして使う）"
+        "textJa": "AP＋2000（コンタクト中に手札からリムーブして使う）"
       }
     ],
     "imageId": "1762414010664238",
@@ -3382,8 +3261,7 @@
     "id": "B07071",
     "setId": "CT-P07",
     "name": {
-      "ja": "アンドレ・キャメル",
-      "ko": ""
+      "ja": "アンドレ・キャメル"
     },
     "cardType": "character",
     "colors": [
@@ -3409,8 +3287,7 @@
     "id": "B07072",
     "setId": "CT-P07",
     "name": {
-      "ja": "澁谷夏子",
-      "ko": ""
+      "ja": "澁谷夏子"
     },
     "cardType": "character",
     "colors": [
@@ -3436,8 +3313,7 @@
     "id": "B07073",
     "setId": "CT-P07",
     "name": {
-      "ja": "ジェイムズ・ブラック",
-      "ko": ""
+      "ja": "ジェイムズ・ブラック"
     },
     "cardType": "character",
     "colors": [
@@ -3463,8 +3339,7 @@
     "id": "B07073P",
     "setId": "CT-P07",
     "name": {
-      "ja": "ジェイムズ・ブラック",
-      "ko": ""
+      "ja": "ジェイムズ・ブラック"
     },
     "cardType": "character",
     "colors": [
@@ -3490,8 +3365,7 @@
     "id": "B07074",
     "setId": "CT-P07",
     "name": {
-      "ja": "ジョディ・スターリング",
-      "ko": ""
+      "ja": "ジョディ・スターリング"
     },
     "cardType": "character",
     "colors": [
@@ -3517,8 +3391,7 @@
     "id": "B07075",
     "setId": "CT-P07",
     "name": {
-      "ja": "宮野エレーナ",
-      "ko": ""
+      "ja": "宮野エレーナ"
     },
     "cardType": "character",
     "colors": [
@@ -3545,8 +3418,7 @@
     "id": "B07076",
     "setId": "CT-P07",
     "name": {
-      "ja": "「君は思ったより手強いって事がね！」",
-      "ko": ""
+      "ja": "「君は思ったより手強いって事がね！」"
     },
     "cardType": "event",
     "colors": [
@@ -3567,8 +3439,7 @@
     "id": "B07076P",
     "setId": "CT-P07",
     "name": {
-      "ja": "「君は思ったより手強いって事がね！」",
-      "ko": ""
+      "ja": "「君は思ったより手強いって事がね！」"
     },
     "cardType": "event",
     "colors": [
@@ -3589,8 +3460,7 @@
     "id": "B07077",
     "setId": "CT-P07",
     "name": {
-      "ja": "揺れる心",
-      "ko": ""
+      "ja": "揺れる心"
     },
     "cardType": "case",
     "colors": [
@@ -3611,8 +3481,7 @@
     "id": "B07077P",
     "setId": "CT-P07",
     "name": {
-      "ja": "揺れる心",
-      "ko": ""
+      "ja": "揺れる心"
     },
     "cardType": "case",
     "colors": [
@@ -3633,8 +3502,7 @@
     "id": "B07078",
     "setId": "CT-P07",
     "name": {
-      "ja": "目暮みどり",
-      "ko": ""
+      "ja": "目暮みどり"
     },
     "cardType": "partner",
     "colors": [
@@ -3656,8 +3524,7 @@
     "id": "B07078P",
     "setId": "CT-P07",
     "name": {
-      "ja": "目暮みどり",
-      "ko": ""
+      "ja": "目暮みどり"
     },
     "cardType": "partner",
     "colors": [
@@ -3679,8 +3546,7 @@
     "id": "B07079",
     "setId": "CT-P07",
     "name": {
-      "ja": "佐藤美和子＆宮本由美",
-      "ko": ""
+      "ja": "佐藤美和子＆宮本由美"
     },
     "cardType": "character",
     "colors": [
@@ -3697,7 +3563,7 @@
         "type": "keyword",
         "keyword": "カットイン",
         "keywordKo": "컷인",
-        "textJa": "【カットイン】AP＋2000"
+        "textJa": "AP＋2000"
       }
     ],
     "imageId": "1758249671518016",
@@ -3713,8 +3579,7 @@
     "id": "B07079P",
     "setId": "CT-P07",
     "name": {
-      "ja": "佐藤美和子＆宮本由美",
-      "ko": ""
+      "ja": "佐藤美和子＆宮本由美"
     },
     "cardType": "character",
     "colors": [
@@ -3731,7 +3596,7 @@
         "type": "keyword",
         "keyword": "カットイン",
         "keywordKo": "컷인",
-        "textJa": "【カットイン】AP＋2000"
+        "textJa": "AP＋2000"
       }
     ],
     "imageId": "1763546825813428",
@@ -3747,8 +3612,7 @@
     "id": "B07080",
     "setId": "CT-P07",
     "name": {
-      "ja": "風見裕也",
-      "ko": ""
+      "ja": "風見裕也"
     },
     "cardType": "character",
     "colors": [
@@ -3776,8 +3640,7 @@
     "id": "B07080P",
     "setId": "CT-P07",
     "name": {
-      "ja": "風見裕也",
-      "ko": ""
+      "ja": "風見裕也"
     },
     "cardType": "character",
     "colors": [
@@ -3805,8 +3668,7 @@
     "id": "B07081",
     "setId": "CT-P07",
     "name": {
-      "ja": "安室透",
-      "ko": ""
+      "ja": "安室透"
     },
     "cardType": "character",
     "colors": [
@@ -3833,8 +3695,7 @@
     "id": "B07082",
     "setId": "CT-P07",
     "name": {
-      "ja": "高木渉",
-      "ko": ""
+      "ja": "高木渉"
     },
     "cardType": "character",
     "colors": [
@@ -3851,7 +3712,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】キャラを1枚まで選び、スリープさせる。"
+        "textJa": "キャラを1枚まで選び、スリープさせる。"
       }
     ],
     "imageId": "1762414027352093",
@@ -3867,8 +3728,7 @@
     "id": "B07082P",
     "setId": "CT-P07",
     "name": {
-      "ja": "高木渉",
-      "ko": ""
+      "ja": "高木渉"
     },
     "cardType": "character",
     "colors": [
@@ -3885,7 +3745,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】キャラを1枚まで選び、スリープさせる。"
+        "textJa": "キャラを1枚まで選び、スリープさせる。"
       }
     ],
     "imageId": "1763546825828143",
@@ -3901,8 +3761,7 @@
     "id": "B07083",
     "setId": "CT-P07",
     "name": {
-      "ja": "三池苗子",
-      "ko": ""
+      "ja": "三池苗子"
     },
     "cardType": "character",
     "colors": [
@@ -3929,8 +3788,7 @@
     "id": "B07083P",
     "setId": "CT-P07",
     "name": {
-      "ja": "三池苗子",
-      "ko": ""
+      "ja": "三池苗子"
     },
     "cardType": "character",
     "colors": [
@@ -3957,8 +3815,7 @@
     "id": "B07084",
     "setId": "CT-P07",
     "name": {
-      "ja": "千葉和伸",
-      "ko": ""
+      "ja": "千葉和伸"
     },
     "cardType": "character",
     "colors": [
@@ -3975,7 +3832,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】キャラを1枚まで選び、スリープさせる。"
+        "textJa": "キャラを1枚まで選び、スリープさせる。"
       }
     ],
     "imageId": "1762414027383035",
@@ -3991,8 +3848,7 @@
     "id": "B07084P",
     "setId": "CT-P07",
     "name": {
-      "ja": "千葉和伸",
-      "ko": ""
+      "ja": "千葉和伸"
     },
     "cardType": "character",
     "colors": [
@@ -4009,7 +3865,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】キャラを1枚まで選び、スリープさせる。"
+        "textJa": "キャラを1枚まで選び、スリープさせる。"
       }
     ],
     "imageId": "1763546825843775",
@@ -4025,8 +3881,7 @@
     "id": "B07085",
     "setId": "CT-P07",
     "name": {
-      "ja": "榎本梓",
-      "ko": ""
+      "ja": "榎本梓"
     },
     "cardType": "character",
     "colors": [
@@ -4039,7 +3894,7 @@
         "type": "keyword",
         "keyword": "カットイン",
         "keywordKo": "컷인",
-        "textJa": "【カットイン】【自分ターン中】自分の現場にいる〚特徴［喫茶ポアロ］〛のキャラ1枚につき、AP＋1000（自分のターンのコンタクト中に手札からリムーブして使う）"
+        "textJa": "【自分ターン中】自分の現場にいる〚特徴［喫茶ポアロ］〛のキャラ1枚につき、AP＋1000（自分のターンのコンタクト中に手札からリムーブして使う）"
       }
     ],
     "imageId": "1762414027401624",
@@ -4054,8 +3909,7 @@
     "id": "B07086",
     "setId": "CT-P07",
     "name": {
-      "ja": "榎本杉人",
-      "ko": ""
+      "ja": "榎本杉人"
     },
     "cardType": "character",
     "colors": [
@@ -4081,8 +3935,7 @@
     "id": "B07087",
     "setId": "CT-P07",
     "name": {
-      "ja": "白鳥任三郎",
-      "ko": ""
+      "ja": "白鳥任三郎"
     },
     "cardType": "character",
     "colors": [
@@ -4099,7 +3952,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。"
+        "textJa": "（証拠からリムーブされるときに発動する）カードを1枚引く。"
       }
     ],
     "imageId": "1762414027436058",
@@ -4115,8 +3968,7 @@
     "id": "B07087P",
     "setId": "CT-P07",
     "name": {
-      "ja": "白鳥任三郎",
-      "ko": ""
+      "ja": "白鳥任三郎"
     },
     "cardType": "character",
     "colors": [
@@ -4133,7 +3985,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。"
+        "textJa": "（証拠からリムーブされるときに発動する）カードを1枚引く。"
       }
     ],
     "imageId": "1763546825851220",
@@ -4149,8 +4001,7 @@
     "id": "B07088",
     "setId": "CT-P07",
     "name": {
-      "ja": "山村ミサオ",
-      "ko": ""
+      "ja": "山村ミサオ"
     },
     "cardType": "character",
     "colors": [
@@ -4177,8 +4028,7 @@
     "id": "B07089",
     "setId": "CT-P07",
     "name": {
-      "ja": "米原桜子",
-      "ko": ""
+      "ja": "米原桜子"
     },
     "cardType": "character",
     "colors": [
@@ -4204,8 +4054,7 @@
     "id": "B07090",
     "setId": "CT-P07",
     "name": {
-      "ja": "「えええええ!?」",
-      "ko": ""
+      "ja": "「えええええ!?」"
     },
     "cardType": "event",
     "colors": [
@@ -4222,7 +4071,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。"
+        "textJa": "（証拠からリムーブされるときに発動する）カードを1枚引く。"
       }
     ],
     "imageId": "1762414027483318",
@@ -4232,8 +4081,7 @@
     "id": "B07090P",
     "setId": "CT-P07",
     "name": {
-      "ja": "「えええええ!?」",
-      "ko": ""
+      "ja": "「えええええ!?」"
     },
     "cardType": "event",
     "colors": [
@@ -4250,7 +4098,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。"
+        "textJa": "（証拠からリムーブされるときに発動する）カードを1枚引く。"
       }
     ],
     "imageId": "1763546825858229",
@@ -4260,8 +4108,7 @@
     "id": "B07091",
     "setId": "CT-P07",
     "name": {
-      "ja": "閉ざされた秘密",
-      "ko": ""
+      "ja": "閉ざされた秘密"
     },
     "cardType": "case",
     "colors": [
@@ -4282,8 +4129,7 @@
     "id": "B07091P",
     "setId": "CT-P07",
     "name": {
-      "ja": "閉ざされた秘密",
-      "ko": ""
+      "ja": "閉ざされた秘密"
     },
     "cardType": "case",
     "colors": [
@@ -4304,8 +4150,7 @@
     "id": "B07092",
     "setId": "CT-P07",
     "name": {
-      "ja": "ライ",
-      "ko": ""
+      "ja": "ライ"
     },
     "cardType": "partner",
     "colors": [
@@ -4327,8 +4172,7 @@
     "id": "B07092P",
     "setId": "CT-P07",
     "name": {
-      "ja": "ライ",
-      "ko": ""
+      "ja": "ライ"
     },
     "cardType": "partner",
     "colors": [
@@ -4350,8 +4194,7 @@
     "id": "B07093",
     "setId": "CT-P07",
     "name": {
-      "ja": "バーボン＆ライ",
-      "ko": ""
+      "ja": "バーボン＆ライ"
     },
     "cardType": "character",
     "colors": [
@@ -4368,7 +4211,7 @@
         "type": "keyword",
         "keyword": "カットイン",
         "keywordKo": "컷인",
-        "textJa": "【カットイン】AP＋2000"
+        "textJa": "AP＋2000"
       }
     ],
     "imageId": "1758249671523142",
@@ -4383,8 +4226,7 @@
     "id": "B07093P",
     "setId": "CT-P07",
     "name": {
-      "ja": "バーボン＆ライ",
-      "ko": ""
+      "ja": "バーボン＆ライ"
     },
     "cardType": "character",
     "colors": [
@@ -4401,7 +4243,7 @@
         "type": "keyword",
         "keyword": "カットイン",
         "keywordKo": "컷인",
-        "textJa": "【カットイン】AP＋2000"
+        "textJa": "AP＋2000"
       }
     ],
     "imageId": "1763546840464776",
@@ -4416,8 +4258,7 @@
     "id": "B07094",
     "setId": "CT-P07",
     "name": {
-      "ja": "ジン",
-      "ko": ""
+      "ja": "ジン"
     },
     "cardType": "character",
     "colors": [
@@ -4443,8 +4284,7 @@
     "id": "B07094P",
     "setId": "CT-P07",
     "name": {
-      "ja": "ジン",
-      "ko": ""
+      "ja": "ジン"
     },
     "cardType": "character",
     "colors": [
@@ -4470,8 +4310,7 @@
     "id": "B07095",
     "setId": "CT-P07",
     "name": {
-      "ja": "ベルモット",
-      "ko": ""
+      "ja": "ベルモット"
     },
     "cardType": "character",
     "colors": [
@@ -4497,8 +4336,7 @@
     "id": "B07095P",
     "setId": "CT-P07",
     "name": {
-      "ja": "ベルモット",
-      "ko": ""
+      "ja": "ベルモット"
     },
     "cardType": "character",
     "colors": [
@@ -4524,8 +4362,7 @@
     "id": "B07096",
     "setId": "CT-P07",
     "name": {
-      "ja": "ウォッカ",
-      "ko": ""
+      "ja": "ウォッカ"
     },
     "cardType": "character",
     "colors": [
@@ -4542,7 +4379,7 @@
         "type": "keyword",
         "keyword": "カットイン",
         "keywordKo": "컷인",
-        "textJa": "【カットイン】AP＋1000"
+        "textJa": "AP＋1000"
       }
     ],
     "imageId": "1762414027542624",
@@ -4557,8 +4394,7 @@
     "id": "B07097",
     "setId": "CT-P07",
     "name": {
-      "ja": "キール",
-      "ko": ""
+      "ja": "キール"
     },
     "cardType": "character",
     "colors": [
@@ -4575,7 +4411,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】キャラを1枚まで選び、スリープさせる。"
+        "textJa": "キャラを1枚まで選び、スリープさせる。"
       }
     ],
     "imageId": "1762414040850698",
@@ -4590,8 +4426,7 @@
     "id": "B07097P",
     "setId": "CT-P07",
     "name": {
-      "ja": "キール",
-      "ko": ""
+      "ja": "キール"
     },
     "cardType": "character",
     "colors": [
@@ -4608,7 +4443,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】キャラを1枚まで選び、スリープさせる。"
+        "textJa": "キャラを1枚まで選び、スリープさせる。"
       }
     ],
     "imageId": "1763546840488878",
@@ -4623,8 +4458,7 @@
     "id": "B07098",
     "setId": "CT-P07",
     "name": {
-      "ja": "キャンティ",
-      "ko": ""
+      "ja": "キャンティ"
     },
     "cardType": "character",
     "colors": [
@@ -4641,7 +4475,7 @@
         "type": "keyword",
         "keyword": "カットイン",
         "keywordKo": "컷인",
-        "textJa": "【カットイン】AP＋1000"
+        "textJa": "AP＋1000"
       }
     ],
     "imageId": "1762414041015940",
@@ -4656,8 +4490,7 @@
     "id": "B07098P",
     "setId": "CT-P07",
     "name": {
-      "ja": "キャンティ",
-      "ko": ""
+      "ja": "キャンティ"
     },
     "cardType": "character",
     "colors": [
@@ -4674,7 +4507,7 @@
         "type": "keyword",
         "keyword": "カットイン",
         "keywordKo": "컷인",
-        "textJa": "【カットイン】AP＋1000"
+        "textJa": "AP＋1000"
       }
     ],
     "imageId": "1763546840495980",
@@ -4689,8 +4522,7 @@
     "id": "B07099",
     "setId": "CT-P07",
     "name": {
-      "ja": "板倉卓",
-      "ko": ""
+      "ja": "板倉卓"
     },
     "cardType": "character",
     "colors": [
@@ -4707,7 +4539,7 @@
         "type": "keyword",
         "keyword": "ヒラメキ",
         "keywordKo": "히라메키",
-        "textJa": "【ヒラメキ】（証拠からリムーブされるときに発動する）表向きの証拠を1つまで選び、裏向きにする。"
+        "textJa": "（証拠からリムーブされるときに発動する）表向きの証拠を1つまで選び、裏向きにする。"
       }
     ],
     "imageId": "1762414041024843",
@@ -4723,8 +4555,7 @@
     "id": "B07100",
     "setId": "CT-P07",
     "name": {
-      "ja": "コルン",
-      "ko": ""
+      "ja": "コルン"
     },
     "cardType": "character",
     "colors": [
@@ -4750,8 +4581,7 @@
     "id": "B07101",
     "setId": "CT-P07",
     "name": {
-      "ja": "テキーラ",
-      "ko": ""
+      "ja": "テキーラ"
     },
     "cardType": "character",
     "colors": [
@@ -4777,8 +4607,7 @@
     "id": "B07102",
     "setId": "CT-P07",
     "name": {
-      "ja": "犯人",
-      "ko": ""
+      "ja": "犯人"
     },
     "cardType": "character",
     "colors": [
@@ -4804,8 +4633,7 @@
     "id": "B07103",
     "setId": "CT-P07",
     "name": {
-      "ja": "バーボン",
-      "ko": ""
+      "ja": "バーボン"
     },
     "cardType": "character",
     "colors": [
@@ -4831,8 +4659,7 @@
     "id": "B07103P",
     "setId": "CT-P07",
     "name": {
-      "ja": "バーボン",
-      "ko": ""
+      "ja": "バーボン"
     },
     "cardType": "character",
     "colors": [
@@ -4858,8 +4685,7 @@
     "id": "B07104",
     "setId": "CT-P07",
     "name": {
-      "ja": "ミステリーコースター",
-      "ko": ""
+      "ja": "ミステリーコースター"
     },
     "cardType": "event",
     "colors": [
@@ -4880,8 +4706,7 @@
     "id": "B07104P",
     "setId": "CT-P07",
     "name": {
-      "ja": "ミステリーコースター",
-      "ko": ""
+      "ja": "ミステリーコースター"
     },
     "cardType": "event",
     "colors": [
