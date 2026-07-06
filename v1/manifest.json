@@ -1,6 +1,7 @@
 {
-  "version": "2026-07-06-02",
+  "version": "2026-07-06-03",
   "files": {
+    "latestNewCards.json": "543c2f12",
     "nameTable.json": "10765ef4",
     "prOrigin.json": "4dbdc5e1",
     "sets.json": "5ee0d9a4",
