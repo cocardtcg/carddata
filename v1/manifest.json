@@ -1,11 +1,11 @@
 {
-  "version": "2026-07-06-03",
+  "version": "2026-07-16-01",
   "files": {
-    "latestNewCards.json": "543c2f12",
-    "nameTable.json": "10765ef4",
+    "latestNewCards.json": "819b3747",
+    "nameTable.json": "d81b2a23",
     "prOrigin.json": "4dbdc5e1",
-    "sets.json": "5ee0d9a4",
-    "traitTable.json": "069b2f3a",
+    "sets.json": "989e0938",
+    "traitTable.json": "b7c7e442",
     "cards/CT-D01.json": "a53a5a8a",
     "cards/CT-D02.json": "efb29f4a",
     "cards/CT-D03.json": "ba907154",
@@ -26,6 +26,7 @@
     "cards/CT-P07.json": "2bea5901",
     "cards/CT-P08.json": "0f948cbc",
     "cards/CT-P09.json": "aca36db2",
+    "cards/CT-P10.json": "aee41879",
     "cards/PR.json": "04c6970d",
     "translations/CT-D01.json": "f24d624c",
     "translations/CT-D02.json": "98d36a04",
@@ -41,12 +42,13 @@
     "translations/CT-P01.json": "d08a7145",
     "translations/CT-P02.json": "16cce213",
     "translations/CT-P03.json": "ea81731c",
-    "translations/CT-P04.json": "fa3d3fc5",
-    "translations/CT-P05.json": "94967b45",
+    "translations/CT-P04.json": "861fe5be",
+    "translations/CT-P05.json": "44584c55",
     "translations/CT-P06.json": "4e972619",
     "translations/CT-P07.json": "0f45cf32",
     "translations/CT-P08.json": "d7d03cbf",
     "translations/CT-P09.json": "00be6d41",
+    "translations/CT-P10.json": "c29da537",
     "translations/PR.json": "ed93c116"
   }
 }
