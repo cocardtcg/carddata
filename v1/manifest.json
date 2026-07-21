@@ -1,5 +1,5 @@
 {
-  "version": "2026-07-21-01",
+  "version": "2026-07-22-01",
   "files": {
     "cards/CT-D01.json": "a53a5a8a",
     "cards/CT-D02.json": "efb29f4a",
@@ -25,7 +25,7 @@
     "cards/PR.json": "04c6970d",
     "latestNewCards.json": "819b3747",
     "nameTable.json": "014e3245",
-    "prOrigin.json": "e0607e79",
+    "prOrigin.json": "a3283680",
     "sets.json": "989e0938",
     "traitTable.json": "b7c7e442",
     "translations/CT-D01.json": "80ea284f",
