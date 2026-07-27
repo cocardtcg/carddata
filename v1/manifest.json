@@ -1,5 +1,5 @@
 {
-  "version": "2026-07-23-01",
+  "version": "2026-07-27-01",
   "files": {
     "cards/CT-D01.json": "a53a5a8a",
     "cards/CT-D02.json": "efb29f4a",
@@ -45,10 +45,10 @@
     "translations/CT-P04.json": "342c9b53",
     "translations/CT-P05.json": "5cf623e7",
     "translations/CT-P06.json": "85069141",
-    "translations/CT-P07.json": "65bc47de",
-    "translations/CT-P08.json": "eacbf150",
+    "translations/CT-P07.json": "7d9c9c92",
+    "translations/CT-P08.json": "7c3c5129",
     "translations/CT-P09.json": "9ed0edf7",
-    "translations/CT-P10.json": "970f31cd",
+    "translations/CT-P10.json": "38e91437",
     "translations/PR.json": "8bd5bc52"
   }
 }
