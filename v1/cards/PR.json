@@ -8128,5 +8128,452 @@
     ],
     "ap": 5000,
     "lp": 1
+  },
+  {
+    "id": "PR305",
+    "setId": "PR",
+    "name": {
+      "ja": "萩原研二"
+    },
+    "cardType": "character",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "PR",
+    "cost": 7,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "【パートナー黄】〚突撃〛（名乗り状態でもアクションできる）\r 【自分ターン中】自分の現場に〚特徴［警察］〛のキャラが2枚以上いる場合、このキャラをAP＋1000する。\r 【絆松田陣平】【宣言】【ターン1】〚デッキのカードを上から3枚リムーブする〛：自分の現場にいる〚カード名［松田陣平］〛を1枚まで選び、その【ヒラメキ】の効果を発動させてもよい。"
+      }
+    ],
+    "imageId": "1785395500785031",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "警察",
+      "警視庁"
+    ],
+    "ap": 5000,
+    "lp": 1
+  },
+  {
+    "id": "PR306",
+    "setId": "PR",
+    "name": {
+      "ja": "萩原千速"
+    },
+    "cardType": "character",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "PR",
+    "cost": 2,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "keywordKo": "컷인",
+        "textJa": "【カットイン】【パートナー黄】AP＋1000、〚特徴［警察］〛のキャラに【カットイン】した場合、カードを1枚引く。"
+      }
+    ],
+    "imageId": "1785395500805491",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "警察",
+      "神奈川県警"
+    ],
+    "ap": 1000,
+    "lp": 1
+  },
+  {
+    "id": "PR307",
+    "setId": "PR",
+    "name": {
+      "ja": "灰原哀"
+    },
+    "cardType": "character",
+    "colors": [
+      "blue"
+    ],
+    "rarity": "PR",
+    "cost": 7,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "【自分ターン中】AP＋1000\r 【事件青＆黒】【パートナー青】【自分ターン中】【登場時】手札を1枚リムーブし、自分の現場にいるレベル7以上のキャラを1枚スリープさせてもよい。そうした場合、カードを1枚引き、相手の現場にいるキャラを1枚まで選び、このキャラとのコンタクトを発生させる。（このキャラがアクションした側のキャラになる）\r 【相手ターン中】【現場リムーブ時】自分のデッキのカードを上から1枚リムーブしてもよい。"
+      }
+    ],
+    "imageId": "1785395500813858",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "少年探偵団",
+      "科学者"
+    ],
+    "ap": 5000,
+    "lp": 1
+  },
+  {
+    "id": "PR308",
+    "setId": "PR",
+    "name": {
+      "ja": "ジョディ・スターリング"
+    },
+    "cardType": "character",
+    "colors": [
+      "red"
+    ],
+    "rarity": "PR",
+    "cost": 7,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "【パートナー赤】【宣言】【ターン1】【スリープ】〚デッキのカードを上から3枚リムーブする〛：この【宣言】能力のコストによって〚特徴［FBI］〛のキャラが2枚以上リムーブされた場合、レベル7以下のキャラを1枚まで選び、リムーブする。相手の現場にいるキャラを1枚まで選び、ターン終了時までレベル－1する。"
+      }
+    ],
+    "imageId": "1785395500821050",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "FBI"
+    ],
+    "ap": 5000,
+    "lp": 1
+  },
+  {
+    "id": "PR309",
+    "setId": "PR",
+    "name": {
+      "ja": "降谷零"
+    },
+    "cardType": "character",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "PR",
+    "cost": 6,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "【パートナー黄】〚突撃［キャラ］〛（名乗り状態でもアクション［キャラ］できる）\r 【相手ターン中】【現場リムーブ時】自分のデッキのカードを上から1枚見る。それをリムーブエリアに移してもよい。（移さなかった場合、元に戻す）"
+      },
+      {
+        "type": "keyword",
+        "keyword": "ヒラメキ",
+        "keywordKo": "히라메키",
+        "textJa": "【ヒラメキ】【解決編】アクション中のキャラを1枚まで選び、スタンさせる。"
+      }
+    ],
+    "imageId": "1785395500829919",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "警察",
+      "公安"
+    ],
+    "ap": 6000,
+    "lp": 1
+  },
+  {
+    "id": "PR310",
+    "setId": "PR",
+    "name": {
+      "ja": "ベルモット"
+    },
+    "cardType": "character",
+    "colors": [
+      "black"
+    ],
+    "rarity": "PR",
+    "cost": 6,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "〚突撃［キャラ］〛（名乗り状態でもアクション［キャラ］できる）\r 【パートナー黒】【自分ターン中】自分の現場にいるこのキャラが自分の能力や効果によってリムーブされたとき、レベル7以下のスリープ状態のキャラを1枚まで選び、リムーブする。"
+      }
+    ],
+    "imageId": "1785395500844608",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "黒ずくめの組織"
+    ],
+    "ap": 5000,
+    "lp": 1
+  },
+  {
+    "id": "PR311",
+    "setId": "PR",
+    "name": {
+      "ja": "工藤新一"
+    },
+    "cardType": "character",
+    "colors": [
+      "blue"
+    ],
+    "rarity": "PR",
+    "cost": 2,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "keywordKo": "컷인",
+        "textJa": "【カットイン】AP＋2000（コンタクト中に手札からリムーブして使う）"
+      }
+    ],
+    "imageId": "1785395500851338",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "探偵",
+      "高校生"
+    ],
+    "ap": 1000,
+    "lp": 1
+  },
+  {
+    "id": "PR312",
+    "setId": "PR",
+    "name": {
+      "ja": "赤井秀一"
+    },
+    "cardType": "character",
+    "colors": [
+      "red"
+    ],
+    "rarity": "PR",
+    "cost": 2,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "keywordKo": "컷인",
+        "textJa": "【カットイン】AP＋2000（コンタクト中に手札からリムーブして使う）"
+      }
+    ],
+    "imageId": "1785395500859188",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "FBI",
+      "赤井家"
+    ],
+    "ap": 1000,
+    "lp": 1
+  },
+  {
+    "id": "PR313",
+    "setId": "PR",
+    "name": {
+      "ja": "灰原哀"
+    },
+    "cardType": "character",
+    "colors": [
+      "blue"
+    ],
+    "rarity": "PR",
+    "cost": 7,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "【自分ターン中】AP＋1000\r 【事件青＆黒】【パートナー青】【自分ターン中】【登場時】手札を1枚リムーブし、自分の現場にいるレベル7以上のキャラを1枚スリープさせてもよい。そうした場合、カードを1枚引き、相手の現場にいるキャラを1枚まで選び、このキャラとのコンタクトを発生させる。（このキャラがアクションした側のキャラになる）\r 【相手ターン中】【現場リムーブ時】自分のデッキのカードを上から1枚リムーブしてもよい。"
+      }
+    ],
+    "imageId": "1785395500866926",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "少年探偵団",
+      "科学者"
+    ],
+    "ap": 5000,
+    "lp": 1
+  },
+  {
+    "id": "PR314",
+    "setId": "PR",
+    "name": {
+      "ja": "ジョディ・スターリング"
+    },
+    "cardType": "character",
+    "colors": [
+      "red"
+    ],
+    "rarity": "PR",
+    "cost": 7,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "【パートナー赤】【宣言】【ターン1】【スリープ】〚デッキのカードを上から3枚リムーブする〛：この【宣言】能力のコストによって〚特徴［FBI］〛のキャラが2枚以上リムーブされた場合、レベル7以下のキャラを1枚まで選び、リムーブする。相手の現場にいるキャラを1枚まで選び、ターン終了時までレベル－1する。"
+      }
+    ],
+    "imageId": "1785395500873050",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "FBI"
+    ],
+    "ap": 5000,
+    "lp": 1
+  },
+  {
+    "id": "PR315",
+    "setId": "PR",
+    "name": {
+      "ja": "降谷零"
+    },
+    "cardType": "character",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "PR",
+    "cost": 6,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "【パートナー黄】〚突撃［キャラ］〛（名乗り状態でもアクション［キャラ］できる）\r 【相手ターン中】【現場リムーブ時】自分のデッキのカードを上から1枚見る。それをリムーブエリアに移してもよい。（移さなかった場合、元に戻す）"
+      },
+      {
+        "type": "keyword",
+        "keyword": "ヒラメキ",
+        "keywordKo": "히라메키",
+        "textJa": "【ヒラメキ】【解決編】アクション中のキャラを1枚まで選び、スタンさせる。"
+      }
+    ],
+    "imageId": "1785395500881747",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "警察",
+      "公安"
+    ],
+    "ap": 6000,
+    "lp": 1
+  },
+  {
+    "id": "PR316",
+    "setId": "PR",
+    "name": {
+      "ja": "ベルモット"
+    },
+    "cardType": "character",
+    "colors": [
+      "black"
+    ],
+    "rarity": "PR",
+    "cost": 6,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "〚突撃［キャラ］〛（名乗り状態でもアクション［キャラ］できる）\r 【パートナー黒】【自分ターン中】自分の現場にいるこのキャラが自分の能力や効果によってリムーブされたとき、レベル7以下のスリープ状態のキャラを1枚まで選び、リムーブする。"
+      }
+    ],
+    "imageId": "1785395500888965",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "黒ずくめの組織"
+    ],
+    "ap": 5000,
+    "lp": 1
+  },
+  {
+    "id": "PR317",
+    "setId": "PR",
+    "name": {
+      "ja": "工藤新一"
+    },
+    "cardType": "character",
+    "colors": [
+      "blue"
+    ],
+    "rarity": "PR",
+    "cost": 2,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "keywordKo": "컷인",
+        "textJa": "【カットイン】AP＋2000（コンタクト中に手札からリムーブして使う）"
+      }
+    ],
+    "imageId": "1785395500895766",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "探偵",
+      "高校生"
+    ],
+    "ap": 1000,
+    "lp": 1
+  },
+  {
+    "id": "PR318",
+    "setId": "PR",
+    "name": {
+      "ja": "赤井秀一"
+    },
+    "cardType": "character",
+    "colors": [
+      "red"
+    ],
+    "rarity": "PR",
+    "cost": 2,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "keywordKo": "컷인",
+        "textJa": "【カットイン】AP＋2000（コンタクト中に手札からリムーブして使う）"
+      }
+    ],
+    "imageId": "1785395500907050",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "FBI",
+      "赤井家"
+    ],
+    "ap": 1000,
+    "lp": 1
+  },
+  {
+    "id": "PR319",
+    "setId": "PR",
+    "name": {
+      "ja": "世良真純"
+    },
+    "cardType": "character",
+    "colors": [
+      "red"
+    ],
+    "rarity": "PR",
+    "cost": 2,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "keywordKo": "컷인",
+        "textJa": "【カットイン】【パートナー赤】AP＋1000、自分の手札が2枚以下の場合、代わりにAP＋3000"
+      }
+    ],
+    "imageId": "1785395500914679",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "探偵",
+      "高校生",
+      "赤井家"
+    ],
+    "ap": 1000,
+    "lp": 1
+  },
+  {
+    "id": "PR320",
+    "setId": "PR",
+    "name": {
+      "ja": "警察学校の風呂掃除"
+    },
+    "cardType": "case",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "PR",
+    "cost": 0,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "この事件が解決編になったとき、自分は手札を1枚リムーブする。\r 【解決編】【宣言】【ターン1】〚裏向きの証拠を2つ表向きにする〛：自分のデッキのカードを上から2枚見る。その中から〚カード名［降谷零］〛か〚［諸伏景光］〛か〚［伊達航］〛か〚［萩原研二］〛か〚［松田陣平］〛を1枚まで公開して手札に加え、残りをリムーブエリアに移す。この能力は自分の現場に〚カード名［降谷零］〛がいる場合に宣言できる。"
+      }
+    ],
+    "imageId": "1785395500922540",
+    "restrictedCount": 3
   }
 ]
