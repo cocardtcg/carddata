@@ -1,5 +1,5 @@
 {
-  "version": "2026-08-07-02",
+  "version": "2026-08-12-01",
   "files": {
     "cards/CT-D01.json": "a53a5a8a",
     "cards/CT-D02.json": "efb29f4a",
@@ -17,7 +17,7 @@
     "cards/CT-P03.json": "29a6fc79",
     "cards/CT-P04.json": "0d4bc438",
     "cards/CT-P05.json": "72331388",
-    "cards/CT-P06.json": "b3a9b6d3",
+    "cards/CT-P06.json": "6b1083ee",
     "cards/CT-P07.json": "2bea5901",
     "cards/CT-P08.json": "0f948cbc",
     "cards/CT-P09.json": "aca36db2",
@@ -44,7 +44,7 @@
     "translations/CT-P03.json": "5d3fe335",
     "translations/CT-P04.json": "342c9b53",
     "translations/CT-P05.json": "5cf623e7",
-    "translations/CT-P06.json": "85069141",
+    "translations/CT-P06.json": "170e1fce",
     "translations/CT-P07.json": "7d9c9c92",
     "translations/CT-P08.json": "7c3c5129",
     "translations/CT-P09.json": "9ed0edf7",
