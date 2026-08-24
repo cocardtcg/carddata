@@ -1,5 +1,5 @@
 {
-  "version": "2026-08-16-02",
+  "version": "2026-08-24-01",
   "files": {
     "announcements.json": "58e0494c",
     "cards/CT-D01.json": "a53a5a8a",
@@ -48,7 +48,7 @@
     "translations/CT-P06.json": "170e1fce",
     "translations/CT-P07.json": "7d9c9c92",
     "translations/CT-P08.json": "7c3c5129",
-    "translations/CT-P09.json": "9ed0edf7",
+    "translations/CT-P09.json": "5ba57024",
     "translations/CT-P10.json": "73f5ba3b",
     "translations/PR.json": "c0cd5f6d"
   }
