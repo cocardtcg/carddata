@@ -1,7 +1,8 @@
 {
-  "version": "2026-08-24-01",
+  "version": "2026-08-24-02",
   "files": {
-    "announcements.json": "58e0494c",
+    "announcements.json": "35d1a7a6",
+    "announcements/nexthint.png": "d081dc45",
     "cards/CT-D01.json": "a53a5a8a",
     "cards/CT-D02.json": "efb29f4a",
     "cards/CT-D03.json": "ba907154",
