@@ -1,5 +1,5 @@
 {
-  "version": "2026-08-24-05",
+  "version": "2026-08-25-01",
   "files": {
     "announcements.json": "6fb20208",
     "announcements/nexthint.png": "d081dc45",
@@ -24,7 +24,7 @@
     "cards/CT-P08.json": "0f948cbc",
     "cards/CT-P09.json": "aca36db2",
     "cards/CT-P10.json": "aee41879",
-    "cards/PR.json": "b13f615e",
+    "cards/PR.json": "31441003",
     "latestNewCards.json": "4ae2131d",
     "nameTable.json": "ead284c7",
     "prOrigin.json": "6f6aafe3",
