@@ -1,5 +1,5 @@
 {
-  "version": "2026-08-25-01",
+  "version": "2026-09-06-01",
   "files": {
     "announcements.json": "6fb20208",
     "announcements/nexthint.png": "d081dc45",
@@ -48,7 +48,7 @@
     "translations/CT-P05.json": "5cf623e7",
     "translations/CT-P06.json": "170e1fce",
     "translations/CT-P07.json": "7d9c9c92",
-    "translations/CT-P08.json": "7c3c5129",
+    "translations/CT-P08.json": "0bdf3c1a",
     "translations/CT-P09.json": "5ba57024",
     "translations/CT-P10.json": "73f5ba3b",
     "translations/PR.json": "c0cd5f6d"
