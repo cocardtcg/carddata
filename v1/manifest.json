@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-06-01",
+  "version": "2026-09-13-01",
   "files": {
     "announcements.json": "6fb20208",
     "announcements/nexthint.png": "d081dc45",
@@ -21,13 +21,13 @@
     "cards/CT-P05.json": "72331388",
     "cards/CT-P06.json": "6b1083ee",
     "cards/CT-P07.json": "2bea5901",
-    "cards/CT-P08.json": "0f948cbc",
+    "cards/CT-P08.json": "35aec798",
     "cards/CT-P09.json": "aca36db2",
     "cards/CT-P10.json": "aee41879",
-    "cards/PR.json": "31441003",
-    "latestNewCards.json": "4ae2131d",
+    "cards/PR.json": "56cce590",
+    "latestNewCards.json": "0959168b",
     "nameTable.json": "ead284c7",
-    "prOrigin.json": "6f6aafe3",
+    "prOrigin.json": "ea1d997f",
     "sets.json": "989e0938",
     "traitTable.json": "b7c7e442",
     "translations/CT-D01.json": "80ea284f",
@@ -48,9 +48,9 @@
     "translations/CT-P05.json": "5cf623e7",
     "translations/CT-P06.json": "170e1fce",
     "translations/CT-P07.json": "7d9c9c92",
-    "translations/CT-P08.json": "0bdf3c1a",
+    "translations/CT-P08.json": "1865802a",
     "translations/CT-P09.json": "5ba57024",
     "translations/CT-P10.json": "73f5ba3b",
-    "translations/PR.json": "c0cd5f6d"
+    "translations/PR.json": "d7deef2c"
   }
 }
