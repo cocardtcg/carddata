@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-26-02",
+  "version": "2026-09-27-01",
   "files": {
     "announcements.json": "6fb20208",
     "announcements/nexthint.png": "d081dc45",
@@ -25,11 +25,12 @@
     "cards/CT-P09.json": "e7c22ecd",
     "cards/CT-P10.json": "aee41879",
     "cards/PR.json": "f96ba7d4",
-    "cards/SP.json": "c3298735",
-    "latestNewCards.json": "ba0a7d4c",
+    "cards/SP1.json": "c3c678d2",
+    "cards/SP2.json": "b9cc9630",
+    "latestNewCards.json": "d17554e9",
     "nameTable.json": "929a2ccd",
     "prOrigin.json": "dd2b1ced",
-    "sets.json": "3293aa88",
+    "sets.json": "5a8d415b",
     "traitTable.json": "b7c7e442",
     "translations/CT-D01.json": "80ea284f",
     "translations/CT-D02.json": "98d36a04",
@@ -53,6 +54,7 @@
     "translations/CT-P09.json": "5ba57024",
     "translations/CT-P10.json": "73f5ba3b",
     "translations/PR.json": "2f996153",
-    "translations/SP.json": "012e9b3a"
+    "translations/SP1.json": "49e3fbe4",
+    "translations/SP2.json": "be1d635d"
   }
 }

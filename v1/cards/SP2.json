@@ -1,267 +1,7 @@
 [
   {
-    "id": "SP001",
-    "setId": "SP",
-    "name": {
-      "ja": "毛利小五郎"
-    },
-    "cardType": "character",
-    "colors": [
-      "blue"
-    ],
-    "rarity": "SP",
-    "cost": 5,
-    "abilities": [
-      {
-        "type": "basic",
-        "textJa": "【解決編】【登場時】キャラを1枚まで選び、スリープさせる。（自分の事件が解決編になっている場合、この能力か効果を使える）"
-      }
-    ],
-    "imageId": "1789372548764687",
-    "restrictedCount": 3,
-    "traitsJa": [
-      "探偵",
-      "毛利探偵事務所"
-    ],
-    "ap": 6000,
-    "lp": 0
-  },
-  {
-    "id": "SP002",
-    "setId": "SP",
-    "name": {
-      "ja": "諸伏高明"
-    },
-    "cardType": "character",
-    "colors": [
-      "yellow"
-    ],
-    "rarity": "SP",
-    "cost": 7,
-    "abilities": [
-      {
-        "type": "basic",
-        "textJa": "【相手ターン中】【現場リムーブ時】自分のリムーブエリアにあるレベル6以下の〚特徴［長野県警］〛のキャラを1枚まで選び、スリープ状態で登場させる。"
-      }
-    ],
-    "imageId": "1789372548775704",
-    "restrictedCount": 3,
-    "traitsJa": [
-      "警察",
-      "長野県警"
-    ],
-    "ap": 5000,
-    "lp": 2
-  },
-  {
-    "id": "SP003",
-    "setId": "SP",
-    "name": {
-      "ja": "大和敢助"
-    },
-    "cardType": "character",
-    "colors": [
-      "yellow"
-    ],
-    "rarity": "SP",
-    "cost": 6,
-    "abilities": [
-      {
-        "type": "basic",
-        "textJa": "【登場時】自分のリムーブエリアにある〚特徴［長野県警］〛のキャラを1枚選び、デッキの下に移してもよい。そうした場合、カードを1枚引く。"
-      },
-      {
-        "type": "keyword",
-        "keyword": "ヒラメキ",
-        "keywordKo": "히라메키",
-        "textJa": "（証拠からリムーブされるときに発動する）キャラを1枚まで選び、スリープさせる。"
-      }
-    ],
-    "imageId": "1789372548784975",
-    "restrictedCount": 3,
-    "traitsJa": [
-      "警察",
-      "長野県警"
-    ],
-    "ap": 6000,
-    "lp": 1
-  },
-  {
-    "id": "SP004",
-    "setId": "SP",
-    "name": {
-      "ja": "上原由衣"
-    },
-    "cardType": "character",
-    "colors": [
-      "yellow"
-    ],
-    "rarity": "SP",
-    "cost": 5,
-    "abilities": [
-      {
-        "type": "basic",
-        "textJa": "【宣言】【スリープ】〚リムーブエリアに移す〛：〚特徴［長野県警］〛のキャラを1枚まで選び、ターン終了時まで〚迅速〛（登場したターンからすぐに推理かアクションできる）を与える。"
-      },
-      {
-        "type": "keyword",
-        "keyword": "ヒラメキ",
-        "keywordKo": "히라메키",
-        "textJa": "（証拠からリムーブされるときに発動する）カードを1枚引く。"
-      }
-    ],
-    "imageId": "1789372548793108",
-    "restrictedCount": 3,
-    "traitsJa": [
-      "警察",
-      "長野県警"
-    ],
-    "ap": 4000,
-    "lp": 1
-  },
-  {
-    "id": "SP005",
-    "setId": "SP",
-    "name": {
-      "ja": "諸伏高明"
-    },
-    "cardType": "character",
-    "colors": [
-      "yellow"
-    ],
-    "rarity": "SP",
-    "cost": 2,
-    "abilities": [
-      {
-        "type": "keyword",
-        "keyword": "カットイン",
-        "keywordKo": "컷인",
-        "textJa": "AP＋2000（コンタクト中に手札からリムーブして使う）"
-      }
-    ],
-    "imageId": "1789372548802088",
-    "restrictedCount": 3,
-    "traitsJa": [
-      "警察",
-      "長野県警"
-    ],
-    "ap": 1000,
-    "lp": 1
-  },
-  {
-    "id": "SP006",
-    "setId": "SP",
-    "name": {
-      "ja": "大和敢助"
-    },
-    "cardType": "character",
-    "colors": [
-      "yellow"
-    ],
-    "rarity": "SP",
-    "cost": 7,
-    "abilities": [
-      {
-        "type": "basic",
-        "textJa": "【ターン1】このキャラがアクションしたとき、自分のリムーブエリアにあるレベル6以下の〚特徴［長野県警］〛のキャラを1枚まで選び、スリープ状態で登場させる。"
-      }
-    ],
-    "imageId": "1789372548811164",
-    "restrictedCount": 3,
-    "traitsJa": [
-      "警察",
-      "長野県警"
-    ],
-    "ap": 6000,
-    "lp": 1
-  },
-  {
-    "id": "SP007",
-    "setId": "SP",
-    "name": {
-      "ja": "上原由衣"
-    },
-    "cardType": "character",
-    "colors": [
-      "yellow"
-    ],
-    "rarity": "SP",
-    "cost": 2,
-    "abilities": [
-      {
-        "type": "keyword",
-        "keyword": "カットイン",
-        "keywordKo": "컷인",
-        "textJa": "AP＋2000（コンタクト中に手札からリムーブして使う）"
-      }
-    ],
-    "imageId": "1789372548820777",
-    "restrictedCount": 3,
-    "traitsJa": [
-      "警察",
-      "長野県警"
-    ],
-    "ap": 1000,
-    "lp": 1
-  },
-  {
-    "id": "SP008",
-    "setId": "SP",
-    "name": {
-      "ja": "山村ミサオ"
-    },
-    "cardType": "character",
-    "colors": [
-      "yellow"
-    ],
-    "rarity": "SP",
-    "cost": 3,
-    "abilities": [
-      {
-        "type": "basic",
-        "textJa": "〚ミスリード1〛（相手の推理に対し、スリープさせることでLP－1する）"
-      }
-    ],
-    "imageId": "1789372548828958",
-    "restrictedCount": 3,
-    "traitsJa": [
-      "警察",
-      "群馬県警"
-    ],
-    "ap": 3000,
-    "lp": 0
-  },
-  {
-    "id": "SP009",
-    "setId": "SP",
-    "name": {
-      "ja": "諸伏景光"
-    },
-    "cardType": "character",
-    "colors": [
-      "yellow"
-    ],
-    "rarity": "SP",
-    "cost": 5,
-    "abilities": [
-      {
-        "type": "basic",
-        "textJa": "【パートナー黄】【登場時】自分のデッキのカードを上から3枚リムーブしてもよい。これによって〚特徴［警察］〛のキャラがリムーブされた場合、ターン終了時までこのキャラは〚突撃〛（登場したターンからすぐにアクションできる）を持つ。"
-      }
-    ],
-    "imageId": "1789372548837273",
-    "restrictedCount": 3,
-    "traitsJa": [
-      "警察",
-      "警視庁",
-      "公安"
-    ],
-    "ap": 5000,
-    "lp": 1
-  },
-  {
     "id": "SP010",
-    "setId": "SP",
+    "setId": "SP2",
     "name": {
       "ja": "萩原千速"
     },
@@ -288,7 +28,7 @@
   },
   {
     "id": "SP011",
-    "setId": "SP",
+    "setId": "SP2",
     "name": {
       "ja": "松田陣平"
     },
@@ -315,7 +55,7 @@
   },
   {
     "id": "SP012",
-    "setId": "SP",
+    "setId": "SP2",
     "name": {
       "ja": "萩原研二"
     },
@@ -342,7 +82,7 @@
   },
   {
     "id": "SP013",
-    "setId": "SP",
+    "setId": "SP2",
     "name": {
       "ja": "松田陣平"
     },
@@ -375,7 +115,7 @@
   },
   {
     "id": "SP014",
-    "setId": "SP",
+    "setId": "SP2",
     "name": {
       "ja": "萩原研二"
     },
@@ -408,7 +148,7 @@
   },
   {
     "id": "SP015",
-    "setId": "SP",
+    "setId": "SP2",
     "name": {
       "ja": "松田陣平"
     },
@@ -435,7 +175,7 @@
   },
   {
     "id": "SP016",
-    "setId": "SP",
+    "setId": "SP2",
     "name": {
       "ja": "萩原研二"
     },
@@ -462,7 +202,7 @@
   },
   {
     "id": "SP017",
-    "setId": "SP",
+    "setId": "SP2",
     "name": {
       "ja": "松田陣平"
     },
@@ -489,7 +229,7 @@
   },
   {
     "id": "SP018",
-    "setId": "SP",
+    "setId": "SP2",
     "name": {
       "ja": "萩原研二"
     },
@@ -522,7 +262,7 @@
   },
   {
     "id": "SP019",
-    "setId": "SP",
+    "setId": "SP2",
     "name": {
       "ja": "コナン界のかっ飛び女大集合！（笑）"
     },

@@ -38,7 +38,8 @@
   {
     "label": "스페셜",
     "sets": [
-      { "value": "SP", "label": "TCG 이그제큐티브 컬렉션" }
+      { "value": "SP1", "label": "이그제큐티브 컬렉션 1" },
+      { "value": "SP2", "label": "이그제큐티브 컬렉션 2" }
     ]
   },
   {
