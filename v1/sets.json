@@ -36,6 +36,12 @@
     ]
   },
   {
+    "label": "스페셜",
+    "sets": [
+      { "value": "SP", "label": "TCG 이그제큐티브 컬렉션" }
+    ]
+  },
+  {
     "label": "프로모",
     "sets": [
       { "value": "PR", "label": "PR" }

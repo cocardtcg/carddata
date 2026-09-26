@@ -1,0 +1,539 @@
+[
+  {
+    "id": "SP001",
+    "setId": "SP",
+    "name": {
+      "ja": "毛利小五郎"
+    },
+    "cardType": "character",
+    "colors": [
+      "blue"
+    ],
+    "rarity": "SP",
+    "cost": 5,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "【解決編】【登場時】キャラを1枚まで選び、スリープさせる。（自分の事件が解決編になっている場合、この能力か効果を使える）"
+      }
+    ],
+    "imageId": "1789372548764687",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "探偵",
+      "毛利探偵事務所"
+    ],
+    "ap": 6000,
+    "lp": 0
+  },
+  {
+    "id": "SP002",
+    "setId": "SP",
+    "name": {
+      "ja": "諸伏高明"
+    },
+    "cardType": "character",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "SP",
+    "cost": 7,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "【相手ターン中】【現場リムーブ時】自分のリムーブエリアにあるレベル6以下の〚特徴［長野県警］〛のキャラを1枚まで選び、スリープ状態で登場させる。"
+      }
+    ],
+    "imageId": "1789372548775704",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "警察",
+      "長野県警"
+    ],
+    "ap": 5000,
+    "lp": 2
+  },
+  {
+    "id": "SP003",
+    "setId": "SP",
+    "name": {
+      "ja": "大和敢助"
+    },
+    "cardType": "character",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "SP",
+    "cost": 6,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "【登場時】自分のリムーブエリアにある〚特徴［長野県警］〛のキャラを1枚選び、デッキの下に移してもよい。そうした場合、カードを1枚引く。"
+      },
+      {
+        "type": "keyword",
+        "keyword": "ヒラメキ",
+        "keywordKo": "히라메키",
+        "textJa": "（証拠からリムーブされるときに発動する）キャラを1枚まで選び、スリープさせる。"
+      }
+    ],
+    "imageId": "1789372548784975",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "警察",
+      "長野県警"
+    ],
+    "ap": 6000,
+    "lp": 1
+  },
+  {
+    "id": "SP004",
+    "setId": "SP",
+    "name": {
+      "ja": "上原由衣"
+    },
+    "cardType": "character",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "SP",
+    "cost": 5,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "【宣言】【スリープ】〚リムーブエリアに移す〛：〚特徴［長野県警］〛のキャラを1枚まで選び、ターン終了時まで〚迅速〛（登場したターンからすぐに推理かアクションできる）を与える。"
+      },
+      {
+        "type": "keyword",
+        "keyword": "ヒラメキ",
+        "keywordKo": "히라메키",
+        "textJa": "（証拠からリムーブされるときに発動する）カードを1枚引く。"
+      }
+    ],
+    "imageId": "1789372548793108",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "警察",
+      "長野県警"
+    ],
+    "ap": 4000,
+    "lp": 1
+  },
+  {
+    "id": "SP005",
+    "setId": "SP",
+    "name": {
+      "ja": "諸伏高明"
+    },
+    "cardType": "character",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "SP",
+    "cost": 2,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "keywordKo": "컷인",
+        "textJa": "AP＋2000（コンタクト中に手札からリムーブして使う）"
+      }
+    ],
+    "imageId": "1789372548802088",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "警察",
+      "長野県警"
+    ],
+    "ap": 1000,
+    "lp": 1
+  },
+  {
+    "id": "SP006",
+    "setId": "SP",
+    "name": {
+      "ja": "大和敢助"
+    },
+    "cardType": "character",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "SP",
+    "cost": 7,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "【ターン1】このキャラがアクションしたとき、自分のリムーブエリアにあるレベル6以下の〚特徴［長野県警］〛のキャラを1枚まで選び、スリープ状態で登場させる。"
+      }
+    ],
+    "imageId": "1789372548811164",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "警察",
+      "長野県警"
+    ],
+    "ap": 6000,
+    "lp": 1
+  },
+  {
+    "id": "SP007",
+    "setId": "SP",
+    "name": {
+      "ja": "上原由衣"
+    },
+    "cardType": "character",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "SP",
+    "cost": 2,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "keywordKo": "컷인",
+        "textJa": "AP＋2000（コンタクト中に手札からリムーブして使う）"
+      }
+    ],
+    "imageId": "1789372548820777",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "警察",
+      "長野県警"
+    ],
+    "ap": 1000,
+    "lp": 1
+  },
+  {
+    "id": "SP008",
+    "setId": "SP",
+    "name": {
+      "ja": "山村ミサオ"
+    },
+    "cardType": "character",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "SP",
+    "cost": 3,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "〚ミスリード1〛（相手の推理に対し、スリープさせることでLP－1する）"
+      }
+    ],
+    "imageId": "1789372548828958",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "警察",
+      "群馬県警"
+    ],
+    "ap": 3000,
+    "lp": 0
+  },
+  {
+    "id": "SP009",
+    "setId": "SP",
+    "name": {
+      "ja": "諸伏景光"
+    },
+    "cardType": "character",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "SP",
+    "cost": 5,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "【パートナー黄】【登場時】自分のデッキのカードを上から3枚リムーブしてもよい。これによって〚特徴［警察］〛のキャラがリムーブされた場合、ターン終了時までこのキャラは〚突撃〛（登場したターンからすぐにアクションできる）を持つ。"
+      }
+    ],
+    "imageId": "1789372548837273",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "警察",
+      "警視庁",
+      "公安"
+    ],
+    "ap": 5000,
+    "lp": 1
+  },
+  {
+    "id": "SP010",
+    "setId": "SP",
+    "name": {
+      "ja": "萩原千速"
+    },
+    "cardType": "character",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "SP",
+    "cost": 8,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "現場にいるこのキャラは相手のイベントの効果によってリムーブされない。\r 【パートナー黄】〚突撃〛（名乗り状態でもアクションできる）\r 【疾風】相手の裏向きの証拠を1つまで選び、表向きにする。（自分の現場にこのターンで1番に登場したときに発動する）"
+      }
+    ],
+    "imageId": "1789372270036678",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "警察",
+      "神奈川県警"
+    ],
+    "ap": 8000,
+    "lp": 1
+  },
+  {
+    "id": "SP011",
+    "setId": "SP",
+    "name": {
+      "ja": "松田陣平"
+    },
+    "cardType": "character",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "SP",
+    "cost": 4,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "【疾風】カードを1枚引く。（自分の現場にこのターンで1番に登場したときに発動する）\r 【登場時】自分のデッキのカードを上から4枚見る。その中から【疾風】を持つキャラを1枚まで公開して手札に加え、残りを好きな順番でデッキの下に移す。カードを手札に加えた場合、手札を1枚リムーブする。"
+      }
+    ],
+    "imageId": "1789372270044781",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "警察",
+      "警視庁"
+    ],
+    "ap": 3000,
+    "lp": 1
+  },
+  {
+    "id": "SP012",
+    "setId": "SP",
+    "name": {
+      "ja": "萩原研二"
+    },
+    "cardType": "character",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "SP",
+    "cost": 6,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "【解決編】【登場時】自分の現場にいる〚カード名［降谷零］〛か〚［諸伏景光］〛か〚［伊達航］〛か〚［萩原研二］〛か〚［松田陣平］〛を1枚スリープさせてもよい。そうした場合、レベル6以下のスリープ状態のキャラを1枚まで選び、リムーブする。"
+      }
+    ],
+    "imageId": "1789372270051148",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "警察",
+      "警視庁"
+    ],
+    "ap": 5000,
+    "lp": 1
+  },
+  {
+    "id": "SP013",
+    "setId": "SP",
+    "name": {
+      "ja": "松田陣平"
+    },
+    "cardType": "character",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "SP",
+    "cost": 5,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "【解決編】【宣言】【ターン1】〚デッキのカードを上から3枚リムーブする〛：この【宣言】能力のコストによって〚特徴［警察］〛のキャラがリムーブされた場合、自分の現場にいるキャラを1枚まで選び、ターン終了時まで「このキャラは相手の現場にいるアクティブ状態のキャラを指定してアクションできる。」を与える。"
+      },
+      {
+        "type": "keyword",
+        "keyword": "ヒラメキ",
+        "keywordKo": "히라메키",
+        "textJa": "（証拠からリムーブされるときに発動する）自分のリムーブエリアにある〚カード名［佐藤美和子］〛を1枚まで選び、手札に加える。"
+      }
+    ],
+    "imageId": "1789372270059399",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "警察",
+      "警視庁"
+    ],
+    "ap": 5000,
+    "lp": 1
+  },
+  {
+    "id": "SP014",
+    "setId": "SP",
+    "name": {
+      "ja": "萩原研二"
+    },
+    "cardType": "character",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "SP",
+    "cost": 7,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "〚突撃〛（名乗り状態でもアクションできる）\r このキャラがアクションしたとき、自分の裏向きの証拠を1つ選び、表向きにし、相手の裏向きの証拠を1つ選び、表向きにする。（選べる場合、必ず選んで表向きにする）合わせて2つ表向きにした場合、ターン終了時までこのキャラをAP＋1000する。"
+      },
+      {
+        "type": "keyword",
+        "keyword": "ヒラメキ",
+        "keywordKo": "히라메키",
+        "textJa": "相手の裏向きの証拠を1つまで選び、表向きにする。"
+      }
+    ],
+    "imageId": "1789372270067489",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "警察",
+      "警視庁"
+    ],
+    "ap": 6000,
+    "lp": 1
+  },
+  {
+    "id": "SP015",
+    "setId": "SP",
+    "name": {
+      "ja": "松田陣平"
+    },
+    "cardType": "character",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "SP",
+    "cost": 5,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "【宣言】【ターン1】レベル7以下のキャラを1枚まで選び、アクティブにし、AP＋1000し、ターン終了時まで〚突撃〛（登場したターンからすぐにアクションできる）を与える。カードを1枚引く。この能力は自分の現場に〚カード名［降谷零］〛と〚カード名［諸伏景光］〛と〚カード名［伊達航］〛と〚カード名［萩原研二］〛がいる場合に宣言できる。"
+      }
+    ],
+    "imageId": "1789372270074158",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "警察",
+      "警視庁"
+    ],
+    "ap": 5000,
+    "lp": 1
+  },
+  {
+    "id": "SP016",
+    "setId": "SP",
+    "name": {
+      "ja": "萩原研二"
+    },
+    "cardType": "character",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "SP",
+    "cost": 8,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "【宣言】【スリープ】：AP8000以下のキャラを1枚まで選び、リムーブする。この能力は自分の現場に【疾風】を持つキャラがいる場合に宣言できる。\r 【相手ターン中】【現場リムーブ時】自分のデッキのカードを上から3枚見る。その中から【疾風】を持つキャラを1枚まで公開して手札に加え、残りをリムーブエリアに移す。レベル8以上のカードを手札に加えた場合、手札を1枚リムーブする。"
+      }
+    ],
+    "imageId": "1789372270081316",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "警察",
+      "警視庁"
+    ],
+    "ap": 7000,
+    "lp": 2
+  },
+  {
+    "id": "SP017",
+    "setId": "SP",
+    "name": {
+      "ja": "松田陣平"
+    },
+    "cardType": "character",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "SP",
+    "cost": 6,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "このキャラは相手の現場にいるレベル7以上のアクティブ状態のキャラを指定してアクションできる。\r 【パートナー黄】〚突撃〛（名乗り状態でもアクションできる）\r 【自分ターン中】【ターン1】このキャラが、このキャラよりAPの高いキャラとコンタクトしたとき、手札を1枚リムーブしてもよい。そうした場合、そのコンタクト中、このキャラをAP＋3000する。"
+      }
+    ],
+    "imageId": "1789372270089544",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "警察",
+      "警視庁"
+    ],
+    "ap": 5000,
+    "lp": 1
+  },
+  {
+    "id": "SP018",
+    "setId": "SP",
+    "name": {
+      "ja": "萩原研二"
+    },
+    "cardType": "character",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "SP",
+    "cost": 7,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "【パートナー黄】〚突撃［キャラ］〛（名乗り状態でもアクション［キャラ］できる）\r 【疾風】キャラを1枚まで選び、スリープさせる。（自分の現場にこのターンで1番に登場したときに発動する）"
+      },
+      {
+        "type": "keyword",
+        "keyword": "ヒラメキ",
+        "keywordKo": "히라메키",
+        "textJa": "（証拠からリムーブされるときに発動する）キャラを1枚まで選び、スリープさせる。"
+      }
+    ],
+    "imageId": "1789372270097653",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "警察",
+      "警視庁"
+    ],
+    "ap": 6000,
+    "lp": 1
+  },
+  {
+    "id": "SP019",
+    "setId": "SP",
+    "name": {
+      "ja": "コナン界のかっ飛び女大集合！（笑）"
+    },
+    "cardType": "case",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "SP",
+    "cost": 0,
+    "abilities": [],
+    "imageId": "1789372270105138",
+    "restrictedCount": 3
+  }
+]
