@@ -8632,5 +8632,401 @@
     ],
     "ap": 6000,
     "lp": 1
+  },
+  {
+    "id": "PR324",
+    "setId": "PR",
+    "name": {
+      "ja": "三池苗子"
+    },
+    "cardType": "character",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "PR",
+    "cost": 2,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "【疾風】相手の裏向きの証拠を1つまで選び、表向きにする。（自分の現場にこのターンで1番に登場したときに発動する）"
+      },
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "keywordKo": "컷인",
+        "textJa": "【カットイン】【自分ターン中】AP＋2000（自分のターンのコンタクト中に手札からリムーブして使う）"
+      }
+    ],
+    "imageId": "1790763206766786",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "警察",
+      "警視庁"
+    ],
+    "ap": 1000,
+    "lp": 1
+  },
+  {
+    "id": "PR325",
+    "setId": "PR",
+    "name": {
+      "ja": "毛利蘭"
+    },
+    "cardType": "partner",
+    "colors": [
+      "blue"
+    ],
+    "rarity": "PR",
+    "cost": 0,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "【解決編】【事件解決】【スリープ】：自分の証拠が事件レベルの数以上ある場合、ゲームに勝利する。 【アシスト】【スリープ】：FILEエリアに移動する。自分のFILEエリアにカードが7枚以上ある場合、事件を解決編にする。"
+      }
+    ],
+    "imageId": "1790763206778153",
+    "restrictedCount": 3,
+    "lp": 1
+  },
+  {
+    "id": "PR326",
+    "setId": "PR",
+    "name": {
+      "ja": "服部平次"
+    },
+    "cardType": "character",
+    "colors": [
+      "green"
+    ],
+    "rarity": "PR",
+    "cost": 2,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "keywordKo": "컷인",
+        "textJa": "【カットイン】【自分ターン中】AP＋3000（自分のターンのコンタクト中に手札からリムーブして使う）"
+      }
+    ],
+    "imageId": "1790763206785912",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "探偵",
+      "高校生"
+    ],
+    "ap": 1000,
+    "lp": 1
+  },
+  {
+    "id": "PR327",
+    "setId": "PR",
+    "name": {
+      "ja": "遠山和葉"
+    },
+    "cardType": "character",
+    "colors": [
+      "green"
+    ],
+    "rarity": "PR",
+    "cost": 7,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "【事件青＆緑】【パートナー緑】〚突撃［キャラ］〛\r 【ターン1】相手の現場にいるキャラがこのキャラとのコンタクトによってリムーブされたとき、カード名を1つ指定し、相手のFILEエリアにあるカードを上から1枚リムーブし、相手はデッキのカードを上から1枚裏向きのままFILEエリアの上に置く。この効果によって指定したカード名のカードがリムーブされた場合、レベル6のキャラを1枚まで選び、ターン終了時まで〚突撃〛を与える。"
+      }
+    ],
+    "imageId": "1790763206792987",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "高校生"
+    ],
+    "ap": 6000,
+    "lp": 1
+  },
+  {
+    "id": "PR328",
+    "setId": "PR",
+    "name": {
+      "ja": "工藤有希子"
+    },
+    "cardType": "character",
+    "colors": [
+      "white"
+    ],
+    "rarity": "PR",
+    "cost": 8,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "【パートナー白】【自分ターン中】【ターン1】自分の現場に〚カード名［工藤優作］〛が登場したとき、AP8000以下のキャラを1枚まで選び、リムーブする。 【絆工藤優作】【宣言】【ターン1】自分の現場にいる〚カード名［工藤優作］〛を1枚まで選び、ターン終了時まで「このキャラの【絆】は指定のカード名のキャラが自分の現場にいるものとして扱う。」を与える。"
+      }
+    ],
+    "imageId": "1790763206800142",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "女優"
+    ],
+    "ap": 7000,
+    "lp": 2
+  },
+  {
+    "id": "PR329",
+    "setId": "PR",
+    "name": {
+      "ja": "ジェイムズ・ブラック"
+    },
+    "cardType": "character",
+    "colors": [
+      "red"
+    ],
+    "rarity": "PR",
+    "cost": 7,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "【自分ターン中】自分の手札が2枚以下の場合、相手の現場にいるキャラをレベル－1する。 【パートナー赤】【自分ターン中】【登場時】自分の現場にいるレベル7以上の【赤】のキャラを1枚スリープさせてもよい。そうした場合、レベル6以下のキャラを1枚まで選び、リムーブする。"
+      }
+    ],
+    "imageId": "1790763206807652",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "FBI"
+    ],
+    "ap": 5000,
+    "lp": 1
+  },
+  {
+    "id": "PR330",
+    "setId": "PR",
+    "name": {
+      "ja": "「やっとお逢いできましたね…月下の手品師…」"
+    },
+    "cardType": "event",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "PR",
+    "cost": 6,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "【事件白＆黄】レベル7以下のキャラを1枚まで選び、リムーブする。自分の事件が解決編の場合、自分のリムーブエリアにあるレベル2以下のキャラを1枚まで選び、スリープ状態で登場させる。自分のリムーブエリアにある、登場させたキャラと同じカード名のキャラを1枚まで選び、デッキの下に移す。"
+      }
+    ],
+    "imageId": "1790763206814167",
+    "restrictedCount": 3
+  },
+  {
+    "id": "PR331",
+    "setId": "PR",
+    "name": {
+      "ja": "灰原哀"
+    },
+    "cardType": "character",
+    "colors": [
+      "blue"
+    ],
+    "rarity": "PR",
+    "cost": 2,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "keywordKo": "컷인",
+        "textJa": "【カットイン】AP＋2000"
+      }
+    ],
+    "imageId": "1790763206821654",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "少年探偵団",
+      "科学者"
+    ],
+    "ap": 1000,
+    "lp": 1
+  },
+  {
+    "id": "PR332",
+    "setId": "PR",
+    "name": {
+      "ja": "伊織無我"
+    },
+    "cardType": "character",
+    "colors": [
+      "green"
+    ],
+    "rarity": "PR",
+    "cost": 2,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "keywordKo": "컷인",
+        "textJa": "【カットイン】AP＋2000"
+      }
+    ],
+    "imageId": "1790763206828950",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "執事"
+    ],
+    "ap": 1000,
+    "lp": 1
+  },
+  {
+    "id": "PR333",
+    "setId": "PR",
+    "name": {
+      "ja": "遠山和葉"
+    },
+    "cardType": "character",
+    "colors": [
+      "green"
+    ],
+    "rarity": "PR",
+    "cost": 7,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "【事件青＆緑】【パートナー緑】〚突撃［キャラ］〛 【ターン1】相手の現場にいるキャラがこのキャラとのコンタクトによってリムーブされたとき、カード名を1つ指定し、相手のFILEエリアにあるカードを上から1枚リムーブし、相手はデッキのカードを上から1枚裏向きのままFILEエリアの上に置く。この効果によって指定したカード名のカードがリムーブされた場合、レベル6のキャラを1枚まで選び、ターン終了時まで〚突撃〛を与える。"
+      }
+    ],
+    "imageId": "1790763206836475",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "高校生"
+    ],
+    "ap": 6000,
+    "lp": 1
+  },
+  {
+    "id": "PR334",
+    "setId": "PR",
+    "name": {
+      "ja": "工藤有希子"
+    },
+    "cardType": "character",
+    "colors": [
+      "white"
+    ],
+    "rarity": "PR",
+    "cost": 8,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "【パートナー白】【自分ターン中】【ターン1】自分の現場に〚カード名［工藤優作］〛が登場したとき、AP8000以下のキャラを1枚まで選び、リムーブする。 【絆工藤優作】【宣言】【ターン1】自分の現場にいる〚カード名［工藤優作］〛を1枚まで選び、ターン終了時まで「このキャラの【絆】は指定のカード名のキャラが自分の現場にいるものとして扱う。」を与える。"
+      }
+    ],
+    "imageId": "1790763206843181",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "女優"
+    ],
+    "ap": 7000,
+    "lp": 2
+  },
+  {
+    "id": "PR335",
+    "setId": "PR",
+    "name": {
+      "ja": "ジェイムズ・ブラック"
+    },
+    "cardType": "character",
+    "colors": [
+      "red"
+    ],
+    "rarity": "PR",
+    "cost": 7,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "【自分ターン中】自分の手札が2枚以下の場合、相手の現場にいるキャラをレベル－1する。 【パートナー赤】【自分ターン中】【登場時】自分の現場にいるレベル7以上の【赤】のキャラを1枚スリープさせてもよい。そうした場合、レベル6以下のキャラを1枚まで選び、リムーブする。"
+      }
+    ],
+    "imageId": "1790763206850706",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "FBI"
+    ],
+    "ap": 5000,
+    "lp": 1
+  },
+  {
+    "id": "PR336",
+    "setId": "PR",
+    "name": {
+      "ja": "「やっとお逢いできましたね…月下の手品師…」"
+    },
+    "cardType": "event",
+    "colors": [
+      "yellow"
+    ],
+    "rarity": "PR",
+    "cost": 6,
+    "abilities": [
+      {
+        "type": "basic",
+        "textJa": "【事件白＆黄】レベル7以下のキャラを1枚まで選び、リムーブする。自分の事件が解決編の場合、自分のリムーブエリアにあるレベル2以下のキャラを1枚まで選び、スリープ状態で登場させる。自分のリムーブエリアにある、登場させたキャラと同じカード名のキャラを1枚まで選び、デッキの下に移す。"
+      }
+    ],
+    "imageId": "1790763206857110",
+    "restrictedCount": 3
+  },
+  {
+    "id": "PR337",
+    "setId": "PR",
+    "name": {
+      "ja": "灰原哀"
+    },
+    "cardType": "character",
+    "colors": [
+      "blue"
+    ],
+    "rarity": "PR",
+    "cost": 2,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "keywordKo": "컷인",
+        "textJa": "【カットイン】AP＋2000"
+      }
+    ],
+    "imageId": "1790763206864054",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "少年探偵団",
+      "科学者"
+    ],
+    "ap": 1000,
+    "lp": 1
+  },
+  {
+    "id": "PR338",
+    "setId": "PR",
+    "name": {
+      "ja": "伊織無我"
+    },
+    "cardType": "character",
+    "colors": [
+      "green"
+    ],
+    "rarity": "PR",
+    "cost": 2,
+    "abilities": [
+      {
+        "type": "keyword",
+        "keyword": "カットイン",
+        "keywordKo": "컷인",
+        "textJa": "【カットイン】AP＋2000"
+      }
+    ],
+    "imageId": "1790763206871924",
+    "restrictedCount": 3,
+    "traitsJa": [
+      "執事"
+    ],
+    "ap": 1000,
+    "lp": 1
   }
 ]
