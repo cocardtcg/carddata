@@ -1,9 +1,18 @@
 [
   {
-    "id": "the-next-hint-26-v2",
-    "title": "THE NEXT HINT 26 · 2nd STAGE",
-    "description": "하비게임몰 종로점 · 2026.09.05(토)",
-    "imageUrl": "https://cocardtcg.github.io/carddata/v1/announcements/nexthint.png",
-    "endDate": "2026-09-05"
+    "id": "newbie-workshop-1114",
+    "title": "뉴비 강습회 · 명탐정 코난 TCG 무료 강습회",
+    "description": "하비게임몰 종로점 · 2026.11.14(토)",
+    "imageUrl": "https://cocardtcg.github.io/carddata/v1/announcements/workshop-full.jpg",
+    "imageBg": "#070a0c",
+    "endDate": "2026-11-14"
+  },
+  {
+    "id": "genesis-cup-26",
+    "title": "GENESIS CUP 26 · 뉴비 대상 비공식 대회",
+    "description": "하비게임몰 종로점 · 2026.11.14(토)",
+    "imageUrl": "https://cocardtcg.github.io/carddata/v1/announcements/genesis.png",
+    "imageBg": "#070a0c",
+    "endDate": "2026-11-14"
   }
 ]
