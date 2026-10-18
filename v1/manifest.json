@@ -1,8 +1,8 @@
 {
-  "version": "2026-10-15-03",
+  "version": "2026-10-19-01",
   "files": {
-    "announcements.json": "f84d6e5e",
-    "announcements/genesis.png": "af982974",
+    "announcements.json": "e1208e3f",
+    "announcements/genesis.png": "1d681373",
     "announcements/nexthint.png": "d081dc45",
     "announcements/workshop-full.jpg": "ee6d9038",
     "cards/CT-D01.json": "a53a5a8a",

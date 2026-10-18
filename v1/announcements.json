@@ -20,8 +20,8 @@
     "link": "https://tonamel.com/competition/lX2yF?tournament_id=dG91cm5hbWVudC8xNTU5NDg4NTMxMTMzNDcyNzcz",
     "linkLabel": "신청하기",
     "linkEndDate": "2026-10-30",
-    "linkClosedLabel": "현장 접수",
-    "linkClosedStyle": "info",
+    "linkClosedLabel": "신청 마감",
+    "linkClosedStyle": "closed",
     "imageBg": "#070a0c",
     "endDate": "2026-11-14"
   }
