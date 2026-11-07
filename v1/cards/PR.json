@@ -9442,53 +9442,21 @@
     "imageId": "1793167534611534",
     "restrictedCount": 3,
     "sameId": "P093",
-    "lp": 1
-  },
-  {
-    "id": "PR341_2",
-    "setId": "PR",
-    "name": {
-      "ja": "灰原哀"
-    },
-    "cardType": "partner",
-    "colors": [
-      "blue"
-    ],
-    "rarity": "PR",
-    "cost": 0,
-    "abilities": [
+    "lp": 1,
+    "altFaces": [
       {
-        "type": "basic",
-        "textJa": "【解決編】【事件解決】【スリープ】：自分の証拠が事件レベルの数以上ある場合、ゲームに勝利する。\r 【アシスト】【スリープ】：FILEエリアに移動する。自分のFILEエリアにカードが7枚以上ある場合、事件を解決編にする。"
-      }
-    ],
-    "imageId": "1793167534620568",
-    "restrictedCount": 3,
-    "sameId": "P093",
-    "lp": 1
-  },
-  {
-    "id": "PR341_3",
-    "setId": "PR",
-    "name": {
-      "ja": "小さくなった新一"
-    },
-    "cardType": "partner",
-    "colors": [
-      "blue"
-    ],
-    "rarity": "PR",
-    "cost": 0,
-    "abilities": [
+        "name": {
+          "ja": "灰原哀"
+        },
+        "imageId": "1793167534620568"
+      },
       {
-        "type": "basic",
-        "textJa": "【解決編】【事件解決】【スリープ】：自分の証拠が事件レベルの数以上ある場合、ゲームに勝利する。\r 【アシスト】【スリープ】：FILEエリアに移動する。自分のFILEエリアにカードが7枚以上ある場合、事件を解決編にする。"
+        "name": {
+          "ja": "小さくなった新一"
+        },
+        "imageId": "1793167534628294"
       }
-    ],
-    "imageId": "1793167534628294",
-    "restrictedCount": 3,
-    "sameId": "P093",
-    "lp": 1
+    ]
   },
   {
     "id": "PR342_1",
@@ -9511,53 +9479,21 @@
     "imageId": "1793167534637373",
     "restrictedCount": 3,
     "sameId": "P094",
-    "lp": 1
-  },
-  {
-    "id": "PR342_2",
-    "setId": "PR",
-    "name": {
-      "ja": "中森青子"
-    },
-    "cardType": "partner",
-    "colors": [
-      "white"
-    ],
-    "rarity": "PR",
-    "cost": 0,
-    "abilities": [
+    "lp": 1,
+    "altFaces": [
       {
-        "type": "basic",
-        "textJa": "【解決編】【事件解決】【スリープ】：自分の証拠が事件レベルの数以上ある場合、ゲームに勝利する。\r 【アシスト】【スリープ】：FILEエリアに移動する。自分のFILEエリアにカードが7枚以上ある場合、事件を解決編にする。"
-      }
-    ],
-    "imageId": "1793167534645696",
-    "restrictedCount": 3,
-    "sameId": "P094",
-    "lp": 1
-  },
-  {
-    "id": "PR342_3",
-    "setId": "PR",
-    "name": {
-      "ja": "怪盗キッド"
-    },
-    "cardType": "partner",
-    "colors": [
-      "white"
-    ],
-    "rarity": "PR",
-    "cost": 0,
-    "abilities": [
+        "name": {
+          "ja": "中森青子"
+        },
+        "imageId": "1793167534645696"
+      },
       {
-        "type": "basic",
-        "textJa": "【解決編】【事件解決】【スリープ】：自分の証拠が事件レベルの数以上ある場合、ゲームに勝利する。\r 【アシスト】【スリープ】：FILEエリアに移動する。自分のFILEエリアにカードが7枚以上ある場合、事件を解決編にする。"
+        "name": {
+          "ja": "怪盗キッド"
+        },
+        "imageId": "1793167534652687"
       }
-    ],
-    "imageId": "1793167534652687",
-    "restrictedCount": 3,
-    "sameId": "P094",
-    "lp": 1
+    ]
   },
   {
     "id": "PR343",
